@@ -251,6 +251,14 @@ http://190.90.154.73:8080/play/a01t/index.m3u8
 http://190.90.154.73:8080/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Cine" ,HBO 2 HD
 http://190.61.43.118:45000/play/a023
+#EXTINF:-1,HBO Pop
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3937
+#EXTINF:-1,HBO Family HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4181
+#EXTINF:-1,HBO 2 HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4182
+#EXTINF:-1,HBO XTREME HD
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
 #EXTINF:-1 group-title="Cine" ,HBO Family
 http://190.61.43.118:45000/play/a05y
 #EXTINF:-1 group-title="Cine" ,HBO HD
