@@ -3,17 +3,83 @@
 http://190.90.154.73:8080/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="RCN HD" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN HD
 http://190.90.154.73:8080/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="CO | RCN Xtra" tvg-name="CO | RCN Xtra" tvg-logo="https://pbs.twimg.com/media/Fj6XrAoXwAAOLKg?format=png&name=120x120" group-title="Colombia", RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="Colombia", RCN
+http://45.177.53.7:8000/play/a0jl/index.m3u8
+#EXTINF:-1 tvg-id="CO | RCN+" tvg-name="CO | RCN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/RCN_HD2_2019.png/200px-RCN_HD2_2019.png" group-title="Colombia", RCN+ 
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CO | RCN Nuestra Tele Internacional" tvg-name="CO | RCN Nuestra Tele Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/320px-RCN_Nuestra_Tele_logo.svg.png" group-title="Colombia", RCN Nuestra Tele Internacional
+http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | Canal Caracol" tvg-name="CO | Canal Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", Canal Caracol
+http://190.90.154.73:8080/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal Uno" tvg-name="CO | Canal Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia", Canal Uno
+http://177.234.230.226:8010/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal Institucional" tvg-name="CO | Canal Institucional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/140px-Se%C3%B1al_Institucional_logo.svg.png" group-title="Colombia", Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | Señal Colombia" tvg-name="CO | Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia", City TV
+http://45.177.53.7:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="Colombia", Canal TRO
+http://45.177.53.7:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="CO | Telecafé" tvg-name="CO | Telecafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Telecaf%C3%A9_logo.svg/200px-Telecaf%C3%A9_logo.svg.png" group-title="Colombia", Telecafé
+http://45.177.53.7:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/639px-Telemedellin.svg.png" group-title="Colombia" ,Telemedellin
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311646
+#EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-name="CO | Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/250px-Teleantioquia_logo.svg.png" group-title="Colombia", Teleantioquia
+http://45.177.53.7:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="CO | Zoom TV"  tvg-name="CO | Zoom TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest/scale-to-width-down/78?cb=20210501194343&path-prefix=es" group-title="Colombia", Zoom TV
+https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="CO | Suram TV" tvg-name="CO | Suram TV" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="Colombia", Suram TV
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-id="CO | Telecaribe" tvg-name="CO | Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="Colombia", Telecaribe
+http://45.177.53.7:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="CO | Canal 8 TV+" tvg-name="CO | Canal 8 TV+" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia", Canal 8 TV+
+https://video.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="CO | Canal 2 de Cali" tvg-name="CO | Canal 2 de Cali" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCRXfpCXtQ2_9hizPm-qPLuDj_UZk7xKi2_FrCZnFCQ&s" group-title="Colombia", Canal 2 de Cali
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-id="CO | CTV" tvg-name="CO | CTV" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2021/02/LOGO-NUEVO-CTV-3.png" group-title="Colombia", CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CO | Teleislas" tvg-name="CO | Teleislas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo.png" group-title="Colombia", Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | Canal CNC" tvg-name="CO | Canal CNC" tvg-logo="https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9pbWFnZXMucmEuY28vZjcyMWRmMTdkYjhhM2ZiYWM3Y2I2ZDAxYTc4YmQ0YWFmNDMzNmRiYy5qcGc=" group-title="Colombia", Canal CNC
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+#EXTINF:-1 tvg-id="CO | Telepacífico" tvg-name="CO | Telepacífico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="Colombia", Telepacífico
+http://45.177.53.7:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="CO | TV Peñol" tvg-name="CO | TV Peñol" tvg-logo="https://lh3.googleusercontent.com/apvCTeyvSvG_dSKi0-ujGoz-3cnm80K4jm0TRj6oI86GJqqfMwIuVUlVCiMBzhW-iDM" group-title="Colombia", TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="CO | Canal Visión Dorada" tvg-name="CO | Canal Visión Dorada" tvg-logo="https://play-lh.googleusercontent.com/YQi6JN3KWozh0yLl5S83_pMdeoD0nsvBMT-MPpbvGf0Aq_wJgiS0DA7UgEnMtfQjSRID" group-title="Colombia", Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CO | ATN Televisión" tvg-name="CO | ATN Televisión" tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="Colombia", ATN Televisión
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | TV San Jorge" tvg-name="CO | TV San Jorge" tvg-logo="https://tvsanjorge.tv/wp-content/uploads/2023/11/logo-asucap-sin-tv-HD-300x106.png" group-title="Colombia", TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="CO | Multicanal TV" tvg-name="CO | Multicanal TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4696653b91ed1c1e4aee33817d913f50.webp" group-title="Colombia", Multicanal TV
+https://250weu.bozztv.com/ssh101/ssh101/KIOCApP/playlist.m3u8
+#EXTINF:-1 tvg-id="CO | 90 Minutos TV" tvg-name="CO | 90 Minutos TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ma1T3cxn5AGZcYXyQPZyCc4g8CLEsfGmQpz4sgk3Ew&s" group-title="Colombia", 90 Minutos TV
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
+#EXTINF:-1 tvg-id="CO | Huila TV" tvg-name="CO | Huila TV" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png" group-title="Colombia", Huila TV
+https://plataformavideo.com/live/8020.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_05/large.5920e72792091_CaracolTelevisin.png.6aa1d2bf9199ef96de8b3636e79f5387.png" group-title="Colombia" ,Caracol
 http://190.90.154.73:8080/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_05/large.5920e7be33d9c_CaracolHD.png.f0b021e84ce63e65c508a1722985d789.png" group-title="Colombia" ,Caracol HD
 http://190.90.154.73:8080/play/a09t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1280px-2020_Canal_Capital_logo.svg.png" group-title="Colombia" ,Canal Capital
 http://190.90.154.73:8080/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="Canal Capital" tvg-name="CO | Canal Capital" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/135px-2020_Canal_Capital_logo.svg.png" group-title="Colombia", Canal Capital HD
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-2500/index.m3u8
+#EXTINF:-1 tvg-id="CO | Eureka tu canal" tvg-name="CO | Eureka tu canal" tvg-logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png" group-title="Colombia", Eureka tu canal
+https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/245px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia" ,Canal 1
 http://190.90.154.73:8080/play/a018/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Canal 13
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.png" group-title="Internacional" ,Canal 13
 http://190.90.154.73:8080/play/a09d/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Canal 13 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" group-title="Internacional" ,Canal 13 HD
 http://190.90.154.73:8080/play/a09c/index.m3u8
 #EXTINF:-1 group-title="Internacional" ,Canal 24 Horas HD
 http://190.90.154.73:8080/play/a095/index.m3u8
@@ -21,6 +87,8 @@ http://190.90.154.73:8080/play/a095/index.m3u8
 http://190.90.154.73:8080/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/C-XHNJxUIAA8-L2.png/revision/latest?cb=20170428223133" group-title="Colombia" ,Canal Institucional HD
 http://190.90.154.73:8080/play/a04q/index.m3u8
+#EXTINF:-1,COL: TV Agro HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311653
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="Colombia" ,Canal TRO
 http://190.90.154.73:8080/play/a07a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Canal_Congreso_de_Colombia_logo.png" group-title="Colombia" ,Canal del Congreso
@@ -33,9 +101,9 @@ http://190.90.154.73:8080/play/a07b/index.m3u8
 http://190.90.154.73:8080/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/teleislas-colombia-2012-present-logo-AE543D4B12-seeklogo.com.png" group-title="Colombia" ,Teleislas
 http://190.90.154.73:8080/play/a05x/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Telemundo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Internacional" ,Telemundo
 http://190.90.154.73:8080/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Telenovelas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktp0UPe9wrwNkVq8G4lcK7GKS02V3tk97RZyCiBWdoA&s" group-title="Internacional" ,Telenovelas
 http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_05/large.Telepacfico.png.3d42fb4ae16df3f96318679932c0453b.png" group-title="Colombia" ,Telepacifico
 http://190.90.154.73:8080/play/a088/index.m3u8
@@ -57,15 +125,15 @@ http://190.90.154.73:8080/play/a00r/index.m3u8
 http://190.90.154.73:8080/play/a07f/index.m3u8
 #EXTINF:-1 group-title="Cultural" ,Animal Planet HD
 http://190.90.154.73:8080/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Noticias" ,Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/200px-Antena_3.svg.png" group-title="Noticias" ,Antena 3
 http://190.90.154.73:8080/play/a06w/index.m3u8
 #EXTINF:-1 group-title="Noticias" ,BBC World
 http://190.90.154.73:8080/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Infantil" ,Baby TV
 http://190.90.154.73:8080/play/a08c/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,ByM Sport
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.ByMSport-logo.png.35d54ab21e5f0c25af67c592869053da.png" group-title="Deportes" ,ByM Sport
 http://190.90.154.73:8080/play/a04x/index.m3u8
-#EXTINF:-1 group-title="Noticias" ,CNN Español
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gC_lN_nDvmzQ-NhkgOJ7hz0ol6RdWdMjLMtq0LiIpg&s" group-title="Noticias" ,CNN Español
 http://190.90.154.73:8080/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Noticias" ,CNN International
 http://190.90.154.73:8080/play/a08i/index.m3u8
@@ -75,9 +143,9 @@ http://190.90.154.73:8080/play/a09e/index.m3u8
 http://190.90.154.73:8080/play/a03h/index.m3u8
 #EXTINF:-1 group-title="Infantil" ,Cartoonito
 http://190.90.154.73:8080/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Cinecanal
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg" group-title="Cine" ,Cinecanal
 http://190.90.154.73:8080/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Cinecanal HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png" group-title="Cine" ,Cinecanal HD
 http://190.90.154.73:8080/play/a03d/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Cinemax
 http://190.90.154.73:8080/play/a069/index.m3u8
@@ -346,3 +414,92 @@ http://190.61.43.118:45000/play/a024
 http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes" ,Win Sports+ 
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3926
+
+#EXTINF:-1,VENUS
+http://138.118.105.190:8000/play/a06m/index.m3u8
+#EXTINF:-1,COL: CANAL UNO
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311632
+#EXTINF:-1,COL: CARACOL HD+
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311633
+#EXTINF:-1,COL: CARACOL HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311634
+#EXTINF:-1,COL: CARACOL HD2
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311635
+#EXTINF:-1,COL: CARACOL INTERNACIONAL HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311636
+#EXTINF:-1,COL: CARACOL Colombia HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311637
+#EXTINF:-1,COL: RCN INTERNACIONAL HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311639
+#EXTINF:-1,COL: NTN24 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311640
+#EXTINF:-1,COL: WIN SPORTS PLUS (EXCLUSIVO)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311641
+#EXTINF:-1,COL: WIN SPORTS  HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311642
+#EXTINF:-1,COL: DIRECT SPORTS 1 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311643
+#EXTINF:-1,COL: DIRECTV SPORTS 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311644
+#EXTINF:-1,COL: DIRECTV SPORTS
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311645
+
+#EXTINF:-1,COL: TELECARIBE HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311647
+#EXTINF:-1,COL: TELEANTIOQUIA HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311648
+#EXTINF:-1,COL: CANAL CAPITAL
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311649
+#EXTINF:-1,COL: MUSIC TOP
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311650
+#EXTINF:-1,COL: CALI TV
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311651
+#EXTINF:-1,COL: SENAL Colombia
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311652
+
+#EXTINF:-1,COL: TELECAFE HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311654
+#EXTINF:-1,COL: TELEPACIFICO HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311655
+#EXTINF:-1,COL: CANTINAZO HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311656
+#EXTINF:-1,COL: FARRA MUSIC
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311657
+#EXTINF:-1,COL: MUSICA TROPICAL HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311658
+#EXTINF:-1,COL: MUSICA URBANA HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311659
+#EXTINF:-1,COL: HOLA TV HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311660
+#EXTINF:-1,COL: CANAL TRO HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311661
+#EXTINF:-1,COL: EL GOURMET HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311662
+#EXTINF:-1,COL: CANAL TRECE HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311663
+#EXTINF:-1,COL: CONCERT CHANNEL HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311664
+#EXTINF:-1,COL: RCN HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311665
+#EXTINF:-1,COL: CABLENOTICIAS HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311666
+#EXTINF:-1,COL: CITY TV  HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311667
+#EXTINF:-1,COL: WIN SPORTS HD COL
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311668
+#EXTINF:-1,COL: WIN SPORTS HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311669
+#EXTINF:-1,COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311670
+#EXTINF:-1,COL: FOX SPORTS 1 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311671
+#EXTINF:-1,COL: FOX SPORTS 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311672
+#EXTINF:-1,COL: FOX SPORTS 3 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311673
+#EXTINF:-1,COL: ESPN 1 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311674
+#EXTINF:-1,COL: ESPN 2 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311675
+#EXTINF:-1,COL: ESPN 3 HD
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311676
