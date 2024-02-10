@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/140px-Canal_RCN_logo_%282%29.svg.png" group-title="Colombia", RCN
-http://45.177.53.7:8000/play/a0jl/index.m3u8
-#EXTINF:-1 tvg-id="RCN" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN
+
+#EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN"  tvg-id="RCN" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN
 http://190.90.154.73:8080/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="RCN HD" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN HD
 http://190.90.154.73:8080/play/a02z/index.m3u8
@@ -11,10 +10,10 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="Colombia" ,RCN Novelas
 http://138.118.105.190:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="Colombia" ,Nuestra Tele
+
+
+#EXTINF:-1 tvg-id="RCN Nuestra Tele" tvg-name="CO | RCN Nuestra Tele Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="Colombia" , RCN Nuestra Tele
 http://190.90.154.73:8080/play/a07v/index.m3u8
-#EXTINF:-1 tvg-id="RCN Nuestra Tele" tvg-name="CO | RCN Nuestra Tele Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="Colombia", RCN Nuestra Tele
-http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_05/large.5920e72792091_CaracolTelevisin.png.6aa1d2bf9199ef96de8b3636e79f5387.png" group-title="Colombia" ,Caracol
 http://190.90.154.73:8080/play/a078/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_05/large.5920e7be33d9c_CaracolHD.png.f0b021e84ce63e65c508a1722985d789.png" group-title="Colombia" ,Caracol HD
@@ -200,61 +199,61 @@ http://190.90.154.73:8080/play/a08s/index.m3u8
 http://190.90.154.73:8080/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4Q85t41NLmvyGtZb4rAADAks4YgvkVEHWw&s" group-title="Deportes" ,ESPN 3 HD
 http://190.90.154.73:8080/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,ESPN 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="Deportes" ,ESPN 4 HD
 http://190.90.154.73:8080/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,ESPN EXTRA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" group-title="Deportes" ,ESPN EXTRA HD
 http://190.90.154.73:8080/play/a03f/index.m3u8
 #EXTINF:-1 group-title="Deportes" ,ESPN HD
 http://190.90.154.73:8080/play/a012/index.m3u8
-#EXTINF:-1 group-title="Noticias" ,ET Canal El Tiempo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20131102043014%21ET_canal_El_Tiempo_logo.png" group-title="Noticias" ,ET Canal El Tiempo
 http://190.90.154.73:8080/play/a03t/index.m3u8
 #EXTINF:-1,EWTN
 http://190.90.154.73:8080/play/a04s/index.m3u8
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" ,El Gourmet
 http://190.90.154.73:8080/play/a07y/index.m3u8
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/large.elGourmet_2023.png.d48b5af8da4e7d3d3fa844c50ba3d0e0.png" ,El Gourmet HD
 http://190.90.154.73:8080/play/a026/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,ElCanaldelFutbol HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTTcMkJ4aU0RdefO_5lssa_UnGjmZbPk9na4IC-jeCA&s" group-title="Deportes" ,ElCanaldelFutbol HD
 http://190.90.154.73:8080/play/a08x/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,ElCanaldelFutbol SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTTcMkJ4aU0RdefO_5lssa_UnGjmZbPk9na4IC-jeCA&s" group-title="Deportes" ,ElCanaldelFutbol SD
 http://190.90.154.73:8080/play/a051/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Enlace
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/22-224873_enlace-logo-enlace-logo-png.png" group-title="Internacional" ,Enlace
 http://190.90.154.73:8080/play/a07i/index.m3u8
-#EXTINF:-1 Internacional,Epoca
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Epoca2019.png/revision/latest?cb=20201031133436&path-prefix=es"  group-title="Internacional" ,Epoca
 http://190.90.154.73:8080/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Eurochannel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png" group-title="Internacional" ,Eurochannel
 http://190.90.154.73:8080/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Europa Europa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="Internacional" ,Europa Europa
 http://190.90.154.73:8080/play/a07n/index.m3u8
 #EXTINF:-1 group-title="Deportes" ,FOX Sports 2 HD
 http://190.90.154.73:8080/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Cine" ,FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/640px-FX_International_logo.svg.png" group-title="Cine" ,FX
 http://190.90.154.73:8080/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Cine" ,FX HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png/revision/latest?cb=20120119175742" group-title="Cine" ,FX HD
 http://190.90.154.73:8080/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Cultural" ,Food Network HD
 http://190.90.154.73:8080/play/a08u/index.m3u8
 #EXTINF:-1 group-title="Noticias" ,Fox News
 http://190.90.154.73:8080/play/a071/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/640px-Fox_sports_3_logo.svg.png" group-title="Deportes" ,Fox Sports 3 HD
 http://190.90.154.73:8080/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Noticias" ,France 24
 http://190.90.154.73:8080/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,GLOBAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png"  group-title="Internacional" ,Global
 http://190.90.154.73:8080/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,GOLPERU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="Deportes" ,Golperu
 http://190.90.154.73:8080/play/a086/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,Glitz*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png" group-title="Internacional" ,Glitz*
 http://190.90.154.73:8080/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,GolTV HD
+#EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/900/439/gratis-png-canal-de-television-gol-tv-cnt-sports-zee-tv-logo-thumbnail.png" group-title="Deportes" ,GolTV HD
 http://190.90.154.73:8080/play/a08t/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Golden
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine" ,Golden
 http://190.90.154.73:8080/play/a065/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Golden Edge
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="Cine" ,Golden Edge
 http://190.90.154.73:8080/play/a03u/index.m3u8
-#EXTINF:-1,HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" ,HGTV
 http://190.90.154.73:8080/play/a07w/index.m3u8
-#EXTINF:-1 group-title="Cultural" ,History 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Cultural" ,History 2
 http://190.90.154.73:8080/play/a06p/index.m3u8
 #EXTINF:-1 group-title="Cultural" ,History Channel
 http://190.90.154.73:8080/play/a01a/index.m3u8
@@ -262,25 +261,25 @@ http://190.90.154.73:8080/play/a01a/index.m3u8
 http://190.90.154.73:8080/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Cultural" ,ID - Investigation Discovery
 http://190.90.154.73:8080/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Cultural" ,ID HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ID_HD_logo_2017.jpg/800px-ID_HD_logo_2017.jpg" group-title="Cultural" ,ID HD
 http://190.90.154.73:8080/play/a024/index.m3u8
-#EXTINF:-1,IVC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="Internacional" ,IVC
 http://190.90.154.73:8080/play/a06i/index.m3u8
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Series - Novelas" ,Las Estrellas
 http://190.90.154.73:8080/play/a07z/index.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Series - Novelas" ,Las Estrellas HD
 http://190.90.154.73:8080/play/a097/index.m3u8
-#EXTINF:-1,Latina HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5ry3Wq8/IMG-20240210-023150.jpg" group-title="Series - Novelas" ,Latina HD
 http://190.90.154.73:8080/play/a08w/index.m3u8
 #EXTINF:-1,Lifetime
 http://190.90.154.73:8080/play/a081/index.m3u8
-#EXTINF:-1 group-title="Infantil" ,Lolly Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5rYd3jy/IMG-20240210-024135.jpg" group-title="Musica" ,Lolly Kids
 http://190.90.154.73:8080/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Infantil" ,Lolly Kids HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5rYd3jy/IMG-20240210-024135.jpg" group-title="Musica" ,Lolly Kids HD
 http://190.90.154.73:8080/play/a090/index.m3u8
-#EXTINF:-1 group-title="Cultural" ,Love Nature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Cultural" ,Love Nature
 http://190.90.154.73:8080/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Cultural" ,Love Nature HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Cultural" ,Love Nature HD
 http://190.90.154.73:8080/play/a092/index.m3u8
 #EXTINF:-1 group-title="Musica" ,MEGA HD
 http://190.90.154.73:8080/play/a03a/index.m3u8
@@ -290,7 +289,7 @@ http://190.90.154.73:8080/play/a08f/index.m3u8
 http://190.90.154.73:8080/play/a020/index.m3u8
 #EXTINF:-1,MTV LIVE HD
 http://190.90.154.73:8080/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Noticias" ,NTN 24 Horas
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Ntn242008.png/revision/latest?cb=20180106171416" group-title="Noticias" ,NTN 24 Horas
 http://190.90.154.73:8080/play/a080/index.m3u8
 #EXTINF:-1 group-title="Cultural" ,Nat Geo HD
 http://190.90.154.73:8080/play/a03b/index.m3u8
@@ -300,48 +299,48 @@ http://190.90.154.73:8080/play/a06o/index.m3u8
 http://190.90.154.73:8080/play/a010/index.m3u8
 #EXTINF:-1 group-title="Infantil" ,Nick Jr
 http://190.90.154.73:8080/play/a04d/index.m3u8
-#EXTINF:-1 group-title="Infantil" ,Nick Music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NickMusic_Logo.png/800px-NickMusic_Logo.png" group-title="Infantil" ,Nick Music
 http://190.90.154.73:8080/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Infantil" ,Nickelodeon
 http://190.90.154.73:8080/play/a05y/index.m3u8
 
-#EXTINF:-1 group-title="Internacional" ,Panamericana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Internacional" ,Panamericana
 http://190.90.154.73:8080/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Paramount Channel
 http://190.90.154.73:8080/play/a068/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Paramount HD
 http://190.90.154.73:8080/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Series - Novelas" ,Pasiones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Series - Novelas" ,Pasiones
 http://190.90.154.73:8080/play/a09f/index.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" ,Pasiones HD
 http://190.90.154.73:8080/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Noticias" ,RAI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/480px-Logo_of_RAI_%282016%29.svg.png" group-title="Noticias" ,RAI
 http://190.90.154.73:8080/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Cine" ,HBO 2 HD
 http://190.61.43.118:45000/play/a023
-#EXTINF:-1,HBO Pop
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="Cine" ,HBO Pop
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3937
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/619px-HBO_Family.svg.png" group-title="Cine" ,HBO Family HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4181
 #EXTINF:-1,HBO 2 HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4182
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title"Cine" ,HBO Xtreme HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
-#EXTINF:-1 group-title="Cine" ,HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/619px-HBO_Family.svg.png"  group-title="Cine" ,HBO Family
 http://190.61.43.118:45000/play/a05y
 #EXTINF:-1 group-title="Cine" ,HBO HD
 http://190.61.43.118:45000/play/a01w
-#EXTINF:-1 group-title="Cine" ,HBO XTREME SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title"Cine"  group-title="Cine" ,HBO Xtreme SD
 http://190.61.43.118:45000/play/a05u
-#EXTINF:-1,REC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title="Internacional" ,REC TV
 http://190.90.154.73:8080/play/a05l/index.m3u8
-#EXTINF:-1,RTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Internacional" ,RTS
 http://190.90.154.73:8080/play/a037/index.m3u8
-#EXTINF:-1 group-title="Cine" ,STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" group-title="Cine" ,Star Channel HD
 http://190.90.154.73:8080/play/a00z/index.m3u8
-#EXTINF:-1,STAR TVE
+#EXTINF:-1 tvg-logo="https://televvd.com/wp-content/uploads/2020/01/Star-tve.png" group-title=Internacional" ,STAR TVE
 http://190.90.154.73:8080/play/a064/index.m3u8
-#EXTINF:-1,STAR TVE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Internacional" ,STAR TVE HD
 http://190.90.154.73:8080/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Senal-Colombia-en-vivo-en-Directo.png" group-title="Colombia" ,Señal Colombia
 http://190.90.154.73:8080/play/a07t/index.m3u8
@@ -351,21 +350,21 @@ http://190.90.154.73:8080/play/a08y/index.m3u8
 http://190.90.154.73:8080/play/a06x/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Sony HD
 http://190.90.154.73:8080/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Sony Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/766px-Sony_Movies_Logo.svg.png" group-title="Cine" ,Sony Movies
 http://190.90.154.73:8080/play/a031/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Space HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Cine" ,Space HD
 http://190.90.154.73:8080/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Studio Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Cine" ,Studio Universal
 http://190.90.154.73:8080/play/a083/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Studio Universal HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Cine" ,Studio Universal HD
 http://190.90.154.73:8080/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Sun Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="Internacional" ,Sun Channel
 http://190.90.154.73:8080/play/a082/index.m3u8
-#EXTINF:-1 group-title="Cine" ,Sun Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Channel_Logo_2022.webp" group-title="Internacional" ,Sun Channel HD
 http://190.90.154.73:8080/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Cine" ,SyFy
 http://190.90.154.73:8080/play/a06z/index.m3u8
-#EXTINF:-1 group-title="Cine" ,TC Televisiðn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="Internacional" ,TC Television
 http://190.90.154.73:8080/play/a050/index.m3u8
 #EXTINF:-1 group-title="Cine" ,TCM
 http://190.90.154.73:8080/play/a066/index.m3u8
@@ -375,26 +374,26 @@ http://190.90.154.73:8080/play/a05e/index.m3u8
 http://190.90.154.73:8080/play/a08e/index.m3u8
 #EXTINF:-1 group-title="Cine" ,TNT HD
 http://190.90.154.73:8080/play/a01w/index.m3u8
-#EXTINF:-1,TNT Novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" group-title="Series - Novelas" ,TNT Novelas
 http://190.90.154.73:8080/play/a06u/index.m3u8
-#EXTINF:-1,TNT Novelas HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" group-title="Series - Novelas" ,TNT Novelas HD
 http://190.90.154.73:8080/play/a08z/index.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/648px-TNT_Series.png" ,TNT Series HD
 http://190.90.154.73:8080/play/a02w/index.m3u8
 #EXTINF:-1,TRUTV HD
 http://190.90.154.73:8080/play/a025/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,TV Senado
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/640px-TV_Senado.svg.png" group-title="Internacional" ,TV Senado
 http://190.90.154.73:8080/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Cine" ,TVN HD
 http://190.90.154.73:8080/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Infantil" ,Teen Nick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/640px-TeenNick_2019_logo.svg.png" group-title="Infantil" ,Teen Nick
 http://190.90.154.73:8080/play/a00j/index.m3u8
 
-#EXTINF:-1 group-title="Infantil" ,Tooncast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/640px-Tooncast_logo.svg.png" group-title="Infantil" ,Tooncast
 http://190.90.154.73:8080/play/a08d/index.m3u8
-#EXTINF:-1group-title="Cine" ,Tru TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Cine" ,Tru TV
 http://190.90.154.73:8080/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,TyC Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/640px-TyC_Sports_logo.svg.png" group-title="Deportes" ,TyC Sports
 http://190.90.154.73:8080/play/a062/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Universal HD
 http://190.90.154.73:8080/play/a02q/index.m3u8
@@ -415,91 +414,5 @@ http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes" ,Win Sports+ 
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3926
 
-#EXTINF:-1tvg-logo="555" group-title="Adultos" ,VENUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos" ,VENUS
 http://138.118.105.190:8000/play/a06m/index.m3u8
-#EXTINF:-1,COL: CANAL UNO
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311632
-#EXTINF:-1,COL: CARACOL HD+
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311633
-#EXTINF:-1,COL: CARACOL HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311634
-#EXTINF:-1,COL: CARACOL HD2
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311635
-#EXTINF:-1,COL: CARACOL INTERNACIONAL HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311636
-#EXTINF:-1,COL: CARACOL Colombia HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311637
-#EXTINF:-1,COL: RCN INTERNACIONAL HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311639
-#EXTINF:-1,COL: NTN24 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311640
-#EXTINF:-1,COL: WIN SPORTS PLUS (EXCLUSIVO)
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311641
-#EXTINF:-1,COL: WIN SPORTS  HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311642
-#EXTINF:-1,COL: DIRECT SPORTS 1 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311643
-#EXTINF:-1,COL: DIRECTV SPORTS 2 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311644
-#EXTINF:-1,COL: DIRECTV SPORTS
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311645
-
-#EXTINF:-1,COL: TELECARIBE HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311647
-#EXTINF:-1,COL: TELEANTIOQUIA HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311648
-#EXTINF:-1,COL: CANAL CAPITAL
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311649
-#EXTINF:-1,COL: MUSIC TOP
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311650
-#EXTINF:-1,COL: CALI TV
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311651
-#EXTINF:-1,COL: SENAL Colombia
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311652
-
-#EXTINF:-1,COL: TELECAFE HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311654
-#EXTINF:-1,COL: TELEPACIFICO HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311655
-#EXTINF:-1,COL: CANTINAZO HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311656
-#EXTINF:-1,COL: FARRA MUSIC
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311657
-#EXTINF:-1,COL: MUSICA TROPICAL HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311658
-#EXTINF:-1,COL: MUSICA URBANA HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311659
-#EXTINF:-1,COL: HOLA TV HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311660
-#EXTINF:-1,COL: CANAL TRO HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311661
-#EXTINF:-1,COL: EL GOURMET HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311662
-#EXTINF:-1,COL: CANAL TRECE HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311663
-#EXTINF:-1,COL: CONCERT CHANNEL HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311664
-#EXTINF:-1,COL: RCN HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311665
-#EXTINF:-1,COL: CABLENOTICIAS HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311666
-#EXTINF:-1,COL: CITY TV  HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311667
-#EXTINF:-1,COL: WIN SPORTS HD COL
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311668
-#EXTINF:-1,COL: WIN SPORTS HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311669
-#EXTINF:-1,COL: WIN SPORTS PLUS HD (EXCLUSIVO)
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311670
-#EXTINF:-1,COL: FOX SPORTS 1 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311671
-#EXTINF:-1,COL: FOX SPORTS 2 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311672
-#EXTINF:-1,COL: FOX SPORTS 3 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311673
-#EXTINF:-1,COL: ESPN 1 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311674
-#EXTINF:-1,COL: ESPN 2 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311675
-#EXTINF:-1,COL: ESPN 3 HD
-http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/311676
