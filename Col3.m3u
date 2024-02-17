@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://topiptv.info/download/topiptv.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN"  tvg-id="RCN" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN
 http://190.90.154.73:8080/play/a07u/index.m3u8
