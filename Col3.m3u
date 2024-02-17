@@ -26,7 +26,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Colombia" , Cosmovision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia", City TV
+#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia" , City TV
 http://45.177.53.7:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="Colombia", Canal TRO
 http://45.177.53.7:8000/play/a04q/index.m3u8
