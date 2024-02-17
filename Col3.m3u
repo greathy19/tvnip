@@ -26,7 +26,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cosmovision.co" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="Colombia" , Cosmovision
 https://videohls2.cosmovision.tv/hls/sd.m3u8
-#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia" , City TV
+#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia", City TV
 http://45.177.53.7:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="CO | Canal TRO" tvg-name="CO | Canal TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/150px-Canal_tro_logo.PNG" group-title="Colombia", Canal TRO
 http://45.177.53.7:8000/play/a04q/index.m3u8
@@ -111,6 +111,8 @@ http://190.90.154.73:8080/play/a01d/index.m3u8
 http://190.90.154.73:8080/play/a088/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Logo_de_telesur_2005-2011.png/revision/latest?cb=20210308032446&path-prefix=es" group-title="Colombia" ,Telesur
 http://190.90.154.73:8080/play/a087/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_83eb399622e6414a874fcc1a502c6c91~mv2.jpg" group-title="Cine",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 group-title="Cine" ,A&E HD
 http://190.90.154.73:8080/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="AMC" group-title="Cine" ,AMC
@@ -167,7 +169,7 @@ http://190.90.154.73:8080/play/a03d/index.m3u8
 http://190.90.154.73:8080/play/a069/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia" , City TV
+#EXTINF:-1, tvg-logo="https://sf.ezoiccdn.com/ezoimgfmt/www.vectorlogo.es/wp-content/uploads/2020/11/logo-vector-citytv.jpg?ezimgfmt=rs:630x320/rscb1/ngcb1/notWebP" group-title="Colombia" ,City TV
 http://190.90.154.73:8080/play/a08a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3nJYpx/Screenshot-2024-02-10-00-28-22-963-com-android-chrome-edit.jpg" group-title="Internacional" ,Clover
 http://190.90.154.73:8080/play/a06k/index.m3u8
