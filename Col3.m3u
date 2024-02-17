@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/kens13/EPG/raw/master/guide_1.xml"
+#EXTM3U url-tvg="http://topiptv.info/download/topiptv.xml.gz"
 
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN"  tvg-id="RCN" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN
 http://190.90.154.73:8080/play/a07u/index.m3u8
@@ -119,6 +119,20 @@ http://190.90.154.73:8080/play/a07m/index.m3u8
 http://190.90.154.73:8080/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Cine" ,ATV
 http://190.90.154.73:8080/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Cine" ,CINE PREMIUM
+http://181.78.64.71:16123/play/ch49
+#EXTINF:-1 group-title="Cine" ,CINE HISPANO
+http://181.78.64.71:16123/play/ch51
+#EXTINF:-1 group-title="Cine" ,CINE FAMILIAR
+http://181.78.64.71:16123/play/ch52
+#EXTINF:-1 group-title="Musica" ,MIMUSICA Reggaeton 
+http://181.78.64.71:16123/play/ch53
+#EXTINF:-1 group-title="Musica" ,MIMUSICA Romantica
+http://181.78.64.71:16123/play/ch54
+#EXTINF:-1 group-title="Musica" ,MIMUSICA Salsa
+http://181.78.64.71:16123/play/ch55
+#EXTINF:-1 group-title="Musica" ,MIMUSICA Popular
+http://181.78.64.71:16123/play/ch56
 #EXTINF:-1 group-title="Cine" ,AXN
 http://190.90.154.73:8080/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Cine" ,AXN HD
