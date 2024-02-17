@@ -326,7 +326,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3937
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4181
 #EXTINF:-1,HBO 2 HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4182
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title"Cine" ,HBO Xtreme HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Cine" ,HBO Xtreme HD
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/619px-HBO_Family.svg.png"  group-title="Cine" ,HBO Family
 http://190.61.43.118:45000/play/a05y
@@ -407,7 +407,7 @@ http://190.90.154.73:8080/play/a04c/index.m3u8
 http://190.90.154.73:8080/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="Deportes" ,Win Sports HD
 http://190.90.154.73:8080/play/a00w/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a06i.png",Win Sports HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,Win Sports HD
 http://177.93.41.134:4000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes" ,Win Sports+ HD
 http://190.90.154.73:8080/play/a03l/index.m3u8
@@ -418,7 +418,7 @@ http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes" ,Win Sports+ 
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3926
 
-#EXTINF:-1 group-title="-" tvg-logo="http://177.93.41.134:4000/playlist/tvg-logo/a04q.png",Win Sports+ HD
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" ,Win Sports+ HD
 http://177.93.41.134:4000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos" ,VENUS
 http://138.118.105.190:8000/play/a06m/index.m3u8
