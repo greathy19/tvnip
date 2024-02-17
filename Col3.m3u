@@ -456,3 +456,5 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3926
 http://177.93.41.134:4000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos" ,VENUS
 http://138.118.105.190:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="Playboy" group-title="Adultos" ,Playboy
+http://167.250.222.35:16000/play/a045/index.m3u8
