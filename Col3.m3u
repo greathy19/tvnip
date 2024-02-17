@@ -167,7 +167,7 @@ http://190.90.154.73:8080/play/a03d/index.m3u8
 http://190.90.154.73:8080/play/a069/index.m3u8
 #EXTINF:-1 group-title="Cine" ,Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1, tvg-logo="https://sf.ezoiccdn.com/ezoimgfmt/www.vectorlogo.es/wp-content/uploads/2020/11/logo-vector-citytv.jpg?ezimgfmt=rs:630x320/rscb1/ngcb1/notWebP" group-title="Colombia" ,City TV
+#EXTINF:-1 tvg-id="CO | City TV" tvg-name="CO | City TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Citytv_2023.jpg/170px-Logo_Citytv_2023.jpg" group-title="Colombia" , City TV
 http://190.90.154.73:8080/play/a08a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3nJYpx/Screenshot-2024-02-10-00-28-22-963-com-android-chrome-edit.jpg" group-title="Internacional" ,Clover
 http://190.90.154.73:8080/play/a06k/index.m3u8
