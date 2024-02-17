@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-id="CO | RCN" tvg-name="CO | RCN"  tvg-id="RCN" tvg-logo="https://logowik.com/content/uploads/images/rcn-television-y-radio7292.logowik.com.webp" group-title="Colombia" ,RCN
 http://190.90.154.73:8080/play/a07u/index.m3u8
@@ -263,6 +263,26 @@ http://190.90.154.73:8080/play/a086/index.m3u8
 http://190.90.154.73:8080/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/900/439/gratis-png-canal-de-television-gol-tv-cnt-sports-zee-tv-logo-thumbnail.png" group-title="Deportes" ,GolTV HD
 http://190.90.154.73:8080/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Cine", GOLDEN
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", GOLDEN
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", GOLDEN
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", GOLDEN PLUS
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", GOLDEN PREMIER
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", DPELICULA
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", DPELICULA PLUS
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cine", DISTRITO COMEDIA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine" ,Golden
 http://190.90.154.73:8080/play/a065/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="Cine" ,Golden Edge
