@@ -211,9 +211,9 @@ http://190.90.154.73:8080/play/a012/index.m3u8
 http://190.90.154.73:8080/play/a03t/index.m3u8
 #EXTINF:-1,EWTN
 http://190.90.154.73:8080/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Cultural" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" ,El Gourmet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cultural"  ,El Gourmet
 http://190.90.154.73:8080/play/a07y/index.m3u8
-#EXTINF:-1 group-title="Cultural" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/large.elGourmet_2023.png.d48b5af8da4e7d3d3fa844c50ba3d0e0.png" ,El Gourmet HD
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/large.elGourmet_2023.png.d48b5af8da4e7d3d3fa844c50ba3d0e0.png" group-title="Cultural"  ,El Gourmet HD
 http://190.90.154.73:8080/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTTcMkJ4aU0RdefO_5lssa_UnGjmZbPk9na4IC-jeCA&s" group-title="Deportes" ,ElCanaldelFutbol HD
 http://190.90.154.73:8080/play/a08x/index.m3u8
@@ -332,7 +332,7 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
 http://190.61.43.118:45000/play/a05y
 #EXTINF:-1 group-title="Cine" ,HBO HD
 http://190.61.43.118:45000/play/a01w
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title"Cine"  group-title="Cine" ,HBO Xtreme SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Cine" ,HBO Xtreme SD
 http://190.61.43.118:45000/play/a05u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title="Internacional" ,REC TV
 http://190.90.154.73:8080/play/a05l/index.m3u8
@@ -407,7 +407,7 @@ http://190.90.154.73:8080/play/a04c/index.m3u8
 http://190.90.154.73:8080/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="Deportes" ,Win Sports HD
 http://190.90.154.73:8080/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,Win Sports HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="Deportes"  ,Win Sports HD
 http://177.93.41.134:4000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes" ,Win Sports+ HD
 http://190.90.154.73:8080/play/a03l/index.m3u8
@@ -418,7 +418,7 @@ http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes" ,Win Sports+ 
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3926
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" ,Win Sports+ HD
+#EXTINF:-1 tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="Deportes"  ,Win Sports+ HD
 http://177.93.41.134:4000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos" ,VENUS
 http://138.118.105.190:8000/play/a06m/index.m3u8
