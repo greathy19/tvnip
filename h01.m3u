@@ -1,1 +1,135 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E.(Andes).(A&E)..ec" tvg-name="CINE  | A&E HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="(TV) CINE PREMIUM Exclusivo",CINE  | A&E HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/5.m3u8
+#EXTINF:-1 tvg-id="A&E.(Andes).(A&E)..ec" tvg-name="CINE  | A&E SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="(TV) CINE PREMIUM Exclusivo",CINE  | A&E SD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/6.m3u8
+#EXTINF:-1 tvg-id="Cinemax.(Panamerican).(CINEMAXE)..ec" tvg-name="CINE  | CINEMAX  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="(TV) CINE PREMIUM Exclusivo",CINE  | CINEMAX  FHD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/7.m3u8
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="(TV) CINE PREMIUM Exclusivo",CINE  | CINEMAX HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/8.m3u8
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="CINE  | CINEMAX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="(TV) CINE PREMIUM Exclusivo",CINE  | CINEMAX  SD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/9.m3u8
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="*BL 1*" tvg-logo="http://daleplay.club:8080/images/528c62e938277951ef5ae16cc189a72f.png" group-title="⚽BUNDESLIGA⚽",*BL 1*
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/66.m3u8
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="*BL 2*" tvg-logo="http://daleplay.club:8080/images/528c62e938277951ef5ae16cc189a72f.png" group-title="⚽BUNDESLIGA⚽",*BL 2*
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/68.m3u8
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="LAT | ESPⓝ 3  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽BUNDESLIGA⚽",LAT | ESPⓝ 3  FHD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/69.m3u8
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="LAT | ESPⓝ 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽BUNDESLIGA⚽",LAT | ESPⓝ 2  HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/71.m3u8
+#EXTINF:-1 tvg-id="argentinisima.ar" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="http://daleplay.club:8080/images/00adf9fb606bc2a2494f8667a8c82d53.png" group-title="ZONA | FOX SPORTS HD",AR | F⚽X SPORTS 1 HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/78.m3u8
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="AR | F0X SPORTS 1  SD" tvg-logo="http://daleplay.club:8080/images/00adf9fb606bc2a2494f8667a8c82d53.png" group-title="ZONA | FOX SPORTS HD",AR | F0X SPORTS 1  SD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/79.m3u8
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="AR | F0X SP0RTS 2  HD" tvg-logo="http://daleplay.club:8080/images/49d45587abc565e5d38051fa60d4c105.png" group-title="ZONA | FOX SPORTS HD",AR | F0X SP0RTS 2  HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/80.m3u8
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="AR | F0X SPORTS 2 SD" tvg-logo="http://daleplay.club:8080/images/49d45587abc565e5d38051fa60d4c105.png" group-title="ZONA | FOX SPORTS HD",AR | F0X SPORTS 2 SD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUR | TENNIS CHANEL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNeoiojxI2gbNwXGNUEDZaeXMD__r84vdzg&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",EUR | TENNIS CHANEL SPORTS
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/129.m3u8
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="CL | CANAL 13  HD" tvg-logo="http://daleplay.club:8080/images/566f84e9d53284f95ca4c92dddd7ca24.png" group-title="(TV) CHILE",CL | CANAL 13  HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/209.m3u8
+#EXTINF:-1 tvg-id="I406.77606.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_qWzRD6uGOG69Kgk_AopdtkNhM8FN1uTxg&usqp=CAU" group-title="ZONA | TELEMUNDO",TELEMUNDO INTERNACIONAL
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ºTEL€MUNDOº | CHICAGOº | " tvg-logo="https://i.picasion.com/pic90/948674b008c9421d280636114260d830.gif" group-title="ZONA | TELEMUNDO",ºTEL€MUNDOº | CHICAGOº | 
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="**TELEMUNDO MIAMI | HD**" tvg-logo="https://i.picasion.com/pic90/c8f482d85c5ea0a9aaeb0d9e009a5d4c.gif" group-title="ZONA | TELEMUNDO",**TELEMUNDO MIAMI | HD**
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/419.m3u8
+#EXTINF:-1 tvg-id="WSCV.us" tvg-name="*TELEMUNDO *MIAMI  OP2**" tvg-logo="https://i.picasion.com/pic90/7ff0293dd2837f3c702c5efb26916c91.gif" group-title="ZONA | TELEMUNDO",*TELEMUNDO *MIAMI  OP2**
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 6 | SV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDbiAbQH9HQhKhKYBUERiwu28l1Bh1G4r8g&usqp=CAU" group-title="(TV) El salvador",CANAL 6 | SV
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 (G)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1w1NEnyUMQF_dnE2ZBJzST5oqtYUD_PXfA&usqp=CAU" group-title="(TV) NICARAGUA",NIC | Canal 10 (G)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="**DEPORTE GUATEMALA**" tvg-logo="" group-title="(TV) GUATEMALA",**DEPORTE GUATEMALA**
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/115788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 7 | GT" tvg-logo="https://radiosecuador.online/r24q" group-title="(TV) GUATEMALA",CANAL 7 | GT
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 | GT" tvg-logo="https://radiosecuador.online/jw9k" group-title="(TV) GUATEMALA",CANAL 11 | GT
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="**CANAL ANTIGUA | GT**" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxx6HjZDVa0_an8Us8ShVcCcWNHCMN9I1ow&usqp=CAU" group-title="(TV) GUATEMALA",**CANAL ANTIGUA | GT**
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 SANTA ROSA" tvg-logo="https://radiosdeguate.com/i/tv/canal-8-santa-rosa.webp" group-title="(TV) GUATEMALA",CANAL 8 SANTA ROSA
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/115791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE TV" tvg-logo="http://daleplay.club:8080/images/94c07225768064015b476f4586fc7ef4.png" group-title="(TV) GUATEMALA",ENLACE TV
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/141247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL del GOBIERNO" tvg-logo="http://daleplay.club:8080/images/a5272aceb6462dd336f2df6ac6ac09ec.png" group-title="(TV) GUATEMALA",CANAL del GOBIERNO
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/115800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 27 GT" tvg-logo="http://daleplay.club:8080/images/e5220b60b68f6e646c2180538a5ab715.png" group-title="(TV) GUATEMALA",Canal 27 GT
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/141245.m3u8
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIAN⚽",CO | WIN SPORTS +  FHD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/1383.m3u8
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS +  HD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIAN⚽",CO | WIN SPORTS +  HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/1384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS. 3 HD" tvg-logo="http://daleplay.club:8080/images/72eb1d006115465c4a59af7517aad661.png" group-title="ZONA | FOX SPORTS HD",AR | F0X $PORTS. 3 HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/11570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | F0X SPORTS 3 SD" tvg-logo="http://daleplay.club:8080/images/72eb1d006115465c4a59af7517aad661.png" group-title="ZONA | FOX SPORTS HD",AR | F0X SPORTS 3 SD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/11571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | F0X $PORTS *PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKZxP3dz2Y4x0vAGFpq0JI1vennhL4NuP7oRA594Cdaj1bCEGW80VLiPZ&s=10" group-title="ZONA | FOX SPORTS HD",MX | F0X $PORTS *PREMIUM HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/11572.m3u8
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ES | M0VISTAR SERIES HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEBpSx8GCgWih0oHHoyE1qhtxqyc-OKa_4Q&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR SERIES HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR COMEDIA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHhEwdP186L048fKS0P9yC45cf93Hpsq7RQ&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR COMEDIA HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DISNEY + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kXZscVb8BhbZdYBu-RcTOhaYaXNKjXycdA&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR DISNEY + HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR CINEDOC&ROLL HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZRwtewzf_RQdfp8oULWbq11-frdivSAteQ&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR CINEDOC&ROLL HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DRAMA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw82pd0GvckzhcuVUOmcVLeSNsxU3tZUAMdA&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR DRAMA HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR ACCI©N HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCsDBs4S34m-f_q7ZjbiHweVQ8z-lYK81PA&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR ACCI©N HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR DCINE Ñ  SD (s)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz6UVdq0ZEJR8SaHnT7iCkoPy7oaetFcM1w&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR DCINE Ñ  SD (s)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR ESTRENOS HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIYVJdMqvGvYPx_UsHgK6hWDn5RJpqUkz1A&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR ESTRENOS HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR CINEDOC&ROLL sd (C)" tvg-logo="https://www.google.com/search?q=movistar+cine+doc+%26+roll&tbm=isch&ved=2ahUKEwiopYuB_avxAhXUvJUCHVKAD7cQ2-cCegQIABAC&oq=movistar+cine&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgCMgIIADICCAAyAggAMgIIADIECAAQGDoECCMQJzoECAAQHjoECB4QCjoFCAAQzQI6BQgAELEDOgYIABAKEBg6BAgAEA1QjIoEWLvCBGDs0gRoAnAAeACAAZ0BiAGVEpIBBDQuMTaYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=LDrSYKjfA9T51sQP0oC-uAs&bih=600&biw=360&client=ms-android-huawei&prmd=minv#imgrc=BPGKS5dxjYKVSM" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR CINEDOC&ROLL sd (C)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M0VISTAR SERIESMANIA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCsj7EeW6mDabSzGn0tPFlJcbyx0_FMW3Mw&usqp=CAU" group-title="⭐ES | MOVISTAR Y ALQUILLER⭐",ES | M0VISTAR SERIESMANIA HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/13447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | *EUR0*SPORTS 2 HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37KQrBEbOt1SfqLBMWCpuiU1bcaQhKYDTdg&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | *EUR0*SPORTS 2 HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/17187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | BN Ñ HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpVIy8z3bASP9w4Lk_BPli1HOje18Z8dUEQ&usqp=CAU" group-title="⚽LIGUE 1 FR⚽",ES | BN Ñ HD.
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/17198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Better Life TV - Español (US)" tvg-logo="http://latinoamericatv.vip:3334/images/5d1b29642923c682aceec35284c28082.png" group-title="(TV) RELIGIOSOS",Better Life TV - Español (US)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDM (PR)" tvg-logo="http://latinoamericatv.vip:3334/images/51013bee54911f393569c1e6edc356c9.png" group-title="(TV) RELIGIOSOS",CDM (PR)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Logos TV (ES) (Opt-2)" tvg-logo="http://latinoamericatv.vip:3334/images/e9b447ef566a6fffd70d2496c9ca03c1.png" group-title="(TV) RELIGIOSOS",Logos TV (ES) (Opt-2)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red ADVenir (BO)" tvg-logo="http://latinoamericatv.vip:3334/images/0eb127774a665b009c026196799b42b3.png" group-title="(TV) RELIGIOSOS",Red ADVenir (BO)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria TV (ES)" tvg-logo="http://latinoamericatv.vip:3334/images/b4748572c0b385bc4a31216a7b4c6e1a.png" group-title="(TV) RELIGIOSOS",Solidaria TV (ES)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sophia TV (DE)" tvg-logo="http://latinoamericatv.vip:3334/images/e3df6b294d0e9ef607685627385e3a66.png" group-title="(TV) RELIGIOSOS",Sophia TV (DE)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Better Life TV - Español (US)" tvg-logo="http://latinoamericatv.vip:3334/images/5d1b29642923c682aceec35284c28082.png" group-title="(TV) RELIGIOSOS",Better Life TV - Español (US)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN Español (US)" tvg-logo="http://latinoamericatv.vip:3334/images/7bc9e29e830f3437c6eacf3250a23f91.png" group-title="(TV) RELIGIOSOS",CBN Español (US)
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/19831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX: CA SACRAMENTO KTXL" tvg-logo="https://variety.com/wp-content/uploads/2015/11/fox-networks-logo.jpg?w=1000" group-title="USA | REGIONALS",FOX: CA SACRAMENTO KTXL
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/20315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: MY9 - WWOR" tvg-logo="http://latinoamericatv.vip:3334/images/dd9f354b5915d3222450f53a1b96c835.png" group-title="USA | REGIONALS",US: MY9 - WWOR
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/20504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPⓝ HD" tvg-logo="http://daleplay.club:8080/images/e907e734f6ba16954a9d76cb40bc6998.jpg" group-title="USA | SPORTS",US: ESPⓝ HD
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/20635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA : E$PN 2" tvg-logo="http://daleplaypro.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="USA | SPORTS",USA : E$PN 2
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/20636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: NESN" tvg-logo="http://daleplay.club:8080/images/10efa1b6824e3ae9daa848db44ce92d2.png" group-title="USA | SPORTS",USA: NESN
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/20710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA: UFC FIGHT PASS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLrGbYJ8rW58YXUksTu0ZYW8Zg2c-PmfzIg&usqp=CAU" group-title="ZONA | WWE ,UFC & BOXING",USA: UFC FIGHT PASS
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/20730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION" tvg-logo="http://latinoamericatv.vip:3334/images/3c924a41af573cc9cf4d99349109de82.png" group-title="(TV) CUBA",CUBA : CUBAVISION
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUBA: CUBAMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPrpCrHY4xZuCK5NBomRqwbvcFXqmB-Pe7g&usqp=CAU" group-title="(TV) CUBA",CUBA: CUBAMAX
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUBA: TELE REBELDE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTdXhVLlYMEz2gtSJksflzjJrCx3HLeLMRg&usqp=CAU" group-title="(TV) CUBA",CUBA: TELE REBELDE
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUBA : CUBAVISION INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULbo7ahgnklHnOIjknHIOMITXRhF4t4Qnw&usqp=CAU" group-title="(TV) CUBA",CUBA : CUBAVISION INTERNACIONAL
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUBA: MULTIVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlTdXhVLlYMEz2gtSJksflzjJrCx3HLeLMRg&usqp=CAU" group-title="(TV) CUBA",CUBA: MULTIVISION
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUBA: AMRERICA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT14BfNBhipU1tdmUOvvTN60FrOpQWaMwoew&usqp=CAU" group-title="(TV) CUBA",CUBA: AMRERICA TV
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULbo7ahgnklHnOIjknHIOMITXRhF4t4Qnw&usqp=CAU" group-title="(TV) CUBA",Cubavision
+http://novared.pro:8080/live/AlexAnaya3/Dm5c7WBZG8rj/21146.m3u8
