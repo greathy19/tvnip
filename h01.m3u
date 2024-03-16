@@ -271,6 +271,135 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081447.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Oeste" tvg-logo="http://ceoapps.org/logos/universalcrime.png" group-title="TV | Peliculas",P | Universal Crime Oeste
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081449.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet " tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="TV | Cultura",C | Animal Planet 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/147960.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel " tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148703.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="C | Discovery Channel CO " tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel CO 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183443.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H " tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="TV | Cultura",C | Discovery H&H 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148704.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | Cultura",C | Discovery Investigation 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148705.m3u8
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="C | Discovery Theater " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery Theater 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148706.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="C | Discovery Turbo " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV | Cultura",C | Discovery Turbo 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148707.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148708.m3u8
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C | El Gourmet " tvg-logo="http://ceoapps.org/logos/elgourmet.png" group-title="TV | Cultura",C | El Gourmet 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148709.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="C | Food Network " tvg-logo="http://ceoapps.org/logos/foodnetwork.png" group-title="TV | Cultura",C | Food Network 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148710.m3u8
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 " tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | H2 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154075.m3u8
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History " tvg-logo="http://ceoapps.org/logos/history.png" group-title="TV | Cultura",C | History 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148711.m3u8
+#EXTINF:-1 tvg-id="historyenespanol.us" tvg-name="C | History en Español " tvg-logo="http://ceoapps.org/logos/historyes.png" group-title="TV | Cultura",C | History en Español 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/192976.m3u8
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo " tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148712.m3u8
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="C | TLC " tvg-logo="http://ceoapps.org/logos/tlc.png" group-title="TV | Cultura",C | TLC 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148714.m3u8
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C | Wobi " tvg-logo="http://ceoapps.org/logos/wobi.png" group-title="TV | Cultura",C | Wobi 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C | Filmex Documentales" tvg-logo="http://ceoapps.org/logos/filmex.png" group-title="TV | Cultura",C | Filmex Documentales
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2192020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C | Docubox" tvg-logo="http://ceoapps.org/logos/docubox.png" group-title="TV | Cultura",C | Docubox
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2192021.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="TV | Cultura",C | Animal Planet
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10408.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet HD" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="TV | Cultura",C | Animal Planet HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10407.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | Cultura",C | Discovery Channel
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10409.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="C | Discovery Channel CL HD" tvg-logo="http://ceoapps.org/logos/discoverychannel.png" group-title="TV | Cultura",C | Discovery Channel CL HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183445.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="C | Discovery Channel CO" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel CO
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183442.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel HD" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10410.m3u8
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español" tvg-logo="http://fanc.tmsimg.com/assets/s19247_ll_h3_ac.png" group-title="TV | Cultura",C | Discovery en Español
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/26760.m3u8
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="C | Discovery en Español HD" tvg-logo="http://fanc.tmsimg.com/assets/s19247_ll_h3_ac.png" group-title="TV | Cultura",C | Discovery en Español HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197236.m3u8
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" group-title="TV | Cultura",C | Discovery Familia
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183441.m3u8
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia HD" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" group-title="TV | Cultura",C | Discovery Familia HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183440.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="TV | Cultura",C | Discovery H&H
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10419.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H HD" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="TV | Cultura",C | Discovery H&H HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10420.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | Cultura",C | Discovery Investigation
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10427.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | Cultura",C | Discovery Investigation HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10428.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TV | Cultura",C | Discovery SCI
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10412.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TV | Cultura",C | Discovery SCI HQ
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/84538.m3u8
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="C | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery Theater
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10426.m3u8
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="C | Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery Theater HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10425.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="C | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV | Cultura",C | Discovery Turbo
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10417.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="C | Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="TV | Cultura",C | Discovery Turbo HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10418.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10416.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10415.m3u8
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C | El Gourmet" tvg-logo="http://ceoapps.org/logos/elgourmet.png" group-title="TV | Cultura",C | El Gourmet
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/12255.m3u8
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C | El Gourmet HD" tvg-logo="http://ceoapps.org/logos/elgourmet.png" group-title="TV | Cultura",C | El Gourmet HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/12256.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="C | Food Network" tvg-logo="http://ceoapps.org/logos/foodnetwork.png" group-title="TV | Cultura",C | Food Network
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10421.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="C | Food Network HQ" tvg-logo="http://ceoapps.org/logos/foodnetwork.png" group-title="TV | Cultura",C | Food Network HQ
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10429.m3u8
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | H2
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154074.m3u8
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2 HD" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | H2 HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/16080.m3u8
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV" tvg-logo="http://ceoapps.org/logos/HGTV.png" group-title="TV | Cultura",C | HGTV
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/182836.m3u8
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History" tvg-logo="http://ceoapps.org/logos/history.png" group-title="TV | Cultura",C | History
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10423.m3u8
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="C | History en Español HD" tvg-logo="http://ceoapps.org/logos/historyes.png" group-title="TV | Cultura",C | History en Español HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197235.m3u8
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="C | History HD" tvg-logo="http://ceoapps.org/logos/history.png" group-title="TV | Cultura",C | History HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10424.m3u8
+#EXTINF:-1 tvg-id="NtGeo Mx" tvg-name="C | Nat Geo" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10413.m3u8
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="C | Nat Geo HD" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10414.m3u8
+#EXTINF:-1 tvg-id="natgeomundo.us" tvg-name="C | Nat Geo Mundo HD" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="TV | Cultura",C | Nat Geo Mundo HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197240.m3u8
+#EXTINF:-1 tvg-id="SundanceTV" tvg-name="C | Sundance TV" tvg-logo="http://ceoapps.org/logos/sundancetv.png" group-title="TV | Cultura",C | Sundance TV
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/76314.m3u8
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="C | TLC" tvg-logo="http://ceoapps.org/logos/tlc.png" group-title="TV | Cultura",C | TLC
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10431.m3u8
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="C | TLC HD" tvg-logo="http://ceoapps.org/logos/tlc.png" group-title="TV | Cultura",C | TLC HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10432.m3u8
+#EXTINF:-1 tvg-id="teveunam.mx" tvg-name="C | TV Unam" tvg-logo="http://ceoapps.org/logos/tvunam.png" group-title="TV | Cultura",C | TV Unam
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201149.m3u8
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C | Wobi" tvg-logo="http://ceoapps.org/logos/wobi.png" group-title="TV | Cultura",C | Wobi
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10433.m3u8
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C | Wobi HD" tvg-logo="http://ceoapps.org/logos/wobi.png" group-title="TV | Cultura",C | Wobi HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TV | Cultura",C | Love Nature
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2139190.m3u8
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV HD" tvg-logo="http://ceoapps.org/logos/HGTV.png" group-title="TV | Cultura",C | HGTV HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C | History 2 HD" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | History 2 HD
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2160490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C |  CONCERT CHANNEL" tvg-logo="" group-title="TV | Cultura",C |  CONCERT CHANNEL
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2169974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C | DISCOVERY CIVILIZATION" tvg-logo="" group-title="TV | Cultura",C | DISCOVERY CIVILIZATION
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2169975.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="TV | Peliculas",P | Universal Premier Oeste
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Claro Cinema" tvg-logo="http://ceoapps.org/logos/clarocinemax.png" group-title="TV | Peliculas",P | Claro Cinema
