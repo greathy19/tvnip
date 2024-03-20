@@ -11,8 +11,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN " tvg-logo="http://ceoapps.org/logos/rcn.png" group-title="TV | Colombia",CO | RCN 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155681.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN Internacional " tvg-logo="http://ceoapps.org/logos/rcit.png" group-title="TV | Colombia",CO | RCN Internacional 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/199513.m3u8CO | 
+ 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN Novelas" tvg-logo="http://ceoapps.org/logos/rcnovelas.png" group-title="TV | Colombia",CO | RCN Novelas
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176599.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports + " tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports + 
