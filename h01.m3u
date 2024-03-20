@@ -36,8 +36,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155738.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176615.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Pasiones " tvg-logo="http://ceoapps.org/logos/pasiones.png" group-title="TV | Colombia",CO | Pasiones 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176777.m3u8
-#EXTINF:-1 tvg-id="Pasiones" tvg-name="CO | Pasiones " tvg-logo="http://ceoapps.org/logos/pasiones.png" group-title="TV | Colombia",CO | Pasiones 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155735.m3u8
+
 #EXTINF:-1 tvg-id="RCN" tvg-name="CO | RCN" tvg-logo="http://ceoapps.org/logos/rcn.png" group-title="TV | Colombia",CO | RCN
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155680.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN " tvg-logo="http://ceoapps.org/logos/rcn.png" group-title="TV | Colombia",CO | RCN 
