@@ -37,53 +37,44 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176615.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Pasiones " tvg-logo="http://ceoapps.org/logos/pasiones.png" group-title="TV | Colombia",CO | Pasiones 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176777.m3u8
 
-#EXTINF:-1 tvg-id="RCN" tvg-name="CO | RCN" tvg-logo="http://ceoapps.org/logos/rcn.png" group-title="TV | Colombia",CO | RCN
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155680.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN " tvg-logo="http://ceoapps.org/logos/rcn.png" group-title="TV | Colombia",CO | RCN 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176580.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN Internacional " tvg-logo="http://ceoapps.org/logos/rcit.png" group-title="TV | Colombia",CO | RCN Internacional 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/199513.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN Novelas" tvg-logo="http://ceoapps.org/logos/rcnovelas.png" group-title="TV | Colombia",CO | RCN Novelas
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176599.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | RCN Novelas " tvg-logo="http://ceoapps.org/logos/rcnovelas.png" group-title="TV | Colombia",CO | RCN Novelas 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155682.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Señal Colombia " tvg-logo="http://ceoapps.org/logos/scolombia.png" group-title="TV | Colombia",CO | Señal Colombia 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155736.m3u8
 #EXTINF:-1 tvg-id="aandelatamerica.co" tvg-name="CO | Suram TV" tvg-logo="http://ceoapps.org/logos/suramtv.png" group-title="TV | Colombia",CO | Suram TV
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176600.m3u8
-#EXTINF:-1 tvg-id="Teleant" tvg-name="CO | TeleAntioquia HQ" tvg-logo="http://ceoapps.org/logos/teleantioquia.png" group-title="TV | Colombia",CO | TeleAntioquia HQ
+#EXTINF:-1 tvg-id="Teleant" tvg-name="CO | TeleAntioquia" tvg-logo="http://ceoapps.org/logos/teleantioquia.png" group-title="TV | Colombia",CO | TeleAntioquia HQ
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176582.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Telecafé" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV | Colombia",CO | Telecafé
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176618.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Telecafé HQ" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV | Colombia",CO | Telecafé HQ
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Telecafé " tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV | Colombia",CO | Telecafé HQ
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176602.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | TeleCaribe" tvg-logo="http://ceoapps.org/logos/telecaribe.png" group-title="TV | Colombia",CO | TeleCaribe
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176619.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Telecaribe " tvg-logo="http://ceoapps.org/logos/telecaribe.png" group-title="TV | Colombia",CO | Telecaribe 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176583.m3u8
+
 #EXTINF:-1 tvg-id="Teleisl" tvg-name="CO | Teleislas" tvg-logo="http://ceoapps.org/logos/teleislas.png" group-title="TV | Colombia",CO | Teleislas
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202129.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Telemedellin" tvg-logo="http://ceoapps.org/logos/telemedellin.png" group-title="TV | Colombia",CO | Telemedellin
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176606.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Telemedellin " tvg-logo="http://ceoapps.org/logos/telemedellin.png" group-title="TV | Colombia",CO | Telemedellin 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202130.m3u8
+
 #EXTINF:-1 tvg-id="Telepc" tvg-name="CO | Telepacifico" tvg-logo="http://ceoapps.org/logos/telepacifico.png" group-title="TV | Colombia",CO | Telepacifico
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176607.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | TelePacifico HQ" tvg-logo="http://ceoapps.org/logos/telepacifico.png" group-title="TV | Colombia",CO | TelePacifico HQ
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176620.m3u8
+
 #EXTINF:-1 tvg-id="CanalTro.Co" tvg-name="CO | Tro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="TV | Colombia",CO | Tro
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176621.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Tro " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="TV | Colombia",CO | Tro 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202066.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CO | TV AGRO" tvg-logo="http://ceoapps.org/logos/tvagro.png" group-title="TV | Colombia",CO | TV AGRO
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176608.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | Colombia",CO | Win Sports 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176585.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | Colombia",CO | Win Sports 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176587.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports +" tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports +
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155693.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports + " tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports + 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/12257.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | Colombia",CO | Win Sports 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176587.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="COL | Cali TV" tvg-logo="http://ceoapps.org/logos/calitv.png" group-title="TV | Colombia",COL | Cali TV
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/217129.m3u8
+
+
