@@ -76,8 +76,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176608.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176585.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="TV | Colombia",CO | Win Sports 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176587.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports +" tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports +
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155693.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports + " tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports + 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/12257.m3u8
 
