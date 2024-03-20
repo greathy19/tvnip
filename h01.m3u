@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Canal Uno" tvg-logo="http://ceoapps.org/logos/canaluno.png" group-title="TV | Colombia",CO | Canal Uno
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176593.m3u8
+#EXTINF:-1 tvg-id="Uno Co" tvg-name="CO | Canal Uno" tvg-logo="http://ceoapps.org/logos/canaluno.png" group-title="TV | Colombia",CO | Canal Uno
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176612.m3u8
 #EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | Colombia",CO | Caracol 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176568.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Caracol Internacional " tvg-logo="http://ceoapps.org/logos/caracolinternacional.png" group-title="TV | Colombia",CO | Caracol Internacional 
@@ -9,8 +9,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/199323.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155681.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports + " tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports + 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155248.m3u8 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Cable Noticias " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="TV | Colombia",CO | Cable Noticias 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176589.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Cablenoticias" tvg-logo="http://ceoapps.org/logos/cablenoticias.png" group-title="TV | Colombia",CO | Cablenoticias
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176609.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Cali TV" tvg-logo="http://ceoapps.org/logos/calitv.png" group-title="TV | Colombia",CO | Cali TV
@@ -21,26 +20,16 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155734.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155737.m3u8
 #EXTINF:-1 tvg-id="CnInstuc" tvg-name="CO | Canal Institucional" tvg-logo="http://ceoapps.org/logos/canalinstitucional.png" group-title="TV | Colombia",CO | Canal Institucional
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176611.m3u8
-#EXTINF:-1 tvg-id="Uno Co" tvg-name="CO | Canal Uno" tvg-logo="http://ceoapps.org/logos/canaluno.png" group-title="TV | Colombia",CO | Canal Uno
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176612.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Canal Uno " tvg-logo="http://ceoapps.org/logos/canaluno.png" group-title="TV | Colombia",CO | Canal Uno 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202063.m3u8
+
+
 #EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | Colombia",CO | Caracol
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176570.m3u8
-#EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | Colombia",CO | Caracol 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176569.m3u8
-#EXTINF:-1 tvg-id="Caracol" tvg-name="CO | Caracol 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="TV | Colombia",CO | Caracol 2
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202067.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Caracol Internacional" tvg-logo="http://ceoapps.org/logos/caracolinternacional.png" group-title="TV | Colombia",CO | Caracol Internacional
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176613.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Caracol Internacional " tvg-logo="http://ceoapps.org/logos/caracolinternacional.png" group-title="TV | Colombia",CO | Caracol Internacional 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202068.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Caracol Noticias" tvg-logo="http://ceoapps.org/logos/caracolnoticias.png" group-title="TV | Colombia",CO | Caracol Noticias
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/202069.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | CITY TV" tvg-logo="http://ceoapps.org/logos/citytv.png" group-title="TV | Colombia",CO | CITY TV
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176595.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | City TV " tvg-logo="http://ceoapps.org/logos/citytv.png" group-title="TV | Colombia",CO | City TV 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176573.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | El Tiempo" tvg-logo="http://ceoapps.org/logos/eltiempo.png" group-title="TV | Colombia",CO | El Tiempo
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155738.m3u8
 #EXTINF:-1 tvg-id="NTN24" tvg-name="CO | NTN24" tvg-logo="http://ceoapps.org/logos/nt24.png" group-title="TV | Colombia",CO | NTN24
