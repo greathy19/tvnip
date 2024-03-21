@@ -11,6 +11,8 @@ http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/103.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/153478.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="TV | Peliculas",P │ AXN
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="TV | Peliculas",P | STAR Channel
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/108.m3u8
 #EXTINF:-1 tvg-id="cinesony.mx" tvg-name="P | Cine Sony " tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="TV | Peliculas",P | Sony Channel
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197327.m3u8
 #EXTINF:-1 tvg-id="cinesony.mx" tvg-name="P | Cine Sony " tvg-logo="http://ceoapps.org/logos/cinesony.png" group-title="TV | Peliculas",P | Sony Movies
@@ -31,7 +33,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155170.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10863.m3u8
 #EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel " tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="TV | Peliculas",P | Paramount Channel 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155172.m3u8
-#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space " tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX | 
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space " tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155173.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="TV | Peliculas",P | Studio Universal 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155174.m3u8
@@ -114,7 +116,8 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201151.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | De Pelicula " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula Plus
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest?cb=20210423175312&path-prefix=es" group-title=" Peliculas",P | Canal Claro
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/213631.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Claro Cinema" tvg-logo="http://ceoapps.org/logos/clarocinemax.png" group-title="TV | Peliculas",P | Claro Cinema
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2091457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P| Morbido TV" tvg-logo="http://ceoapps.org/logos/morbidotv.png" group-title="TV | Peliculas",P| Morbido TV
