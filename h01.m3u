@@ -82,4 +82,135 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/176587.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="CO | Win Sports + " tvg-logo="http://ceoapps.org/logos/winsportsplus.png" group-title="TV | Colombia",CO | Win Sports + 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/12257.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal " tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154085.m3u8
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax " tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="TV | Peliculas",P | Warner Channel
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/130.m3u8
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="P | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="TV | Peliculas",P │ AMC
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/103.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | DHE " tvg-logo="http://ceoapps.org/logos/dhe.png" group-title="TV | Peliculas",P | DHE 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/153478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="TV | Peliculas",P │ AXN
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="TV | Peliculas",P | STAR Channel
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/108.m3u8
+#EXTINF:-1 tvg-id="cinesony.mx" tvg-name="P | Cine Sony " tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="TV | Peliculas",P | Sony Channel
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197327.m3u8
+#EXTINF:-1 tvg-id="cinesony.mx" tvg-name="P | Cine Sony " tvg-logo="http://ceoapps.org/logos/cinesony.png" group-title="TV | Peliculas",P | Sony Movies
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/124.m3u8
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO. " tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154113.m3u8
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO + " tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO + 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154115.m3u8
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2 " tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Peliculas",P | HBO 2 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155165.m3u8
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family " tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="TV | Peliculas",P | HBO Family 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155166.m3u8
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P | HBO POP " tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="TV | Peliculas",P | HBO POP 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155168.m3u8
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P | HBO Signature " tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155170.m3u8
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10863.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel " tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="TV | Peliculas",P | Paramount Channel 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155172.m3u8
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space " tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155173.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="TV | Peliculas",P | Studio Universal 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155174.m3u8
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY " tvg-logo="http://ceoapps.org/logos/syfy.png" group-title="TV | Peliculas",P | SYFY 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155175.m3u8
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="TV | Peliculas",P | TNT Series 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155177.m3u8
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/150114.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Universal TV " tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV | Peliculas",P | Universal TV 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/75651.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="TV | Peliculas",P | Universal Comedy
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Este" tvg-logo="http://ceoapps.org/logos/universalcrime.png" group-title="TV | Peliculas",P | Universal Crime Este
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="TV | Peliculas",P | Universal Premier Este
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Reality" tvg-logo="http://ceoapps.org/logos/universalreality.png" group-title="TV | Peliculas",P | Universal Reality
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Cinema" tvg-logo="http://ceoapps.org/logos/universalcinema.png" group-title="TV | Peliculas",P | Universal Cinema
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Oeste" tvg-logo="http://ceoapps.org/logos/universalcrime.png" group-title="TV | Peliculas",P | Universal Crime Oeste
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Premier Oeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="TV | Peliculas",P | Universal Premier Oeste
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081450.m3u8
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P | Cine Latino" tvg-logo="http://ceoapps.org/logos/cinelatino.png" group-title="TV | Peliculas",P | Cine Latino
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10843.m3u8
+
+
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10859.m3u8
+
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden." tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden.
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10861.m3u8
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus " tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154112.m3u8
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier " tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Premier 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/200946.m3u8
+
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10866.m3u8
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY" tvg-logo="http://ceoapps.org/logos/syfy.png" group-title="TV | Peliculas",P | SYFY
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10868.m3u8
+
+
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="P | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV | Peliculas",P | TCM
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10874.m3u8
+
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="P | Film & Arts" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="TV | Peliculas",P | Film & Arts
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10876.m3u8
+
+#EXTINF:-1 tvg-id="panico.mx" tvg-name="P | Panico" tvg-logo="http://ceoapps.org/logos/panico.png" group-title="TV | Peliculas",P | Panico
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/25726.m3u8
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="P | Starz Encore " tvg-logo="http://ceoapps.org/logos/starzencore.png" group-title="TV | Peliculas",P | Starz Encore 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/36818.m3u8
+
+#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="P | Cinema Dinamita" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png" group-title="TV | Peliculas",P | Cinema Dinamita
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/75724.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="cinemexicano.mx" tvg-name="P | A3cine " tvg-logo="http://ceoapps.org/logos/a3cine2.png" group-title="TV | Peliculas",P | A3cine 
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197239.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="multipremier.mx" tvg-name="P | Multipremier" tvg-logo="http://ceoapps.org/logos/multipremier.png" group-title="TV | Peliculas",P | Multipremier
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201151.m3u8
+#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="P | De Pelicula" tvg-logo="http://ceoapps.org/logos/dpclasico1.png" group-title="TV | Peliculas",P | De Pelicula
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | De Pelicula " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula Plus
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest?cb=20210423175312&path-prefix=es" group-title="TV | Peliculas",P | Canal Claro
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/213631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | Claro Cinema" tvg-logo="http://ceoapps.org/logos/clarocinemax.png" group-title="TV | Peliculas",P | Claro Cinema
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2091457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P| Morbido TV" tvg-logo="http://ceoapps.org/logos/morbidotv.png" group-title="TV | Peliculas",P | Morbido TV
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145546.m3u8
+#EXTINF:-1 tvg-id="1515dtv.cl" tvg-name="Europa europa" tvg-logo="" group-title= group-title="TV | Peliculas",P | Europa europa
+http://rasaiptv.com:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/157337.m3u8
+
+
+
+
+
 
