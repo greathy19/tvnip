@@ -120,8 +120,9 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/213631.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Claro Cinema" tvg-logo="http://ceoapps.org/logos/clarocinemax.png" group-title="TV | Peliculas",P | Claro Cinema
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2091457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="P| Morbido TV" tvg-logo="http://ceoapps.org/logos/morbidotv.png" group-title="TV | Peliculas",P| Morbido TV
+#EXTINF:-1 tvg-id="" tvg-name="P| Morbido TV" tvg-logo="http://ceoapps.org/logos/morbidotv.png" group-title="TV | Peliculas",P | Morbido TV
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145546.m3u8
-
+#EXTINF:-1 tvg-id="1515dtv.cl" tvg-name="Europa europa" tvg-logo="" group-title= group-title="TV | Peliculas",P | Europa europa
+http://rasaiptv.com:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/157337.m3u8
 
 
