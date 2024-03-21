@@ -24,6 +24,8 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155166.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155168.m3u8
 #EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P | HBO Signature " tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155170.m3u8
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10863.m3u8
 #EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel " tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155172.m3u8
 #EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX | " tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX | 
@@ -44,28 +46,19 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10841.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10843.m3u8
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10844.m3u8
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal " tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10845.m3u8
+
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10846.m3u8
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax " tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10847.m3u8
-#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="P | De Pelicula Plus" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="TV | Peliculas",P | De Pelicula Plus
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10855.m3u8
-#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="P | De Pelicula" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10856.m3u8
-#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="P | De Pelicula Plus " tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="TV | Peliculas",P | De Pelicula Plus 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10857.m3u8
+
+
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10859.m3u8
 #EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10860.m3u8
 #EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden." tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden.
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10861.m3u8
-#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus " tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10862.m3u8
-#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10863.m3u8
+
+
 #EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10866.m3u8
 #EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel " tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel 
