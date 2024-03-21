@@ -10,7 +10,7 @@ http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/103.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/153478.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="TV | Peliculas",P │ AXN
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/104.m3u8
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO. " tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO. 
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO. " tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154113.m3u8
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO + " tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO + 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154115.m3u8
@@ -24,7 +24,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155168.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155170.m3u8
 #EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10863.m3u8
-#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel " tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel 
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel " tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="TV | Peliculas",P | Paramount Channel 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155172.m3u8
 #EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space " tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX | 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155173.m3u8
@@ -32,7 +32,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155173.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155174.m3u8
 #EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY " tvg-logo="http://ceoapps.org/logos/syfy.png" group-title="TV | Peliculas",P | SYFY 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155175.m3u8
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT Series 
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="TV | Peliculas",P | TNT Series 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155177.m3u8
 #EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT
 http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/150114.m3u8
@@ -115,7 +115,6 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2091457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P| Morbido TV" tvg-logo="http://ceoapps.org/logos/morbidotv.png" group-title="TV | Peliculas",P| Morbido TV
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="P | Film & Arts " tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="TV | Peliculas",P | Film & Arts 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145709.m3u8
+
 
 
