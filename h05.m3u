@@ -116,7 +116,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201151.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | De Pelicula " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula Plus
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest?cb=20210423175312&path-prefix=es" group-title=TV | Peliculas",P | Canal Claro
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg/revision/latest?cb=20210423175312&path-prefix=es" group-title="TV | Peliculas",P | Canal Claro
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/213631.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Claro Cinema" tvg-logo="http://ceoapps.org/logos/clarocinemax.png" group-title="TV | Peliculas",P | Claro Cinema
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2091457.m3u8
