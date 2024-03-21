@@ -3,7 +3,8 @@
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154085.m3u8
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax " tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154086.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="TV | Peliculas",P | Warner Channel
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/130.m3u8
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="P | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="TV | Peliculas",P │ AMC
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/103.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | DHE " tvg-logo="http://ceoapps.org/logos/dhe.png" group-title="TV | Peliculas",P | DHE 
