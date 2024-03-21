@@ -5,8 +5,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154085.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | De Pelicula " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
-#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="P | De Pelicula Plus " tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png" group-title="TV | Peliculas",P | De Pelicula Plus 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154096.m3u8
+
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | DHE " tvg-logo="http://ceoapps.org/logos/dhe.png" group-title="TV | Peliculas",P | DHE 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/153478.m3u8
 #EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus " tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus 
@@ -33,8 +32,10 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155173.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155174.m3u8
 #EXTINF:-1 tvg-id="syfy.mx" tvg-name="P | SYFY " tvg-logo="http://ceoapps.org/logos/syfy.png" group-title="TV | Peliculas",P | SYFY 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155175.m3u8
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT 
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT Series 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155177.m3u8
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT " tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT
+http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/134706.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Universal TV " tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV | Peliculas",P | Universal TV 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/75651.m3u8 
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="P | Azteca Cinema" tvg-logo="https://mplay.es/images/2020/canales-azcinema.png" group-title="TV | Peliculas",P | Azteca Cinema
