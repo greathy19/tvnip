@@ -3,7 +3,10 @@
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/147960.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel " tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148703.m3u8
-
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" group-title="TV | Cultura",C | Discovery Familia
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183441.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TV | Cultura",C | Discovery SCI
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10412.m3u8
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="C | Discovery H&H " tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="TV | Cultura",C | Discovery H&H 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148704.m3u8
 #EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | Cultura",C | Discovery Investigation 
@@ -33,18 +36,10 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148715.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2192020.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="C | Docubox" tvg-logo="http://ceoapps.org/logos/docubox.png" group-title="TV | Cultura",C | Docubox
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2192021.m3u8
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="C | Animal Planet" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="TV | Cultura",C | Animal Planet
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10408.m3u8
 
 
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="C | Discovery Familia" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" group-title="TV | Cultura",C | Discovery Familia
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/183441.m3u8
 
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="TV | Cultura",C | Discovery Investigation
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10427.m3u8
 
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TV | Cultura",C | Discovery SCI
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10412.m3u8
 
 
 #EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C | El Gourmet" tvg-logo="http://ceoapps.org/logos/elgourmet.png" group-title="TV | Cultura",C | El Gourmet
@@ -74,8 +69,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201149.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TV | Cultura",C | Love Nature
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2139190.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="C | History 2 HD" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | History 2 HD
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2160490.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="C |  CONCERT CHANNEL" tvg-logo="" group-title="TV | Cultura",C |  CONCERT CHANNEL
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2169974.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="C | DISCOVERY CIVILIZATION" tvg-logo="" group-title="TV | Cultura",C | DISCOVERY CIVILIZATION
