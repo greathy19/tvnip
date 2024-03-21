@@ -47,14 +47,12 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/12255.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="C | Food Network" tvg-logo="http://ceoapps.org/logos/foodnetwork.png" group-title="TV | Cultura",C | Food Network
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10421.m3u8
 
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | H2" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | H2
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154074.m3u8
+
 
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="C | HGTV" tvg-logo="http://ceoapps.org/logos/HGTV.png" group-title="TV | Cultura",C | HGTV
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/182836.m3u8
 
-#EXTINF:-1 tvg-id="NtGeo Mx" tvg-name="C | Nat Geo" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10413.m3u8
+
 
 #EXTINF:-1 tvg-id="SundanceTV" tvg-name="C | Sundance TV" tvg-logo="http://ceoapps.org/logos/sundancetv.png" group-title="TV | Cultura",C | Sundance TV
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/76314.m3u8
