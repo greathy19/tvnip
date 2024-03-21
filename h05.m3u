@@ -41,11 +41,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/75651.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10841.m3u8
 #EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P | Cine Latino" tvg-logo="http://ceoapps.org/logos/cinelatino.png" group-title="TV | Peliculas",P | Cine Latino
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10843.m3u8
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10844.m3u8
 
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/10846.m3u8
 
 
 #EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge
