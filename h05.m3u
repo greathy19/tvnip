@@ -3,8 +3,7 @@
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154085.m3u8
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax " tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="P | De Pelicula " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
+
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="P | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="TV | Peliculas",P │ AMC
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/103.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="P | DHE " tvg-logo="http://ceoapps.org/logos/dhe.png" group-title="TV | Peliculas",P | DHE 
@@ -80,17 +79,11 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/36818.m3u8
 #EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="P | Cinema Dinamita" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png" group-title="TV | Peliculas",P | Cinema Dinamita
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/75724.m3u8
 
-#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="P | De Pelicula" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula HQ
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154098.m3u8
-#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden " tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154110.m3u8
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge " tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/154111.m3u8
 
 
 
-#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="P | Cine Latino" tvg-logo="http://ceoapps.org/logos/cinelatino.png" group-title="TV | Peliculas",P | Cine Latino HQ
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/155849.m3u8
+
+
 
 
 
@@ -103,13 +96,14 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197327.m3u8
 #EXTINF:-1 tvg-id="azcinema.mx" tvg-name="P | Azteca Cinema " tvg-logo="https://mplay.es/images/2020/canales-azcinema.png" group-title="TV | Peliculas",P | Azteca Cinema 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/197413.m3u8
 
-#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier " tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Premier 
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/200947.m3u8
+
 
 #EXTINF:-1 tvg-id="multipremier.mx" tvg-name="P | Multipremier" tvg-logo="http://ceoapps.org/logos/multipremier.png" group-title="TV | Peliculas",P | Multipremier
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201151.m3u8
-#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="P | De Pelicula Clásico" tvg-logo="http://ceoapps.org/logos/dpclasico1.png" group-title="TV | Peliculas",P | De Pelicula Clásico
+#EXTINF:-1 tvg-id="depeliculaclasico.mx" tvg-name="P | De Pelicula" tvg-logo="http://ceoapps.org/logos/dpclasico1.png" group-title="TV | Peliculas",P | De Pelicula Clásico
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/201864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="P | De Pelicula " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="TV | Peliculas",P | De Pelicula Plus
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2145662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="TV | Peliculas",P | Universal Comedy
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2081444.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P | Universal Crime Este" tvg-logo="http://ceoapps.org/logos/universalcrime.png" group-title="TV | Peliculas",P | Universal Crime Este
