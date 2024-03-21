@@ -17,6 +17,8 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148706.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148707.m3u8
 #EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="C | Discovery World " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" group-title="TV | Cultura",C | Discovery World 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C | DISCOVERY CIVILIZATION" tvg-logo="" group-title="TV | Cultura",C | Disovery Civilization
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2169975.m3u8
 #EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="C | El Gourmet " tvg-logo="http://ceoapps.org/logos/elgourmet.png" group-title="TV | Cultura",C | El Gourmet 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148709.m3u8
 #EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="C | Food Network " tvg-logo="http://ceoapps.org/logos/foodnetwork.png" group-title="TV | Cultura",C | Food Network 
@@ -32,10 +34,7 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148712.m3u8
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148714.m3u8
 #EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="C | Wobi " tvg-logo="http://ceoapps.org/logos/wobi.png" group-title="TV | Cultura",C | Wobi 
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/148715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C | Filmex Documentales" tvg-logo="http://ceoapps.org/logos/filmex.png" group-title="TV | Cultura",C | Filmex Documentales
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2192020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C | Docubox" tvg-logo="http://ceoapps.org/logos/docubox.png" group-title="TV | Cultura",C | Docubox
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2192021.m3u8
+
 
 
 
@@ -72,5 +71,4 @@ http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2139190.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="C |  CONCERT CHANNEL" tvg-logo="" group-title="TV | Cultura",C |  CONCERT CHANNEL
 http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2169974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C | DISCOVERY CIVILIZATION" tvg-logo="" group-title="TV | Cultura",C | DISCOVERY CIVILIZATION
-http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2169975.m3u8
+
