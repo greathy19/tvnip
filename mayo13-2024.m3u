@@ -79,3 +79,28 @@ http://191.52.214.5:8000/play/a024/index.m3u8
 http://191.52.214.5:8000/play/a059/index.m3u8
 #EXTINF:-1,Warner Channel HD-IK1631-HD
 http://191.52.214.5:8000/play/a01u/index.m3u8
+
+#EXTINF:0,Win Sports + sd
+#EXTGRP:Deportes
+http://190.95.220.212:8000/play/a01j/index.m3u8
+#EXTINF:0,Win Sports +
+#EXTGRP:Deportes
+http://190.61.43.118:45000/play/a024
+#EXTINF:0,WIN SPORTS +
+#EXTGRP:Deportes
+http://rasaiptv.com:8080/live/3meses/654321/1383.m3u8
+#EXTINF:0,WIN SPORTS +
+#EXTGRP:Deportes
+https://nxt.plus:8443/live/vera001/29112023/1164.m3u8
+#EXTINF:0,Win Sports +
+#EXTGRP:Deportes
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/197665.m3u8
+#EXTINF:0,Win Sports +
+#EXTGRP:Deportes
+http://rasaiptv.com:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/1384.m3u8
+#EXTINF:0,Win Sports +
+#EXTGRP:Deportes
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2188325.m3u8
+#EXTINF:0,Win Sports
+#EXTGRP:Deportes
+http://sdmx.vip:8080/live/belpley/sYqKZQrTZa/2188324.m3u8
