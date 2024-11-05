@@ -1,0 +1,522 @@
+#EXTM3U
+#EXTINF:2,Caracol
+http://tvnox.sytes.net:7781/udp://@239.0.4.7:5501
+
+#EXTINF:3,RCN
+http://tvnox.sytes.net:7781/udp://@239.0.4.9:5501
+
+#EXTINF:4,Canal 1
+http://tvnox.sytes.net:7781/udp://@239.0.4.4:5501
+
+#EXTINF:5,Teleantioquia
+http://tvnox.sytes.net:7781/udp://@239.0.4.5:5501
+
+#EXTINF:6,Telemedelln
+http://tvnox.sytes.net:7781/udp://@239.0.4.6:5501
+
+#EXTINF:7,City TV
+http://tvnox.sytes.net:7781/udp://@239.0.4.112:5501
+
+#EXTINF:8,Canal Capital
+http://tvnox.sytes.net:7781/udp://@239.0.4.107:5501
+
+#EXTINF:9,Cosmovision
+http://tvnox.sytes.net:7781/udp://@239.0.4.10:5501
+
+#EXTINF:10,Canal Institucional
+http://tvnox.sytes.net:7781/udp://@239.0.4.13:5501
+
+#EXTINF:11,Cablenoticias
+http://tvnox.sytes.net:7781/udp://@239.0.4.21:5501
+
+#EXTINF:12,Telecaribe
+http://tvnox.sytes.net:7781/udp://@239.0.4.136:5501
+
+#EXTINF:13,Telepacifico
+http://tvnox.sytes.net:7781/udp://@239.0.4.138:5501
+
+#EXTINF:14,Tele Islas
+http://tvnox.sytes.net:7781/udp://@239.0.4.192:5501
+
+#EXTINF:15,TRO
+http://tvnox.sytes.net:7781/udp://@239.0.4.141:5501
+
+#EXTINF:16,Telecafe
+http://tvnox.sytes.net:7781/udp://@239.0.4.137:5501
+
+#EXTINF:17,Senal Colombia
+http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
+
+#EXTINF:18,Nuestra Tele
+http://tvnox.sytes.net:7781/udp://@239.0.4.108:5501
+
+#EXTINF:19,El Tiempo
+http://tvnox.sytes.net:7781/udp://@239.0.4.118:5501
+
+#EXTINF:20,Canal del Congreso
+http://tvnox.sytes.net:7781/udp://@239.0.4.109:5501
+
+#EXTINF:21,Disney Channel
+http://tvnox.sytes.net:7781/udp://@239.0.4.11:5501
+
+#EXTINF:22,Discovery Kids
+http://tvnox.sytes.net:7781/udp://@239.0.4.12:5501
+
+#EXTINF:23,DreamWorks
+http://tvnox.sytes.net:7781/udp://@239.0.4.14:5501
+
+#EXTINF:24,Nick Jr
+http://tvnox.sytes.net:7781/udp://@239.0.40.127:5501
+
+#EXTINF:25,DisneyJr
+http://tvnox.sytes.net:7781/udp://@239.0.4.15:5501
+
+#EXTINF:26,Cartoon Network
+http://tvnox.sytes.net:7781/udp://@239.0.4.16:5501
+
+#EXTINF:27,Nickelodeon
+http://tvnox.sytes.net:7781/udp://@239.0.4.17:5501
+
+#EXTINF:28,Cartoonito
+http://tvnox.sytes.net:7781/udp://@239.0.4.18:5501
+
+#EXTINF:29,Tooncast
+http://tvnox.sytes.net:7781/udp://@239.0.4.162:5501
+
+#EXTINF:30,Baby TV
+http://tvnox.sytes.net:7781/udp://@239.0.4.128:5501
+
+#EXTINF:31,ZooMoo
+http://tvnox.sytes.net:7781/udp://@239.0.4.148:5501
+
+#EXTINF:32,CNN Español
+http://tvnox.sytes.net:7781/udp://@239.0.4.19:5501
+
+#EXTINF:33,NTN 24
+http://tvnox.sytes.net:7781/udp://@239.0.4.20:5501
+
+#EXTINF:34,CNN Internacional
+http://tvnox.sytes.net:7781/udp://@239.0.4.22:5501
+
+#EXTINF:35,BBC World
+http://tvnox.sytes.net:7781/udp://@239.0.4.23:5501
+
+#EXTINF:36,Bloomberg
+http://tvnox.sytes.net:7781/udp://@239.0.4.25:5501
+
+#EXTINF:37,Win Sports
+http://tvnox.sytes.net:7781/udp://@239.0.40.199:5501
+
+#EXTINF:38,Win Sports +
+http://tvnox.sytes.net:7781/udp://@239.0.42.25:5501
+
+#EXTINF:39,ESPN
+http://tvnox.sytes.net:7781/udp://@239.0.4.29:5501
+
+#EXTINF:40,ESPN 2
+http://tvnox.sytes.net:7781/udp://@239.0.4.30:5501
+
+#EXTINF:41,ESPN 3
+http://tvnox.sytes.net:7781/udp://@239.0.4.124:5501
+
+#EXTINF:42,ESPN 5
+http://tvnox.sytes.net:7781/udp://@239.0.4.26:5501
+
+#EXTINF:43,ESPN 6
+http://tvnox.sytes.net:7781/udp://@239.0.4.28:5501
+
+#EXTINF:44,ESPN 7
+http://tvnox.sytes.net:7781/udp://@239.0.4.27:5501
+
+#EXTINF:45,Discovery
+http://tvnox.sytes.net:7781/udp://@239.0.4.31:5501
+
+#EXTINF:46,Science
+http://tvnox.sytes.net:7781/udp://@239.0.4.68:5501
+
+#EXTINF:47,ID
+http://tvnox.sytes.net:7781/udp://@239.0.4.49:5501
+
+#EXTINF:48,Discovery Turbo
+http://tvnox.sytes.net:7781/udp://@239.0.4.67:5501
+
+#EXTINF:49,Animal
+http://tvnox.sytes.net:7781/udp://@239.0.4.32:5501
+
+#EXTINF:50,H&H
+http://tvnox.sytes.net:7781/udp://@239.0.4.33:5501
+
+#EXTINF:51,TLC
+http://tvnox.sytes.net:7781/udp://@239.0.4.34:5501
+
+#EXTINF:52,E! Entertainment
+http://tvnox.sytes.net:7781/udp://@239.0.4.74:5501
+
+#EXTINF:53,NatGeo
+http://tvnox.sytes.net:7781/udp://@239.0.4.35:5501
+
+#EXTINF:54,History Channel
+http://tvnox.sytes.net:7781/udp://@239.0.4.37:5501
+
+#EXTINF:55,HGTV
+http://tvnox.sytes.net:7781/udp://@239.0.4.66:5501
+
+#EXTINF:56,Film&Arts
+http://tvnox.sytes.net:7781/udp://@239.0.4.38:5501
+
+#EXTINF:57,Lifetime
+http://tvnox.sytes.net:7781/udp://@239.0.4.132:5501
+
+#EXTINF:58,TNT Series
+http://tvnox.sytes.net:7781/udp://@239.0.4.36:5501
+
+#EXTINF:59,Universal
+http://tvnox.sytes.net:7781/udp://@239.0.4.39:5501
+
+#EXTINF:60,Studio Universal
+http://tvnox.sytes.net:7781/udp://@239.0.4.40:5501
+
+#EXTINF:61,Sony Movies
+http://tvnox.sytes.net:7781/udp://@239.0.4.41:5501
+
+#EXTINF:62,TNT
+http://tvnox.sytes.net:7781/udp://@239.0.4.42:5501
+
+#EXTINF:63,TCM
+http://tvnox.sytes.net:7781/udp://@239.0.4.43:5501
+
+#EXTINF:64,Space
+http://tvnox.sytes.net:7781/udp://@239.0.4.44:5501
+
+#EXTINF:65,Cinemax
+http://tvnox.sytes.net:7781/udp://@239.0.4.45:5501
+
+#EXTINF:66,Golden
+http://tvnox.sytes.net:7781/udp://@239.0.4.46:5501
+
+#EXTINF:67,AMC
+http://tvnox.sytes.net:7781/udp://@239.0.4.47:5501
+
+#EXTINF:68,Paramount
+http://tvnox.sytes.net:7781/udp://@239.0.4.64:5501
+
+#EXTINF:69,Star Channel
+http://tvnox.sytes.net:7781/udp://@239.0.4.50:5501
+
+#EXTINF:70,FX
+http://tvnox.sytes.net:7781/udp://@239.0.4.51:5501
+
+#EXTINF:71,AXN
+http://tvnox.sytes.net:7781/udp://@239.0.4.53:5501
+
+#EXTINF:72,Sony
+http://tvnox.sytes.net:7781/udp://@239.0.4.54:5501
+
+#EXTINF:73,Cinecanal
+http://tvnox.sytes.net:7781/udp://@239.0.4.86:5501
+
+#EXTINF:74,Warner
+http://tvnox.sytes.net:7781/udp://@239.0.4.55:5501
+
+#EXTINF:75,A&E
+http://tvnox.sytes.net:7781/udp://@239.0.4.56:5501
+
+#EXTINF:76,GoldenEdge
+http://tvnox.sytes.net:7781/udp://@239.0.4.184:5501
+
+#EXTINF:77,DePelicula
+http://tvnox.sytes.net:7781/udp://@239.0.4.183:5501
+
+#EXTINF:78,AdultSwim
+http://tvnox.sytes.net:7781/udp://@239.0.4.72:5501
+
+#EXTINF:79,BitME
+http://tvnox.sytes.net:7781/udp://@239.0.4.182:5501
+
+#EXTINF:80,USANET
+http://tvnox.sytes.net:7781/udp://@239.0.4.131:5501
+
+#EXTINF:81,Multipremier
+http://tvnox.sytes.net:7781/udp://@239.0.4.174:5501
+
+#EXTINF:82,TodoCine
+http://tvnox.sytes.net:7781/udp://@239.0.4.175:5501
+
+#EXTINF:83,Cinema +
+http://tvnox.sytes.net:7781/udp://@239.0.4.145:5501
+
+#EXTINF:84,Comedy Central
+http://tvnox.sytes.net:7781/udp://@239.0.4.78:5501
+
+#EXTINF:85,Distrito Comedia
+http://tvnox.sytes.net:7781/udp://@239.0.4.185:5501
+
+#EXTINF:86,Eurochanne
+http://tvnox.sytes.net:7781/udp://@239.0.4.48:5501
+
+#EXTINF:87,Tele VID
+http://tvnox.sytes.net:7781/udp://@239.0.4.57:5501
+
+#EXTINF:88,Enlace
+http://tvnox.sytes.net:7781/udp://@239.0.4.142:5501
+
+#EXTINF:89,EWTN
+http://tvnox.sytes.net:7781/udp://@239.0.4.58:5501
+
+#EXTINF:90,Teleamiga
+http://tvnox.sytes.net:7781/udp://@239.0.4.139:5501
+
+#EXTINF:91,Cristovision
+http://tvnox.sytes.net:7781/udp://@239.0.4.106:5501
+
+#EXTINF:92,LifeDesign
+http://tvnox.sytes.net:7781/udp://@239.0.4.59:5501
+
+#EXTINF:93,MasCHIC
+http://tvnox.sytes.net:7781/udp://@239.0.4.61:5501
+
+#EXTINF:94,Telehit
+http://tvnox.sytes.net:7781/udp://@239.0.4.189:5501
+
+#EXTINF:95,TelehitUrb
+http://tvnox.sytes.net:7781/udp://@239.0.4.188:5501
+
+#EXTINF:96,MTV Hits
+http://tvnox.sytes.net:7781/udp://@239.0.4.63:5501
+
+#EXTINF:97,MTV 80s
+http://tvnox.sytes.net:7781/udp://@239.0.4.65:5501
+
+#EXTINF:98,MTV
+http://tvnox.sytes.net:7781/udp://@239.0.4.77:5501
+
+#EXTINF:99,HTV
+http://tvnox.sytes.net:7781/udp://@239.0.4.79:5501
+
+#EXTINF:100,Las Estrellas
+http://tvnox.sytes.net:7781/udp://@239.0.4.62:5501
+
+#EXTINF:101,RCN Novelas
+http://tvnox.sytes.net:7781/udp://@239.0.4.70:5501
+
+#EXTINF:102,Caracol Novelas
+http://tvnox.sytes.net:7781/udp://@239.0.4.71:5501
+
+#EXTINF:103,TL Novelas
+http://tvnox.sytes.net:7781/udp://@239.0.4.181:5501
+
+#EXTINF:104,TNT Novelas
+http://tvnox.sytes.net:7781/udp://@239.0.4.80:5501
+
+#EXTINF:105,Kanal D Drama
+http://tvnox.sytes.net:7781/udp://@239.0.4.152:5501
+
+#EXTINF:106,Telemundo
+http://tvnox.sytes.net:7781/udp://@239.0.4.186:5501
+
+#EXTINF:107,Show Busines
+http://tvnox.sytes.net:7781/udp://@239.0.4.73:5501
+
+#EXTINF:108,Gourmet
+http://tvnox.sytes.net:7781/udp://@239.0.4.75:5501
+
+#EXTINF:109,FoodNet
+http://tvnox.sytes.net:7781/udp://@239.0.4.81:5501
+
+#EXTINF:110,Alacocina
+http://tvnox.sytes.net:7781/udp://@239.0.4.171:5501
+
+#EXTINF:111,Zoom
+http://tvnox.sytes.net:7781/udp://@239.0.4.110:5501
+
+#EXTINF:112,TVE
+http://tvnox.sytes.net:7781/udp://@239.0.4.113:5501
+
+#EXTINF:113,Antena 3
+http://tvnox.sytes.net:7781/udp://@239.0.4.114:5501
+
+#EXTINF:114,TV 5
+http://tvnox.sytes.net:7781/udp://@239.0.4.115:5501
+
+#EXTINF:115,DW Latin
+http://tvnox.sytes.net:7781/udp://@239.0.4.116:5501
+
+#EXTINF:116,WOBI
+http://tvnox.sytes.net:7781/udp://@239.0.4.119:5501
+
+#EXTINF:117,Mi gente
+http://tvnox.sytes.net:7781/udp://@239.0.4.120:5501
+
+#EXTINF:118,Eltrece
+http://tvnox.sytes.net:7781/udp://@239.0.4.121:5501
+
+#EXTINF:119,CanalTR3CE
+http://tvnox.sytes.net:7781/udp://@239.0.4.140:5501
+
+#EXTINF:120,VePlusTV
+http://tvnox.sytes.net:7781/udp://@239.0.4.144:5501
+
+#EXTINF:121,Univision
+http://tvnox.sytes.net:7781/udp://@239.0.4.190:5501
+
+#EXTINF:122,France24
+http://tvnox.sytes.net:7781/udp://@239.0.4.147:5501
+
+
+
+#EXTINF:245,Playboy HD
+http://tvnox.sytes.net:7781/udp://@239.0.40.248:5501
+
+#EXTINF:246,SexyHot HD
+http://tvnox.sytes.net:7781/udp://@239.0.4.3:5501
+
+#EXTINF:247,ClasicTodo
+http://tvnox.sytes.net:7781/udp://@239.0.42.90:5501
+
+#EXTINF:248,Opera Plus
+http://tvnox.sytes.net:7781/udp://@239.0.42.91:5501
+
+#EXTINF:249,MaestClasi
+http://tvnox.sytes.net:7781/udp://@239.0.42.92:5501
+
+#EXTINF:250,SoloPeques
+http://tvnox.sytes.net:7781/udp://@239.0.42.93:5501
+
+#EXTINF:251,New Age
+http://tvnox.sytes.net:7781/udp://@239.0.42.94:5501
+
+#EXTINF:252,SalonChill
+http://tvnox.sytes.net:7781/udp://@239.0.42.95:5501
+
+#EXTINF:253,Cocktail
+http://tvnox.sytes.net:7781/udp://@239.0.42.96:5501
+
+#EXTINF:254,MaestJazz
+http://tvnox.sytes.net:7781/udp://@239.0.42.97:5501
+
+#EXTINF:255,JazzLatino
+http://tvnox.sytes.net:7781/udp://@239.0.42.98:5501
+
+#EXTINF:256,Blues
+http://tvnox.sytes.net:7781/udp://@239.0.42.99:5501
+
+#EXTINF:257,Big Band
+http://tvnox.sytes.net:7781/udp://@239.0.42.100:5501
+
+#EXTINF:258,PopuBrasil
+http://tvnox.sytes.net:7781/udp://@239.0.42.101:5501
+
+#EXTINF:259,ExitoBrasil
+http://tvnox.sytes.net:7781/udp://@239.0.42.102:5501
+
+#EXTINF:260,RockBrasil
+http://tvnox.sytes.net:7781/udp://@239.0.42.103:5501
+
+#EXTINF:261,Del Mundo
+http://tvnox.sytes.net:7781/udp://@239.0.42.104:5501
+
+#EXTINF:262,LatinLounge
+http://tvnox.sytes.net:7781/udp://@239.0.42.105:5501
+
+#EXTINF:263,Euro Hits
+http://tvnox.sytes.net:7781/udp://@239.0.42.106:5501
+
+#EXTINF:264,Tropical
+http://tvnox.sytes.net:7781/udp://@239.0.42.107:5501
+
+#EXTINF:265,Reggaeton
+http://tvnox.sytes.net:7781/udp://@239.0.42.108:5501
+
+#EXTINF:266,Jammin
+http://tvnox.sytes.net:7781/udp://@239.0.42.109:5501
+
+#EXTINF:267,Pop Latino
+http://tvnox.sytes.net:7781/udp://@239.0.42.110:5501
+
+#EXTINF:268,SalsaMereng
+http://tvnox.sytes.net:7781/udp://@239.0.42.111:5501
+
+#EXTINF:269,Dancehall
+http://tvnox.sytes.net:7781/udp://@239.0.42.112:5501
+
+#EXTINF:270,VivaMexico
+http://tvnox.sytes.net:7781/udp://@239.0.42.113:5501
+
+#EXTINF:271,Tango
+http://tvnox.sytes.net:7781/udp://@239.0.42.114:5501
+
+#EXTINF:272,Samba
+http://tvnox.sytes.net:7781/udp://@239.0.42.115:5501
+
+#EXTINF:273,Mariachi
+http://tvnox.sytes.net:7781/udp://@239.0.42.116:5501
+
+#EXTINF:274,70s
+http://tvnox.sytes.net:7781/udp://@239.0.42.117:5501
+
+#EXTINF:275,80s
+http://tvnox.sytes.net:7781/udp://@239.0.42.118:5501
+
+#EXTINF:276,90s
+http://tvnox.sytes.net:7781/udp://@239.0.42.119:5501
+
+#EXTINF:277,Pop Adulto
+http://tvnox.sytes.net:7781/udp://@239.0.42.120:5501
+
+#EXTINF:278,ExitoItalia
+http://tvnox.sytes.net:7781/udp://@239.0.42.121:5501
+
+#EXTINF:279,Buenisimas
+http://tvnox.sytes.net:7781/udp://@239.0.42.122:5501
+
+#EXTINF:280,De Amor
+http://tvnox.sytes.net:7781/udp://@239.0.42.123:5501
+
+#EXTINF:281,RnB&Soul
+http://tvnox.sytes.net:7781/udp://@239.0.42.124:5501
+
+#EXTINF:282,DeAmericas
+http://tvnox.sytes.net:7781/udp://@239.0.42.125:5501
+
+#EXTINF:283,MusicLigera
+http://tvnox.sytes.net:7781/udp://@239.0.42.126:5501
+
+#EXTINF:284,Club Baile
+http://tvnox.sytes.net:7781/udp://@239.0.42.127:5501
+
+#EXTINF:285,Dance
+http://tvnox.sytes.net:7781/udp://@239.0.42.128:5501
+
+#EXTINF:286,Rompepistas
+http://tvnox.sytes.net:7781/udp://@239.0.42.129:5501
+
+#EXTINF:287,RomanceLat
+http://tvnox.sytes.net:7781/udp://@239.0.42.130:5501
+
+#EXTINF:288,Popcorn
+http://tvnox.sytes.net:7781/udp://@239.0.42.131:5501
+
+#EXTINF:289,Recientes
+http://tvnox.sytes.net:7781/udp://@239.0.42.132:5501
+
+#EXTINF:290,FiestaConti
+http://tvnox.sytes.net:7781/udp://@239.0.42.133:5501
+
+#EXTINF:291,Estandares
+http://tvnox.sytes.net:7781/udp://@239.0.42.134:5501
+
+#EXTINF:292,RockAltern
+http://tvnox.sytes.net:7781/udp://@239.0.42.135:5501
+
+#EXTINF:293,Hard Rock
+http://tvnox.sytes.net:7781/udp://@239.0.42.136:5501
+
+#EXTINF:294,ClasicIndie
+http://tvnox.sytes.net:7781/udp://@239.0.42.139:5501
+
+#EXTINF:295,HimnosRock
+http://tvnox.sytes.net:7781/udp://@239.0.42.138:5501
+
+#EXTINF:296,RockEspa
+http://tvnox.sytes.net:7781/udp://@239.0.42.137:5501
+
