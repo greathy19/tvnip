@@ -20,7 +20,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.112:5501
 #EXTINF:8 tvg-logo="https://fisulab.org/wp-content/uploads/2020/10/Canal-Capital.jpg" ,Canal Capital
 http://tvnox.sytes.net:7781/udp://@239.0.4.107:5501
 
-#EXTINF:9 tvg-logo="" ,Cosmovision
+#EXTINF:9 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Cosmovisi%C3%B3n_2009.png/revision/latest?cb=20210212135658&path-prefix=es" ,Cosmovision
 http://tvnox.sytes.net:7781/udp://@239.0.4.10:5501
 
 #EXTINF:10 tvg-logo="" ,Canal Institucional
