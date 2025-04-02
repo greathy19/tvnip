@@ -23,70 +23,70 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.107:5501
 #EXTINF:9 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Cosmovisi%C3%B3n_2009.png/revision/latest?cb=20210212135658&path-prefix=es" ,Cosmovision
 http://tvnox.sytes.net:7781/udp://@239.0.4.10:5501
 
-#EXTINF:10 tvg-logo="" ,Canal Institucional
+#EXTINF:10 tvg-logo="https://images.seeklogo.com/logo-png/52/2/canal-institucional-tv-logo-png_seeklogo-527797.png" ,Canal Institucional
 http://tvnox.sytes.net:7781/udp://@239.0.4.13:5501
 
-#EXTINF:11,Cablenoticias
+#EXTINF:11 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Cablenoticias-en-vivo-Online.png" ,Cablenoticias
 http://tvnox.sytes.net:7781/udp://@239.0.4.21:5501
 
-#EXTINF:12,Telecaribe
+#EXTINF:12 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" ,Telecaribe
 http://tvnox.sytes.net:7781/udp://@239.0.4.136:5501
 
-#EXTINF:13,Telepacifico
+#EXTINF:13 tvg-logo="" ,Telepacifico
 http://tvnox.sytes.net:7781/udp://@239.0.4.138:5501
 
-#EXTINF:14,Tele Islas
+#EXTINF:14 tvg-logo="" ,Tele Islas
 http://tvnox.sytes.net:7781/udp://@239.0.4.192:5501
 
-#EXTINF:15,TRO
+#EXTINF:15 tvg-logo="" ,TRO
 http://tvnox.sytes.net:7781/udp://@239.0.4.141:5501
 
-#EXTINF:16,Telecafe
+#EXTINF:16 tvg-logo="" ,Telecafe
 http://tvnox.sytes.net:7781/udp://@239.0.4.137:5501
 
-#EXTINF:17,Senal Colombia
+#EXTINF:17 tvg-logo="" ,Senal Colombia
 http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
 
-#EXTINF:18,Nuestra Tele
+#EXTINF:18 tvg-logo="" ,Nuestra Tele
 http://tvnox.sytes.net:7781/udp://@239.0.4.108:5501
 
-#EXTINF:19,El Tiempo
+#EXTINF:19 tvg-logo="" ,El Tiempo
 http://tvnox.sytes.net:7781/udp://@239.0.4.118:5501
 
-#EXTINF:20,Canal del Congreso
+#EXTINF:20 tvg-logo="" ,Canal del Congreso
 http://tvnox.sytes.net:7781/udp://@239.0.4.109:5501
 
-#EXTINF:21,Disney Channel
+#EXTINF:21 tvg-logo="" ,Disney Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.11:5501
 
-#EXTINF:22,Discovery Kids
+#EXTINF:22 tvg-logo="" ,Discovery Kids
 http://tvnox.sytes.net:7781/udp://@239.0.4.12:5501
 
-#EXTINF:23,DreamWorks
+#EXTINF:23 tvg-logo="" ,DreamWorks
 http://tvnox.sytes.net:7781/udp://@239.0.4.14:5501
 
-#EXTINF:24,Nick Jr
+#EXTINF:24 tvg-logo="" ,Nick Jr
 http://tvnox.sytes.net:7781/udp://@239.0.40.127:5501
 
-#EXTINF:25,DisneyJr
+#EXTINF:25 tvg-logo="" ,DisneyJr
 http://tvnox.sytes.net:7781/udp://@239.0.4.15:5501
 
-#EXTINF:26,Cartoon Network
+#EXTINF:26 tvg-logo="" ,Cartoon Network
 http://tvnox.sytes.net:7781/udp://@239.0.4.16:5501
 
-#EXTINF:27,Nickelodeon
+#EXTINF:27 tvg-logo="" ,Nickelodeon
 http://tvnox.sytes.net:7781/udp://@239.0.4.17:5501
 
-#EXTINF:28,Cartoonito
+#EXTINF:28 tvg-logo="" ,Cartoonito
 http://tvnox.sytes.net:7781/udp://@239.0.4.18:5501
 
-#EXTINF:29,Tooncast
+#EXTINF:29 tvg-logo="" ,Tooncast
 http://tvnox.sytes.net:7781/udp://@239.0.4.162:5501
 
-#EXTINF:30,Baby TV
+#EXTINF:30 tvg-logo="" ,Baby TV
 http://tvnox.sytes.net:7781/udp://@239.0.4.128:5501
 
-#EXTINF:31,ZooMoo
+#EXTINF:31 tvg-logo="" ,ZooMoo
 http://tvnox.sytes.net:7781/udp://@239.0.4.148:5501
 
 #EXTINF:32,CNN Español
