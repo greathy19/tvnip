@@ -47,7 +47,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.137:5501
 #EXTINF:17 tvg-logo="-de-medios-publicos-colombia-oro-y-paz-television-logo-bola-television-text-spiral-thumbnail.png" ,Senal Colombia
 http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
 
-#EXTINF:18 tvg-logo="" ,Nuestra Tele
+#EXTINF:18 tvg-logo="https://c0.klipartz.com/pngpicture/35/641/gratis-png-rcn-television-rcn-nuestra-tele-canal-de-television-rcn-radio-tele.png" ,Nuestra Tele
 http://tvnox.sytes.net:7781/udp://@239.0.4.108:5501
 
 #EXTINF:19 tvg-logo="" ,El Tiempo
