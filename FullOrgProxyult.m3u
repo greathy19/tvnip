@@ -14,16 +14,16 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.5:5501
 #EXTINF:6 tvg-logo="https://es-academic.com/pictures/eswiki/50/250px-Telemedellin.svg.png" ,Telemedelln
 http://tvnox.sytes.net:7781/udp://@239.0.4.6:5501
 
-#EXTINF:7 tvg-logo="" ,City TV
+#EXTINF:7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" ,City TV
 http://tvnox.sytes.net:7781/udp://@239.0.4.112:5501
 
-#EXTINF:8 tvg-logo="" ,Canal Capital
+#EXTINF:8 tvg-logo="https://fisulab.org/wp-content/uploads/2020/10/Canal-Capital.jpg" ,Canal Capital
 http://tvnox.sytes.net:7781/udp://@239.0.4.107:5501
 
-#EXTINF:9,Cosmovision
+#EXTINF:9 tvg-logo="" ,Cosmovision
 http://tvnox.sytes.net:7781/udp://@239.0.4.10:5501
 
-#EXTINF:10,Canal Institucional
+#EXTINF:10 tvg-logo="" ,Canal Institucional
 http://tvnox.sytes.net:7781/udp://@239.0.4.13:5501
 
 #EXTINF:11,Cablenoticias
