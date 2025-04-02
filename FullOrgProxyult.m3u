@@ -50,10 +50,10 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
 #EXTINF:18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/RCN_NUESTRA_TELE.png" ,Nuestra Tele
 http://tvnox.sytes.net:7781/udp://@239.0.4.108:5501
 
-#EXTINF:19 tvg-logo="" ,El Tiempo
+#EXTINF:19 tvg-logo="https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/503-941_import.png" ,El Tiempo
 http://tvnox.sytes.net:7781/udp://@239.0.4.118:5501
 
-#EXTINF:20 tvg-logo="" ,Canal del Congreso
+#EXTINF:20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWM0er9CpYfkywnV7ng-yvkCGsVRRNRkvMVw&s" ,Canal del Congreso
 http://tvnox.sytes.net:7781/udp://@239.0.4.109:5501
 
 #EXTINF:21 tvg-logo="" ,Disney Channel
