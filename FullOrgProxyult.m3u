@@ -5,19 +5,19 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.7:5501
 #EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" ,RCN
 http://tvnox.sytes.net:7781/udp://@239.0.4.9:5501
 
-#EXTINF:4,Canal 1
+#EXTINF:4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_1_colombia.png" ,Canal 1
 http://tvnox.sytes.net:7781/udp://@239.0.4.4:5501
 
-#EXTINF:5,Teleantioquia
+#EXTINF:5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cuz19gFZJMf0mbjzCQ8gjhBltd-ufDn9Cu7sp9gTqto4t9Mckj_u7K28iFo2MLN2T2w&usqp=CAU" ,Teleantioquia
 http://tvnox.sytes.net:7781/udp://@239.0.4.5:5501
 
-#EXTINF:6,Telemedelln
+#EXTINF:6 tvg-logo="" ,Telemedelln
 http://tvnox.sytes.net:7781/udp://@239.0.4.6:5501
 
-#EXTINF:7,City TV
+#EXTINF:7 tvg-logo="" ,City TV
 http://tvnox.sytes.net:7781/udp://@239.0.4.112:5501
 
-#EXTINF:8,Canal Capital
+#EXTINF:8 tvg-logo="" ,Canal Capital
 http://tvnox.sytes.net:7781/udp://@239.0.4.107:5501
 
 #EXTINF:9,Cosmovision
