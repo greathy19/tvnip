@@ -38,13 +38,13 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.138:5501
 #EXTINF:14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Teleislas_2012.svg/revision/latest/scale-to-width-down/1236?cb=20170823230953" ,Tele Islas
 http://tvnox.sytes.net:7781/udp://@239.0.4.192:5501
 
-#EXTINF:15 tvg-logo="" ,TRO
+#EXTINF:15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG" ,Canal TRO
 http://tvnox.sytes.net:7781/udp://@239.0.4.141:5501
 
-#EXTINF:16 tvg-logo="" ,Telecafe
+#EXTINF:16 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png" ,Telecafe
 http://tvnox.sytes.net:7781/udp://@239.0.4.137:5501
 
-#EXTINF:17 tvg-logo="" ,Senal Colombia
+#EXTINF:17 tvg-logo="-de-medios-publicos-colombia-oro-y-paz-television-logo-bola-television-text-spiral-thumbnail.png" ,Senal Colombia
 http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
 
 #EXTINF:18 tvg-logo="" ,Nuestra Tele
