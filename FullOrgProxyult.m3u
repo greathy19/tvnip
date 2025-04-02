@@ -32,10 +32,10 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.21:5501
 #EXTINF:12 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" ,Telecaribe
 http://tvnox.sytes.net:7781/udp://@239.0.4.136:5501
 
-#EXTINF:13 tvg-logo="" ,Telepacifico
+#EXTINF:13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" ,Telepacifico
 http://tvnox.sytes.net:7781/udp://@239.0.4.138:5501
 
-#EXTINF:14 tvg-logo="" ,Tele Islas
+#EXTINF:14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Teleislas_2012.svg/revision/latest/scale-to-width-down/1236?cb=20170823230953" ,Tele Islas
 http://tvnox.sytes.net:7781/udp://@239.0.4.192:5501
 
 #EXTINF:15 tvg-logo="" ,TRO
