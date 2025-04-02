@@ -56,7 +56,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.118:5501
 #EXTINF:20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWM0er9CpYfkywnV7ng-yvkCGsVRRNRkvMVw&s" ,Canal del Congreso
 http://tvnox.sytes.net:7781/udp://@239.0.4.109:5501
 
-#EXTINF:21 tvg-logo="" ,Disney Channel
+#EXTINF:21 tvg-logo="https://w7.pngwing.com/pngs/139/203/png-transparent-disney-channel-the-walt-disney-company-television-channel-disney-xd-disney-channel-television-blue-text.png" ,Disney Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.11:5501
 
 #EXTINF:22 tvg-logo="" ,Discovery Kids
