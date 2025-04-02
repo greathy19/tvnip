@@ -89,25 +89,25 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.128:5501
 #EXTINF:31 tvg-logo="" ,ZooMoo
 http://tvnox.sytes.net:7781/udp://@239.0.4.148:5501
 
-#EXTINF:32,CNN Español
+#EXTINF:32 tvg-logo="" ,CNN Español
 http://tvnox.sytes.net:7781/udp://@239.0.4.19:5501
 
-#EXTINF:33,NTN 24
+#EXTINF:33 tvg-logo="" ,NTN 24
 http://tvnox.sytes.net:7781/udp://@239.0.4.20:5501
 
-#EXTINF:34,CNN Internacional
+#EXTINF:34 tvg-logo="" ,CNN Internacional
 http://tvnox.sytes.net:7781/udp://@239.0.4.22:5501
 
-#EXTINF:35,BBC World
+#EXTINF:35 tvg-logo="" ,BBC World
 http://tvnox.sytes.net:7781/udp://@239.0.4.23:5501
 
-#EXTINF:36,Bloomberg
+#EXTINF:36 tvg-logo="" ,Bloomberg
 http://tvnox.sytes.net:7781/udp://@239.0.4.25:5501
 
-#EXTINF:37,Win Sports
+#EXTINF:37 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/250?cb=20240716031620&path-prefix=es" ,Win Sports
 http://tvnox.sytes.net:7781/udp://@239.0.40.199:5501
 
-#EXTINF:38,Win Sports +
+#EXTINF:38 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/340?cb=20240716031751&path-prefix=es" ,Win Sports +
 http://tvnox.sytes.net:7781/udp://@239.0.42.25:5501
 
 #EXTINF:39,ESPN
