@@ -83,10 +83,10 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.18:5501
 #EXTINF:29 tvg-logo="https://logowik.com/content/uploads/images/tooncast4341.jpg" ,Tooncast
 http://tvnox.sytes.net:7781/udp://@239.0.4.162:5501
 
-#EXTINF:30 tvg-logo="" ,Baby TV
+#EXTINF:30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" ,Baby TV
 http://tvnox.sytes.net:7781/udp://@239.0.4.128:5501
 
-#EXTINF:31 tvg-logo="" ,ZooMoo
+#EXTINF:31 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/04f99f42-6382-4deb-8404-3fb52c5ac79c/zoomoo+logo+its+fun+learning+all+the+time.png" ,ZooMoo
 http://tvnox.sytes.net:7781/udp://@239.0.4.148:5501
 
 #EXTINF:32 tvg-logo="" ,CNN Español
