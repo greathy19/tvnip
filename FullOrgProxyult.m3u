@@ -44,7 +44,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.141:5501
 #EXTINF:16 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png" ,Telecafe
 http://tvnox.sytes.net:7781/udp://@239.0.4.137:5501
 
-#EXTINF:17 tvg-logo="-de-medios-publicos-colombia-oro-y-paz-television-logo-bola-television-text-spiral-thumbnail.png" ,Senal Colombia
+#EXTINF:17 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwNSHyfjlmBc9c1LOHxAZpyeTcfZxamh2ow&s" ,Senal Colombia
 http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
 
 #EXTINF:18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/RCN_NUESTRA_TELE.png" ,Nuestra Tele
