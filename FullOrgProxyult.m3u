@@ -11,7 +11,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.4:5501
 #EXTINF:5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cuz19gFZJMf0mbjzCQ8gjhBltd-ufDn9Cu7sp9gTqto4t9Mckj_u7K28iFo2MLN2T2w&usqp=CAU" ,Teleantioquia
 http://tvnox.sytes.net:7781/udp://@239.0.4.5:5501
 
-#EXTINF:6 tvg-logo="https://cdn.mitvstatic.com/channels/7fdc6603-eaac-4c7c-a37b-c4b936608c26_m.jpg" ,TeleMedellin
+#EXTINF:6 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/logo_parque_2020.png" ,TeleMedellin
 http://tvnox.sytes.net:7781/udp://@239.0.4.6:5501
 
 #EXTINF:7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" ,City TV
