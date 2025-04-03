@@ -1,113 +1,113 @@
 #EXTM3U
-#EXTINF:2,Caracol
+#EXTINF:2  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es",Caracol
 http://192.168.5.239:7781/udp://@239.0.4.7:5501
 
-#EXTINF:3,RCN
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" ,RCN
 http://192.168.5.239:7781/udp://@239.0.4.9:5501
 
-#EXTINF:4,Canal 1
+#EXTINF:4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_1_colombia.png" ,Canal 1
 http://192.168.5.239:7781/udp://@239.0.4.4:5501
 
-#EXTINF:5,Teleantioquia
+#EXTINF:5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cuz19gFZJMf0mbjzCQ8gjhBltd-ufDn9Cu7sp9gTqto4t9Mckj_u7K28iFo2MLN2T2w&usqp=CAU" ,Teleantioquia
 http://192.168.5.239:7781/udp://@239.0.4.5:5501
 
-#EXTINF:6,Telemedelln
+#EXTINF:6 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/logo_parque_2020.png" ,TeleMedellin
 http://192.168.5.239:7781/udp://@239.0.4.6:5501
 
-#EXTINF:7,City TV
+#EXTINF:7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" ,City TV
 http://192.168.5.239:7781/udp://@239.0.4.112:5501
 
-#EXTINF:8,Canal Capital
+#EXTINF:8 tvg-logo="https://fisulab.org/wp-content/uploads/2020/10/Canal-Capital.jpg" ,Canal Capital
 http://192.168.5.239:7781/udp://@239.0.4.107:5501
 
-#EXTINF:9,Cosmovision
+#EXTINF:9 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Cosmovisi%C3%B3n_2009.png/revision/latest?cb=20210212135658&path-prefix=es" ,Cosmovision
 http://192.168.5.239:7781/udp://@239.0.4.10:5501
 
-#EXTINF:10,Canal Institucional
+#EXTINF:10 tvg-logo="https://w7.pngwing.com/pngs/854/340/png-transparent-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-logo.png" ,Canal Institucional
 http://192.168.5.239:7781/udp://@239.0.4.13:5501
 
-#EXTINF:11,Cablenoticias
+#EXTINF:11 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Cablenoticias-en-vivo-Online.png" ,Cablenoticias
 http://192.168.5.239:7781/udp://@239.0.4.21:5501
 
-#EXTINF:12,Telecaribe
+#EXTINF:12 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" ,Telecaribe
 http://192.168.5.239:7781/udp://@239.0.4.136:5501
 
-#EXTINF:13,Telepacifico
+#EXTINF:13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" ,Telepacifico
 http://192.168.5.239:7781/udp://@239.0.4.138:5501
 
-#EXTINF:14,Tele Islas
+#EXTINF:14 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Teleislas_2012.svg/revision/latest/scale-to-width-down/1236?cb=20170823230953" ,Tele Islas
 http://192.168.5.239:7781/udp://@239.0.4.192:5501
 
-#EXTINF:15,TRO
+#EXTINF:15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canal_tro_logo.PNG/640px-Canal_tro_logo.PNG" ,Canal TRO
 http://192.168.5.239:7781/udp://@239.0.4.141:5501
 
-#EXTINF:16,Telecafe
+#EXTINF:16 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png" ,Telecafe
 http://192.168.5.239:7781/udp://@239.0.4.137:5501
 
-#EXTINF:17,Senal Colombia
+#EXTINF:17 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwNSHyfjlmBc9c1LOHxAZpyeTcfZxamh2ow&s" ,Senal Colombia
 http://192.168.5.239:7781/udp://@239.0.4.24:5501
 
-#EXTINF:18,Nuestra Tele
+#EXTINF:18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/RCN_NUESTRA_TELE.png" ,Nuestra Tele
 http://192.168.5.239:7781/udp://@239.0.4.108:5501
 
-#EXTINF:19,El Tiempo
+#EXTINF:19 tvg-logo="https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/503-941_import.png" ,El Tiempo
 http://192.168.5.239:7781/udp://@239.0.4.118:5501
 
-#EXTINF:20,Canal del Congreso
+#EXTINF:20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWM0er9CpYfkywnV7ng-yvkCGsVRRNRkvMVw&s" ,Canal del Congreso
 http://192.168.5.239:7781/udp://@239.0.4.109:5501
 
-#EXTINF:21,Disney Channel
+#EXTINF:21 tvg-logo="https://w7.pngwing.com/pngs/139/203/png-transparent-disney-channel-the-walt-disney-company-television-channel-disney-xd-disney-channel-television-blue-text.png" ,Disney Channel
 http://192.168.5.239:7781/udp://@239.0.4.11:5501
 
-#EXTINF:22,Discovery Kids
+#EXTINF:22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" ,Discovery Kids
 http://192.168.5.239:7781/udp://@239.0.4.12:5501
 
-#EXTINF:23,DreamWorks
+#EXTINF:23 tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/a/a0/Unnamed.png" ,DreamWorks
 http://192.168.5.239:7781/udp://@239.0.4.14:5501
 
-#EXTINF:24,Nick Jr
+#EXTINF:24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" ,Nick Jr
 http://192.168.5.239:7781/udp://@239.0.40.127:5501
 
-#EXTINF:25,DisneyJr
+#EXTINF:25 tvg-logo="https://logowik.com/content/uploads/images/disney-jr-djr-202418565.logowik.com.webp" ,DisneyJr
 http://192.168.5.239:7781/udp://@239.0.4.15:5501
 
-#EXTINF:26,Cartoon Network
+#EXTINF:26 tvg-logo="https://www.citypng.com/public/uploads/preview/cn-cartoon-network-black-logo-png-image-7358116966105378kmbt8c75i.png" ,Cartoon Network
 http://192.168.5.239:7781/udp://@239.0.4.16:5501
 
-#EXTINF:27,Nickelodeon
+#EXTINF:27 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" ,Nickelodeon
 http://192.168.5.239:7781/udp://@239.0.4.17:5501
 
-#EXTINF:28,Cartoonito
+#EXTINF:28 tvg-logo="https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg" ,Cartoonito
 http://192.168.5.239:7781/udp://@239.0.4.18:5501
 
-#EXTINF:29,Tooncast
+#EXTINF:29 tvg-logo="https://logowik.com/content/uploads/images/tooncast4341.jpg" ,Tooncast
 http://192.168.5.239:7781/udp://@239.0.4.162:5501
 
-#EXTINF:30,Baby TV
+#EXTINF:30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" ,Baby TV
 http://192.168.5.239:7781/udp://@239.0.4.128:5501
 
-#EXTINF:31,ZooMoo
+#EXTINF:31 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/04f99f42-6382-4deb-8404-3fb52c5ac79c/zoomoo+logo+its+fun+learning+all+the+time.png" ,ZooMoo
 http://192.168.5.239:7781/udp://@239.0.4.148:5501
 
-#EXTINF:32,CNN Español
+#EXTINF:32 tvg-logo="https://c0.klipartz.com/pngpicture/750/138/gratis-png-cnn-en-espanol-logo-estados-unidos-estados-unidos-thumbnail.png" ,CNN Español
 http://192.168.5.239:7781/udp://@239.0.4.19:5501
 
-#EXTINF:33,NTN 24
+#EXTINF:33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" ,NTN 24
 http://192.168.5.239:7781/udp://@239.0.4.20:5501
 
-#EXTINF:34,CNN Internacional
+#EXTINF:34 tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/cnn-international-logo.png" ,CNN Internacional
 http://192.168.5.239:7781/udp://@239.0.4.22:5501
 
-#EXTINF:35,BBC World
+#EXTINF:35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIy-V3SSfSS7IF3Ph3WvG6WMY3QuS-e5MeTA&s" ,BBC World
 http://192.168.5.239:7781/udp://@239.0.4.23:5501
 
-#EXTINF:36,Bloomberg
+#EXTINF:36 tvg-logo="" ,Bloomberg
 http://192.168.5.239:7781/udp://@239.0.4.25:5501
 
-#EXTINF:37,Win Sports
+#EXTINF:37 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/250?cb=20240716031620&path-prefix=es" ,Win Sports
 http://192.168.5.239:7781/udp://@239.0.40.199:5501
 
-#EXTINF:38,Win Sports +
+#EXTINF:38 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/340?cb=20240716031751&path-prefix=es" ,Win Sports +
 http://192.168.5.239:7781/udp://@239.0.42.25:5501
 
 #EXTINF:39,ESPN
@@ -362,341 +362,12 @@ http://192.168.5.239:7781/udp://@239.0.4.190:5501
 #EXTINF:122,France24
 http://192.168.5.239:7781/udp://@239.0.4.147:5501
 
-#EXTINF:123,Caracol HD
-http://192.168.5.239:7781/udp://@239.0.4.212:5501
 
-#EXTINF:124,RCN HD
-http://192.168.5.239:7781/udp://@239.0.4.211:5501
-
-#EXTINF:125,Canal1 HD
-http://192.168.5.239:7781/udp://@239.0.4.249:5501
-
-#EXTINF:126,Teleantioquia  HD
-http://192.168.5.239:7781/udp://@239.0.4.242:5501
-
-#EXTINF:127,TeleMedellin HD
-http://192.168.5.239:7781/udp://@239.0.40.144:5501
-
-#EXTINF:128,Senal Colombia HD
-http://192.168.5.239:7781/udp://@239.0.4.250:5501
-
-#EXTINF:129,Canal Institucional HD
-http://192.168.5.239:7781/udp://@239.0.4.251:5501
-
-#EXTINF:130,Cosmovision HD
-http://192.168.5.239:7781/udp://@239.0.4.94:5501
-
-#EXTINF:131,UC Colombia (UC12)
-http://192.168.5.239:7781/udp://@239.0.4.207:5501
-
-#EXTINF:132,Theater HD
-http://192.168.5.239:7781/udp://@239.0.4.201:5501
-
-#EXTINF:133,World HD
-http://192.168.5.239:7781/udp://@239.0.4.231:5501
-
-#EXTINF:134,DiscoveryHD
-http://192.168.5.239:7781/udp://@239.0.42.12:5501
-
-#EXTINF:135,Science HD
-http://192.168.5.239:7781/udp://@239.0.42.24:5501
-
-#EXTINF:136,Turbo HD
-http://192.168.5.239:7781/udp://@239.0.42.7:5501
-
-#EXTINF:137,H&H HD
-http://192.168.5.239:7781/udp://@239.0.4.240:5501
-
-#EXTINF:138,ID HD
-http://192.168.5.239:7781/udp://@239.0.4.241:5501
-
-#EXTINF:139,TLC HD
-http://192.168.5.239:7781/udp://@239.0.42.34:5501
-
-#EXTINF:140,Hola TV HD
-http://192.168.5.239:7781/udp://@239.0.4.93:5501
-
-#EXTINF:141,NatGeo HD
-http://192.168.5.239:7781/udp://@239.0.42.255:5501
-
-#EXTINF:142,CuriosityHD
-http://192.168.5.239:7781/udp://@239.0.42.27:5501
-
-#EXTINF:143,History HD
-http://192.168.5.239:7781/udp://@239.0.4.208:5501
-
-#EXTINF:144,H2 HD
-http://192.168.5.239:7781/udp://@239.0.42.26:5501
-
-#EXTINF:145,Love Nature HD
-http://192.168.5.239:7781/udp://@239.0.4.179:5501
-
-#EXTINF:146,Animal Planet HD
-http://192.168.5.239:7781/udp://@239.0.42.29:5501
-
-#EXTINF:147,LifeTime HD
-http://192.168.5.239:7781/udp://@239.0.42.18:5501
-
-#EXTINF:148,E! Entertainment HD
-http://192.168.5.239:7781/udp://@239.0.42.21:5501
-
-#EXTINF:149,HGTV HD
-http://192.168.5.239:7781/udp://@239.0.42.6:5501
-
-#EXTINF:150,MasCHIC HD
-http://192.168.5.239:7781/udp://@239.0.42.20:5501
-
-#EXTINF:151,Win Sports HD
-http://192.168.5.239:7781/udp://@239.0.40.198:5501
-
-#EXTINF:152,Win Sports + HD
-http://192.168.5.239:7781/udp://@239.0.42.9:5501
-
-#EXTINF:153,ESPN HD
-http://192.168.5.239:7781/udp://@239.0.42.245:5501
-
-#EXTINF:154,ESPN 2 HD
-http://192.168.5.239:7781/udp://@239.0.42.244:5501
-
-#EXTINF:155,ESPN 3 HD
-http://192.168.5.239:7781/udp://@239.0.4.229:5501
-
-#EXTINF:156,ESPN 4 HD
-http://192.168.5.239:7781/udp://@239.0.4.203:5501
-
-#EXTINF:157,ESPN 5 HD
-http://192.168.5.239:7781/udp://@239.0.4.204:5501
-
-#EXTINF:158,ESPN 6 HD
-http://192.168.5.239:7781/udp://@239.0.4.244:5501
-
-#EXTINF:159,ESPN 7 HD
-http://192.168.5.239:7781/udp://@239.0.4.247:5501
-
-#EXTINF:160,PXSportsHD
-http://192.168.5.239:7781/udp://@239.0.42.252:5501
-
-#EXTINF:161,Golf Latin
-http://192.168.5.239:7781/udp://@239.0.4.245:5501
-
-#EXTINF:162,TeleVid HD
-http://192.168.5.239:7781/udp://@239.0.4.180:5501
-
-#EXTINF:163,TVFamilia HD
-http://192.168.5.239:7781/udp://@239.0.4.218:5501
-
-#EXTINF:164,Cartoon Network HD
-http://192.168.5.239:7781/udp://@239.0.42.5:5501
-
-#EXTINF:165,Disney HD
-http://192.168.5.239:7781/udp://@239.0.42.247:5501
-
-#EXTINF:166,DisneyJr HD
-http://192.168.5.239:7781/udp://@239.0.42.13:5501
-
-#EXTINF:167,Discovery Kids HD
-http://192.168.5.239:7781/udp://@239.0.4.127:5501
-
-#EXTINF:168,DreamWorks HD
-http://192.168.5.239:7781/udp://@239.0.42.30:5501
-
-#EXTINF:169,Nick Jr HD
-http://192.168.5.239:7781/udp://@239.0.42.28:5501
-
-#EXTINF:170,Nickelodeon HD
-http://192.168.5.239:7781/udp://@239.0.4.236:5501
-
-#EXTINF:171,Cartoonito HD
-http://192.168.5.239:7781/udp://@239.0.42.15:5501
-
-#EXTINF:172,ZooMoo HD
-http://192.168.5.239:7781/udp://@239.0.4.177:5501
-
-#EXTINF:173,Sony HD
-http://192.168.5.239:7781/udp://@239.0.4.213:5501
-
-#EXTINF:174,Cinecanal HD
-http://192.168.5.239:7781/udp://@239.0.4.206:5501
-
-#EXTINF:175,Star Channel HD
-http://192.168.5.239:7781/udp://@239.0.4.200:5501
-
-#EXTINF:176,A&E HD
-http://192.168.5.239:7781/udp://@239.0.4.214:5501
-
-#EXTINF:177,Warner HD
-http://192.168.5.239:7781/udp://@239.0.4.215:5501
-
-#EXTINF:179,AXN HD
-http://192.168.5.239:7781/udp://@239.0.4.216:5501
-
-#EXTINF:180,TNT HD
-http://192.168.5.239:7781/udp://@239.0.4.220:5501
-
-#EXTINF:181,Space HD
-http://192.168.5.239:7781/udp://@239.0.4.221:5501
-
-#EXTINF:182,AMC HD
-http://192.168.5.239:7781/udp://@239.0.4.222:5501
-
-#EXTINF:191,DHE HD
-http://192.168.5.239:7781/udp://@239.0.4.243:5501
-
-#EXTINF:192,Golden HD
-http://192.168.5.239:7781/udp://@239.0.4.223:5501
-
-#EXTINF:193,FX HD
-http://192.168.5.239:7781/udp://@239.0.4.224:5501
-
-#EXTINF:194,SonyMovHD
-http://192.168.5.239:7781/udp://@239.0.4.225:5501
-
-#EXTINF:195,StudioUniversal HD
-http://192.168.5.239:7781/udp://@239.0.42.32:5501
-
-#EXTINF:196,Comedy Central HD
-http://192.168.5.239:7781/udp://@239.0.4.226:5501
-
-#EXTINF:197,USANETHD
-http://192.168.5.239:7781/udp://@239.0.42.23:5501
-
-#EXTINF:201,SUN HD
-http://192.168.5.239:7781/udp://@239.0.4.210:5501
-
-#EXTINF:202,ParamountHD
-http://192.168.5.239:7781/udp://@239.0.4.227:5501
-
-#EXTINF:203,Cinemax HD
-http://192.168.5.239:7781/udp://@239.0.42.31:5501
-
-#EXTINF:204,Star TVE HD
-http://192.168.5.239:7781/udp://@239.0.4.176:5501
-
-#EXTINF:205,GPremierHD
-http://192.168.5.239:7781/udp://@239.0.42.253:5501
-
-#EXTINF:206,ADULTSWHD
-http://192.168.5.239:7781/udp://@239.0.4.228:5501
-
-#EXTINF:207,Bitme
-http://192.168.5.239:7781/udp://@239.0.42.4:5501
-
-#EXTINF:208,Film&ArtsHD
-http://192.168.5.239:7781/udp://@239.0.42.11:5501
-
-#EXTINF:209,Universal Comedy HD
-http://192.168.5.239:7781/udp://@239.0.40.194:5501
-
-#EXTINF:210,Universal Cine HD
-http://192.168.5.239:7781/udp://@239.0.40.195:5501
-
-#EXTINF:211,Universal Premium HD
-http://192.168.5.239:7781/udp://@239.0.40.196:5501
-
-#EXTINF:212,Universal Reality HD
-http://192.168.5.239:7781/udp://@239.0.40.197:5501
-
-#EXTINF:213,HBO HD
-http://192.168.5.239:7781/udp://@239.0.40.225:5501
-
-#EXTINF:214,HBO 2 HD
-http://192.168.5.239:7781/udp://@239.0.40.227:5501
-
-#EXTINF:215,HBO+ HD
-http://192.168.5.239:7781/udp://@239.0.40.228:5501
-
-#EXTINF:216,HBO Xtreme HD
-http://192.168.5.239:7781/udp://@239.0.40.231:5501
-
-#EXTINF:217,HBO Family HD
-http://192.168.5.239:7781/udp://@239.0.40.230:5501
-
-#EXTINF:218,HBO Signature HD
-http://192.168.5.239:7781/udp://@239.0.40.229:5501
-
-#EXTINF:219,HBO Pop HD
-http://192.168.5.239:7781/udp://@239.0.40.226:5501
-
-#EXTINF:220,KanalD HD
-http://192.168.5.239:7781/udp://@239.0.4.239:5501
-
-#EXTINF:221,PasionesHD
-http://192.168.5.239:7781/udp://@239.0.4.238:5501
-
-#EXTINF:222,Las Estrellas HD
-http://192.168.5.239:7781/udp://@239.0.4.232:5501
-
-#EXTINF:223,TelemundoHD
-http://192.168.5.239:7781/udp://@239.0.42.3:5501
-
-#EXTINF:224,Telehit HD
-http://192.168.5.239:7781/udp://@239.0.4.233:5501
-
-#EXTINF:225,Telehit Ur HD
-http://192.168.5.239:7781/udp://@239.0.42.35:5501
-
-#EXTINF:226,MTV HD
-http://192.168.5.239:7781/udp://@239.0.4.234:5501
-
-#EXTINF:227,MTV00s
-http://192.168.5.239:7781/udp://@239.0.4.235:5501
-
-#EXTINF:228,MTV HD
-http://192.168.5.239:7781/udp://@239.0.42.36:5501
-
-#EXTINF:229,Allegro HD
-http://192.168.5.239:7781/udp://@239.0.4.209:5501
-
-#EXTINF:230,Euronews HD
-http://192.168.5.239:7781/udp://@239.0.40.250:5501
-
-#EXTINF:231,AlJazeeraHD
-http://192.168.5.239:7781/udp://@239.0.42.8:5501
-
-#EXTINF:232,TV5 HD
-http://192.168.5.239:7781/udp://@239.0.42.10:5501
-
-#EXTINF:233,Europa HD
-http://192.168.5.239:7781/udp://@239.0.42.14:5501
-
-#EXTINF:234,BBC HD
-http://192.168.5.239:7781/udp://@239.0.42.19:5501
-
-#EXTINF:235,France24HD
-http://192.168.5.239:7781/udp://@239.0.4.178:5501
-
-#EXTINF:236,24HSHD
-http://192.168.5.239:7781/udp://@239.0.4.217:5501
-
-#EXTINF:237,Antena3 HD
-http://192.168.5.239:7781/udp://@239.0.42.22:5501
-
-#EXTINF:238,Bloomberg HD
-http://192.168.5.239:7781/udp://@239.0.42.33:5501
-
-#EXTINF:239,VePlusTV HD
-http://192.168.5.239:7781/udp://@239.0.42.17:5501
-
-#EXTINF:240,El Trece Internacional
-http://192.168.5.239:7781/udp://@239.0.42.16:5501
-
-#EXTINF:241,Agrotendencia
-http://192.168.5.239:7781/udp://@239.0.4.237:5501
-
-#EXTINF:242,Gourmet HD
-http://192.168.5.239:7781/udp://@239.0.42.2:5501
-
-#EXTINF:243,GustoTV HD
-http://192.168.5.239:7781/udp://@239.0.42.37:5501
-
-#EXTINF:244,FoodNetHD
-http://192.168.5.239:7781/udp://@239.0.42.251:5501
 
 #EXTINF:245,Playboy HD
 http://192.168.5.239:7781/udp://@239.0.40.248:5501
 
-#EXTINF:246,SexyHot HD
-http://192.168.5.239:7781/udp://@239.0.4.3:5501
+
 
 #EXTINF:247,ClasicTodo
 http://192.168.5.239:7781/udp://@239.0.42.90:5501
