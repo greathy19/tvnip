@@ -89,16 +89,16 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.128:5501
 #EXTINF:31 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/04f99f42-6382-4deb-8404-3fb52c5ac79c/zoomoo+logo+its+fun+learning+all+the+time.png" ,ZooMoo
 http://tvnox.sytes.net:7781/udp://@239.0.4.148:5501
 
-#EXTINF:32 tvg-logo="" ,CNN Español
+#EXTINF:32 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnn-en-espanol-logo-png-transparent.png" ,CNN Español
 http://tvnox.sytes.net:7781/udp://@239.0.4.19:5501
 
-#EXTINF:33 tvg-logo="" ,NTN 24
+#EXTINF:33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" ,NTN 24
 http://tvnox.sytes.net:7781/udp://@239.0.4.20:5501
 
-#EXTINF:34 tvg-logo="" ,CNN Internacional
+#EXTINF:34 tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/cnn-international-logo.png" ,CNN Internacional
 http://tvnox.sytes.net:7781/udp://@239.0.4.22:5501
 
-#EXTINF:35 tvg-logo="" ,BBC World
+#EXTINF:35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIy-V3SSfSS7IF3Ph3WvG6WMY3QuS-e5MeTA&s" ,BBC World
 http://tvnox.sytes.net:7781/udp://@239.0.4.23:5501
 
 #EXTINF:36 tvg-logo="" ,Bloomberg
