@@ -68,19 +68,19 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.14:5501
 #EXTINF:24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" ,Nick Jr
 http://tvnox.sytes.net:7781/udp://@239.0.40.127:5501
 
-#EXTINF:25 tvg-logo="https://64.media.tumblr.com/026e560abb9e6ffa42868b8d3cb106e8/91a5cde67d442a20-f3/s500x750/a5e9fa640a432211d549f51772f9f19f51152900.png" ,DisneyJr
+#EXTINF:25 tvg-logo="https://logowik.com/content/uploads/images/disney-jr-djr-202418565.logowik.com.webp" ,DisneyJr
 http://tvnox.sytes.net:7781/udp://@239.0.4.15:5501
 
-#EXTINF:26 tvg-logo="" ,Cartoon Network
+#EXTINF:26 tvg-logo="https://www.citypng.com/public/uploads/preview/cn-cartoon-network-black-logo-png-image-7358116966105378kmbt8c75i.png" ,Cartoon Network
 http://tvnox.sytes.net:7781/udp://@239.0.4.16:5501
 
-#EXTINF:27 tvg-logo="" ,Nickelodeon
+#EXTINF:27 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" ,Nickelodeon
 http://tvnox.sytes.net:7781/udp://@239.0.4.17:5501
 
-#EXTINF:28 tvg-logo="" ,Cartoonito
+#EXTINF:28 tvg-logo="https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg" ,Cartoonito
 http://tvnox.sytes.net:7781/udp://@239.0.4.18:5501
 
-#EXTINF:29 tvg-logo="" ,Tooncast
+#EXTINF:29 tvg-logo="https://logowik.com/content/uploads/images/tooncast4341.jpg" ,Tooncast
 http://tvnox.sytes.net:7781/udp://@239.0.4.162:5501
 
 #EXTINF:30 tvg-logo="" ,Baby TV
