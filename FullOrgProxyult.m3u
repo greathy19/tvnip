@@ -200,34 +200,34 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.47:5501
 #EXTINF:68 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Paramount_Pics_logo.png" ,Paramount
 http://tvnox.sytes.net:7781/udp://@239.0.4.64:5501
 
-#EXTINF:69 tvg-logo="https://images.seeklogo.com/logo-png/52/2/star-channels-logo-png_seeklogo-523975.png" ,Star Channel
+#EXTINF:69 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/2560px-Star_Channel_2020.svg.png" ,Star Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.50:5501
 
-#EXTINF:70 tvg-logo="" ,FX
+#EXTINF:70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_nH0UexEIjf7nUuiu2AIIHbaS5d8kSuxZA&s" ,FX
 http://tvnox.sytes.net:7781/udp://@239.0.4.51:5501
 
-#EXTINF:71 tvg-logo="" ,AXN
+#EXTINF:71 tvg-logo="https://images.seeklogo.com/logo-png/17/2/axn-logo-png_seeklogo-178354.png" ,AXN
 http://tvnox.sytes.net:7781/udp://@239.0.4.53:5501
 
 #EXTINF:72 tvg-logo="" ,Sony
 http://tvnox.sytes.net:7781/udp://@239.0.4.54:5501
 
-#EXTINF:73 tvg-logo="" ,Cinecanal
+#EXTINF:73 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1280px-CinecanalLA.png" ,Cinecanal
 http://tvnox.sytes.net:7781/udp://@239.0.4.86:5501
 
-#EXTINF:74 tvg-logo="" ,Warner
+#EXTINF:74 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Log%D0%BE.png" ,Warner
 http://tvnox.sytes.net:7781/udp://@239.0.4.55:5501
 
 #EXTINF:75 tvg-logo="" ,A&E
 http://tvnox.sytes.net:7781/udp://@239.0.4.56:5501
 
-#EXTINF:76 tvg-logo="" ,GoldenEdge
+#EXTINF:76 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png" ,GoldenEdge
 http://tvnox.sytes.net:7781/udp://@239.0.4.184:5501
 
-#EXTINF:77 tvg-logo="" ,DePelicula
+#EXTINF:77 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" ,DePelicula
 http://tvnox.sytes.net:7781/udp://@239.0.4.183:5501
 
-#EXTINF:78 tvg-logo="" ,AdultSwim
+#EXTINF:78 tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo-2002.png" ,AdultSwim
 http://tvnox.sytes.net:7781/udp://@239.0.4.72:5501
 
 #EXTINF:79,BitME
