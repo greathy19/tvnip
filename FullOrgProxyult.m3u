@@ -191,16 +191,16 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.44:5501
 #EXTINF:65 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1200px-Cinemax_new.png" ,Cinemax
 http://tvnox.sytes.net:7781/udp://@239.0.4.45:5501
 
-#EXTINF:66 tvg-logo="" ,Golden
+#EXTINF:66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" ,Golden
 http://tvnox.sytes.net:7781/udp://@239.0.4.46:5501
 
-#EXTINF:67 tvg-logo="" ,AMC
+#EXTINF:67 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,AMC
 http://tvnox.sytes.net:7781/udp://@239.0.4.47:5501
 
-#EXTINF:68 tvg-logo="" ,Paramount
+#EXTINF:68 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Paramount_Pics_logo.png" ,Paramount
 http://tvnox.sytes.net:7781/udp://@239.0.4.64:5501
 
-#EXTINF:69 tvg-logo="" ,Star Channel
+#EXTINF:69 tvg-logo="https://images.seeklogo.com/logo-png/52/2/star-channels-logo-png_seeklogo-523975.png" ,Star Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.50:5501
 
 #EXTINF:70 tvg-logo="" ,FX
