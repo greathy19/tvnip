@@ -143,22 +143,22 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.67:5501
 #EXTINF:49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" ,Animal Planet
 http://tvnox.sytes.net:7781/udp://@239.0.4.32:5501
 
-#EXTINF:50 tvg-logo="" ,H&H
+#EXTINF:50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFptRgL7sOZYiXWXVIqBFMHrz6yZqDg4mrQ&s" ,H&H
 http://tvnox.sytes.net:7781/udp://@239.0.4.33:5501
 
-#EXTINF:51 tvg-logo="" ,TLC
+#EXTINF:51 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,TLC
 http://tvnox.sytes.net:7781/udp://@239.0.4.34:5501
 
-#EXTINF:52 tvg-logo="" ,E! Entertainment
+#EXTINF:52 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" ,E! Entertainment
 http://tvnox.sytes.net:7781/udp://@239.0.4.74:5501
 
-#EXTINF:53 tvg-logo="" ,NatGeo
+#EXTINF:53 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" ,NatGeo
 http://tvnox.sytes.net:7781/udp://@239.0.4.35:5501
 
-#EXTINF:54 tvg-logo="" ,History Channel
+#EXTINF:54 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Q5CgsLYOTc_i0d8SUvgCGptUPnj7kSITOw&s" ,History Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.37:5501
 
-#EXTINF:55 tvg-logo="" ,HGTV
+#EXTINF:55 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSKcdBU1ViElQV3wCJRM9WSfEoeOZ_eQMtQ&s" ,HGTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.66:5501
 
 #EXTINF:56 tvg-logo="" ,Film&Arts
