@@ -101,7 +101,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.22:5501
 #EXTINF:35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIy-V3SSfSS7IF3Ph3WvG6WMY3QuS-e5MeTA&s" ,BBC World
 http://tvnox.sytes.net:7781/udp://@239.0.4.23:5501
 
-#EXTINF:36 tvg-logo="" ,Bloomberg
+#EXTINF:36 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMPyFTnCZM3JMV2zubLvlA6bIgoQuJJUnXvw&s" ,Bloomberg
 http://tvnox.sytes.net:7781/udp://@239.0.4.25:5501
 
 #EXTINF:37 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/250?cb=20240716031620&path-prefix=es" ,Win Sports
@@ -110,124 +110,124 @@ http://tvnox.sytes.net:7781/udp://@239.0.40.199:5501
 #EXTINF:38 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Win%2BFutbol2024.svg/revision/latest/scale-to-width-down/340?cb=20240716031751&path-prefix=es" ,Win Sports +
 http://tvnox.sytes.net:7781/udp://@239.0.42.25:5501
 
-#EXTINF:39,ESPN
+#EXTINF:39  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" ,ESPN
 http://tvnox.sytes.net:7781/udp://@239.0.4.29:5501
 
-#EXTINF:40,ESPN 2
+#EXTINF:40 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPAJdIblZ9f_AfIEb7_nvBVF5teMZonZ0LA&s" ,ESPN 2
 http://tvnox.sytes.net:7781/udp://@239.0.4.30:5501
 
-#EXTINF:41,ESPN 3
+#EXTINF:41 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4Q85t41NLmvyGtZb4rAADAks4YgvkVEHWw&s" ,ESPN 3
 http://tvnox.sytes.net:7781/udp://@239.0.4.124:5501
 
-#EXTINF:42,ESPN 5
+#EXTINF:42 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" ,ESPN 5
 http://tvnox.sytes.net:7781/udp://@239.0.4.26:5501
 
-#EXTINF:43,ESPN 6
+#EXTINF:43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" ,ESPN 6
 http://tvnox.sytes.net:7781/udp://@239.0.4.28:5501
 
-#EXTINF:44,ESPN 7
+#EXTINF:44 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" ,ESPN 7
 http://tvnox.sytes.net:7781/udp://@239.0.4.27:5501
 
-#EXTINF:45,Discovery
+#EXTINF:45 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" ,Discovery
 http://tvnox.sytes.net:7781/udp://@239.0.4.31:5501
 
-#EXTINF:46,Science
+#EXTINF:46 tvg-logo="" ,Science
 http://tvnox.sytes.net:7781/udp://@239.0.4.68:5501
 
-#EXTINF:47,ID
+#EXTINF:47 tvg-logo="" ,ID
 http://tvnox.sytes.net:7781/udp://@239.0.4.49:5501
 
-#EXTINF:48,Discovery Turbo
+#EXTINF:48 tvg-logo="" ,Discovery Turbo
 http://tvnox.sytes.net:7781/udp://@239.0.4.67:5501
 
-#EXTINF:49,Animal
+#EXTINF:49 tvg-logo="" ,Animal
 http://tvnox.sytes.net:7781/udp://@239.0.4.32:5501
 
-#EXTINF:50,H&H
+#EXTINF:50 tvg-logo="" ,H&H
 http://tvnox.sytes.net:7781/udp://@239.0.4.33:5501
 
-#EXTINF:51,TLC
+#EXTINF:51 tvg-logo="" ,TLC
 http://tvnox.sytes.net:7781/udp://@239.0.4.34:5501
 
-#EXTINF:52,E! Entertainment
+#EXTINF:52 tvg-logo="" ,E! Entertainment
 http://tvnox.sytes.net:7781/udp://@239.0.4.74:5501
 
-#EXTINF:53,NatGeo
+#EXTINF:53 tvg-logo="" ,NatGeo
 http://tvnox.sytes.net:7781/udp://@239.0.4.35:5501
 
-#EXTINF:54,History Channel
+#EXTINF:54 tvg-logo="" ,History Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.37:5501
 
-#EXTINF:55,HGTV
+#EXTINF:55 tvg-logo="" ,HGTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.66:5501
 
-#EXTINF:56,Film&Arts
+#EXTINF:56 tvg-logo="" ,Film&Arts
 http://tvnox.sytes.net:7781/udp://@239.0.4.38:5501
 
-#EXTINF:57,Lifetime
+#EXTINF:57 tvg-logo="" ,Lifetime
 http://tvnox.sytes.net:7781/udp://@239.0.4.132:5501
 
-#EXTINF:58,TNT Series
+#EXTINF:58 tvg-logo="" ,TNT Series
 http://tvnox.sytes.net:7781/udp://@239.0.4.36:5501
 
-#EXTINF:59,Universal
+#EXTINF:59 tvg-logo="" ,Universal
 http://tvnox.sytes.net:7781/udp://@239.0.4.39:5501
 
-#EXTINF:60,Studio Universal
+#EXTINF:60 tvg-logo="" ,Studio Universal
 http://tvnox.sytes.net:7781/udp://@239.0.4.40:5501
 
-#EXTINF:61,Sony Movies
+#EXTINF:61 tvg-logo="" ,Sony Movies
 http://tvnox.sytes.net:7781/udp://@239.0.4.41:5501
 
-#EXTINF:62,TNT
+#EXTINF:62 tvg-logo="" ,TNT
 http://tvnox.sytes.net:7781/udp://@239.0.4.42:5501
 
-#EXTINF:63,TCM
+#EXTINF:63 tvg-logo="" ,TCM
 http://tvnox.sytes.net:7781/udp://@239.0.4.43:5501
 
-#EXTINF:64,Space
+#EXTINF:64 tvg-logo="" ,Space
 http://tvnox.sytes.net:7781/udp://@239.0.4.44:5501
 
-#EXTINF:65,Cinemax
+#EXTINF:65 tvg-logo="" ,Cinemax
 http://tvnox.sytes.net:7781/udp://@239.0.4.45:5501
 
-#EXTINF:66,Golden
+#EXTINF:66 tvg-logo="" ,Golden
 http://tvnox.sytes.net:7781/udp://@239.0.4.46:5501
 
-#EXTINF:67,AMC
+#EXTINF:67 tvg-logo="" ,AMC
 http://tvnox.sytes.net:7781/udp://@239.0.4.47:5501
 
-#EXTINF:68,Paramount
+#EXTINF:68 tvg-logo="" ,Paramount
 http://tvnox.sytes.net:7781/udp://@239.0.4.64:5501
 
-#EXTINF:69,Star Channel
+#EXTINF:69 tvg-logo="" ,Star Channel
 http://tvnox.sytes.net:7781/udp://@239.0.4.50:5501
 
-#EXTINF:70,FX
+#EXTINF:70 tvg-logo="" ,FX
 http://tvnox.sytes.net:7781/udp://@239.0.4.51:5501
 
-#EXTINF:71,AXN
+#EXTINF:71 tvg-logo="" ,AXN
 http://tvnox.sytes.net:7781/udp://@239.0.4.53:5501
 
-#EXTINF:72,Sony
+#EXTINF:72 tvg-logo="" ,Sony
 http://tvnox.sytes.net:7781/udp://@239.0.4.54:5501
 
-#EXTINF:73,Cinecanal
+#EXTINF:73 tvg-logo="" ,Cinecanal
 http://tvnox.sytes.net:7781/udp://@239.0.4.86:5501
 
-#EXTINF:74,Warner
+#EXTINF:74 tvg-logo="" ,Warner
 http://tvnox.sytes.net:7781/udp://@239.0.4.55:5501
 
-#EXTINF:75,A&E
+#EXTINF:75 tvg-logo="" ,A&E
 http://tvnox.sytes.net:7781/udp://@239.0.4.56:5501
 
-#EXTINF:76,GoldenEdge
+#EXTINF:76 tvg-logo="" ,GoldenEdge
 http://tvnox.sytes.net:7781/udp://@239.0.4.184:5501
 
-#EXTINF:77,DePelicula
+#EXTINF:77 tvg-logo="" ,DePelicula
 http://tvnox.sytes.net:7781/udp://@239.0.4.183:5501
 
-#EXTINF:78,AdultSwim
+#EXTINF:78 tvg-logo="" ,AdultSwim
 http://tvnox.sytes.net:7781/udp://@239.0.4.72:5501
 
 #EXTINF:79,BitME
