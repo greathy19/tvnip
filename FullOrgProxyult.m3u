@@ -369,7 +369,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.40.248:5501
 
 
 
-#EXTINF:247 tvg-logo="" ,ClasicTodo
+#EXTINF:247 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg" ,ClasicTodo
 http://tvnox.sytes.net:7781/udp://@239.0.42.90:5501
 
 #EXTINF:248,Opera Plus
