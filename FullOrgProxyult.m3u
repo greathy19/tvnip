@@ -302,37 +302,37 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.70:5501
 #EXTINF:102 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZC3izLLmR7VCZ77tfLNGAHjml1Qywnf9YA&s" ,Caracol Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.71:5501
 
-#EXTINF:103 tvg-logo="" ,TL Novelas
+#EXTINF:103 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,TL Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.181:5501
 
-#EXTINF:104 tvg-logo="" ,TNT Novelas
+#EXTINF:104 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/608px-Logo_TNT_Novelas.png" ,TNT Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.80:5501
 
-#EXTINF:105 tvg-logo="" ,Kanal D Drama
+#EXTINF:105 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4-GvX6A8xuYZzZuZpEaXy-j7I5ysWjwJmQ&s" ,Kanal D Drama
 http://tvnox.sytes.net:7781/udp://@239.0.4.152:5501
 
-#EXTINF:106 tvg-logo="" ,Telemundo
+#EXTINF:106 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPgSfDvx0Gvda5y3t75TJfQCXXSyvLND1wA&s" ,Telemundo
 http://tvnox.sytes.net:7781/udp://@239.0.4.186:5501
 
-#EXTINF:107 tvg-logo="" ,Show Busines
+#EXTINF:107 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTon79kXxMTfu5DSXs3tczF0BLMeO-f_fN1zA&s" ,Show Business
 http://tvnox.sytes.net:7781/udp://@239.0.4.73:5501
 
-#EXTINF:108 tvg-logo="" ,Gourmet
+#EXTINF:108 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" ,Gourmet
 http://tvnox.sytes.net:7781/udp://@239.0.4.75:5501
 
-#EXTINF:109 tvg-logo="" ,FoodNet
+#EXTINF:109 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" ,FoodNet
 http://tvnox.sytes.net:7781/udp://@239.0.4.81:5501
 
-#EXTINF:110 tvg-logo="" ,Alacocina
+#EXTINF:110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrs907o4EhxxdXwPcAxsChsJi1K27rC5crw&s" ,Alacocina
 http://tvnox.sytes.net:7781/udp://@239.0.4.171:5501
 
-#EXTINF:111 tvg-logo="" ,Zoom
+#EXTINF:111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KCE_cxh-scoj7yJDyJuJEi8Fr8AufxPUuwWZ_8dMYrtmb-M8S10W-a-YKQp_SEYVbR8&usqp=CAU" ,Zoom
 http://tvnox.sytes.net:7781/udp://@239.0.4.110:5501
 
-#EXTINF:112 tvg-logo="" ,TVE
+#EXTINF:112 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1280px-TVE.svg.png" ,TVE
 http://tvnox.sytes.net:7781/udp://@239.0.4.113:5501
 
-#EXTINF:113 tvg-logo="" ,Antena 3
+#EXTINF:113 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" ,Antena 3
 http://tvnox.sytes.net:7781/udp://@239.0.4.114:5501
 
 #EXTINF:114 tvg-logo="" ,TV 5
@@ -356,10 +356,10 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.140:5501
 #EXTINF:120 tvg-logo="" ,VePlusTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.144:5501
 
-#EXTINF:121 tvg-logo="" ,Univision
+#EXTINF:121 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg" ,Univision
 http://tvnox.sytes.net:7781/udp://@239.0.4.190:5501
 
-#EXTINF:122 tvg-logo="" ,France24
+#EXTINF:122 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" ,France24
 http://tvnox.sytes.net:7781/udp://@239.0.4.147:5501
 
 
