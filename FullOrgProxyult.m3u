@@ -230,22 +230,22 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.183:5501
 #EXTINF:78 tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo-2002.png" ,AdultSwim
 http://tvnox.sytes.net:7781/udp://@239.0.4.72:5501
 
-#EXTINF:79 tvg-logo="" ,BitME
+#EXTINF:79 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxv9xffsMhT7qrJ9vj8sz4PGFrQfjKqidJHw&s" ,BitME
 http://tvnox.sytes.net:7781/udp://@239.0.4.182:5501
 
-#EXTINF:80 tvg-logo="" ,USANET
+#EXTINF:80 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/1200px-USA_Network_2025_logo.svg.png" ,USANET
 http://tvnox.sytes.net:7781/udp://@239.0.4.131:5501
 
-#EXTINF:81 tvg-logo="" ,Multipremier
+#EXTINF:81 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyAup7uZ-yoTlGgWE8gGwPyPOZGQwAQJhlg&s" ,Multipremier
 http://tvnox.sytes.net:7781/udp://@239.0.4.174:5501
 
-#EXTINF:82 tvg-logo="" ,TodoCine
+#EXTINF:82 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCPHrxQI1m2CoAZj13Q998vVFTAmxXcOQnWjqiTmv2Dm01HkdxOCA8edKSQ2otUItZjE&usqp=CAU" ,TodoCine
 http://tvnox.sytes.net:7781/udp://@239.0.4.175:5501
 
-#EXTINF:83 tvg-logo="" ,Cinema +
+#EXTINF:83 tvg-logo="https://logowik.com/content/uploads/images/cinema4354.logowik.com.webp" ,Cinema +
 http://tvnox.sytes.net:7781/udp://@239.0.4.145:5501
 
-#EXTINF:84  tvg-logo="" ,Comedy Central
+#EXTINF:84  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiwRJu00rXxfakwNlou6JbH9BBbRTNnOZVw&s" ,Comedy Central
 http://tvnox.sytes.net:7781/udp://@239.0.4.78:5501
 
 #EXTINF:85  tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" ,Distrito Comedia
@@ -263,16 +263,16 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.142:5501
 #EXTINF:89 tvg-logo="" ,EWTN
 http://tvnox.sytes.net:7781/udp://@239.0.4.58:5501
 
-#EXTINF:90 tvg-logo="" ,Teleamiga
+#EXTINF:90 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Teleamiga_2007.png/revision/latest?cb=20190807024544&path-prefix=es" ,Teleamiga
 http://tvnox.sytes.net:7781/udp://@239.0.4.139:5501
 
-#EXTINF:91, tvg-logo="" Cristovision
+#EXTINF:91 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_05/large.cristovision-logo-F1F91F837B-seeklogo_com.png.bfcb87f1ddba347e7a178bf34f99fbb3.png" ,Cristovision
 http://tvnox.sytes.net:7781/udp://@239.0.4.106:5501
 
-#EXTINF:92, tvg-logo="" LifeDesign
+#EXTINF:92 tvg-logo="" ,LifeDesign
 http://tvnox.sytes.net:7781/udp://@239.0.4.59:5501
 
-#EXTINF:93, tvg-logo="" MasCHIC
+#EXTINF:93 tvg-logo="" ,MasCHIC
 http://tvnox.sytes.net:7781/udp://@239.0.4.61:5501
 
 #EXTINF:94 tvg-logo="" ,Telehit
