@@ -251,10 +251,10 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.78:5501
 #EXTINF:85  tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" ,Distrito Comedia
 http://tvnox.sytes.net:7781/udp://@239.0.4.185:5501
 
-#EXTINF:86 tvg-logo="" ,Eurochannel
+#EXTINF:86 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zRgO6ETWKHwvznb3ESZJEEXMVVx6QXW2JQ&s" ,Eurochannel
 http://tvnox.sytes.net:7781/udp://@239.0.4.48:5501
 
-#EXTINF:87 tvg-logo="" ,Tele VID
+#EXTINF:87 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" ,Tele VID
 http://tvnox.sytes.net:7781/udp://@239.0.4.57:5501
 
 #EXTINF:88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8S8G5qLY50y9_PLnoK60Y7HPipYqjOgWhJTgUFdsyfna-sMF3lpAkpDMkIceUKf7_ZY&usqp=CAU" ,Enlace
@@ -269,16 +269,16 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.139:5501
 #EXTINF:91 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_05/large.cristovision-logo-F1F91F837B-seeklogo_com.png.bfcb87f1ddba347e7a178bf34f99fbb3.png" ,Cristovision
 http://tvnox.sytes.net:7781/udp://@239.0.4.106:5501
 
-#EXTINF:92 tvg-logo="" ,LifeDesign
+#EXTINF:92 tvg-logo="https://daystar.com/hs-fs/hubfs/Daystar%20Logos/Daystar-star-blue.png?width=685&height=733&name=Daystar-star-blue.png" ,Day Star
 http://tvnox.sytes.net:7781/udp://@239.0.4.59:5501
 
-#EXTINF:93 tvg-logo="" ,MasCHIC
+#EXTINF:93 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_19439.png.971642e732049e39ad6873b810a7b962.png" ,MasCHIC
 http://tvnox.sytes.net:7781/udp://@239.0.4.61:5501
 
-#EXTINF:94 tvg-logo="" ,Telehit
+#EXTINF:94 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/S73070_h3_aa.png/revision/latest/scale-to-width-down/200?cb=20201011144730" ,Telehit Plus
 http://tvnox.sytes.net:7781/udp://@239.0.4.189:5501
 
-#EXTINF:95 tvg-logo="" ,TelehitUrb
+#EXTINF:95 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" ,Telehit 
 http://tvnox.sytes.net:7781/udp://@239.0.4.188:5501
 
 #EXTINF:96 tvg-logo="" ,MTV Hits
