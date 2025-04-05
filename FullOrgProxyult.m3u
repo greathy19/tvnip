@@ -165,7 +165,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.66:5501
 http://tvnox.sytes.net:7781/udp://@239.0.4.38:5501
 
 #EXTINF:57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" ,Lifetime
-http://tvnox.sytes.net:7781/udp://@239.0.4.132:5501
+http://tvnox.sytes.net:7781/udp://@239.0.4.119:5501
 
 #EXTINF:58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" ,TNT Series
 http://tvnox.sytes.net:7781/udp://@239.0.4.36:5501
@@ -342,7 +342,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.115:5501
 http://tvnox.sytes.net:7781/udp://@239.0.4.116:5501
 
 #EXTINF:116 tvg-logo="" ,WOBI
-http://tvnox.sytes.net:7781/udp://@239.0.4.119:5501
+http://tvnox.sytes.net:7781/udp://@239.0.4.132:5501
 
 #EXTINF:117 tvg-logo="" ,Mi gente
 http://tvnox.sytes.net:7781/udp://@239.0.4.120:5501
