@@ -344,16 +344,16 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.116:5501
 #EXTINF:116 tvg-logo="" ,WOBI
 http://tvnox.sytes.net:7781/udp://@239.0.4.132:5501
 
-#EXTINF:117 tvg-logo="" ,Mi gente
+#EXTINF:117 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwb96LeXVo5GaryM8oSKSnctnucxsFpbSCSnJ9yS9OEsjSpx1Yg7cYEAlwX94C2VktuiI&usqp=CAU" ,Mi gente
 http://tvnox.sytes.net:7781/udp://@239.0.4.120:5501
 
-#EXTINF:118 tvg-logo="" ,Eltrece
+#EXTINF:118 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XboHUZXh9vHSKdoMMqkTc_4im8aC-CzUrQ&s" ,Eltrece
 http://tvnox.sytes.net:7781/udp://@239.0.4.121:5501
 
-#EXTINF:119 tvg-logo="" ,CanalTR3CE
+#EXTINF:119 tvg-logo="https://pbs.twimg.com/profile_images/1608719200914219009/Mc9UPcjD_400x400.jpg" ,TRECE
 http://tvnox.sytes.net:7781/udp://@239.0.4.140:5501
 
-#EXTINF:120 tvg-logo="" ,VePlusTV
+#EXTINF:120 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png" ,VePlusTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.144:5501
 
 #EXTINF:121 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg" ,Univision
