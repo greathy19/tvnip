@@ -338,10 +338,10 @@ http://192.168.5.239:7781/udp://@239.0.4.114:5501
 #EXTINF:114 tvg-logo="" ,TV 5
 http://192.168.5.239:7781/udp://@239.0.4.115:5501
 
-#EXTINF:115 tvg-logo="" ,DW Latin
+#EXTINF:115 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" ,DW Latin
 http://192.168.5.239:7781/udp://@239.0.4.116:5501
 
-#EXTINF:116 tvg-logo="" ,WOBI
+#EXTINF:116 tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" ,DBike Channel
 http://192.168.5.239:7781/udp://@239.0.4.132:5501
 
 #EXTINF:117 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwb96LeXVo5GaryM8oSKSnctnucxsFpbSCSnJ9yS9OEsjSpx1Yg7cYEAlwX94C2VktuiI&usqp=CAU" ,Mi gente
@@ -356,7 +356,7 @@ http://192.168.5.239:7781/udp://@239.0.4.140:5501
 #EXTINF:120 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png" ,VePlusTV
 http://192.168.5.239:7781/udp://@239.0.4.144:5501
 
-#EXTINF:121 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg" ,Univision
+#EXTINF:121 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Univision_logo.png/640px-Univision_logo.png" ,Univision
 http://192.168.5.239:7781/udp://@239.0.4.190:5501
 
 #EXTINF:122 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" ,France24
