@@ -230,146 +230,146 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.183:5501
 #EXTINF:78 tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo-2002.png" ,AdultSwim
 http://tvnox.sytes.net:7781/udp://@239.0.4.72:5501
 
-#EXTINF:79,BitME
+#EXTINF:79 tvg-logo="" ,BitME
 http://tvnox.sytes.net:7781/udp://@239.0.4.182:5501
 
-#EXTINF:80,USANET
+#EXTINF:80 tvg-logo="" ,USANET
 http://tvnox.sytes.net:7781/udp://@239.0.4.131:5501
 
-#EXTINF:81,Multipremier
+#EXTINF:81 tvg-logo="" ,Multipremier
 http://tvnox.sytes.net:7781/udp://@239.0.4.174:5501
 
-#EXTINF:82,TodoCine
+#EXTINF:82 tvg-logo="" ,TodoCine
 http://tvnox.sytes.net:7781/udp://@239.0.4.175:5501
 
-#EXTINF:83,Cinema +
+#EXTINF:83 tvg-logo="" ,Cinema +
 http://tvnox.sytes.net:7781/udp://@239.0.4.145:5501
 
-#EXTINF:84,Comedy Central
+#EXTINF:84  tvg-logo="" ,Comedy Central
 http://tvnox.sytes.net:7781/udp://@239.0.4.78:5501
 
-#EXTINF:85,Distrito Comedia
+#EXTINF:85  tvg-logo="" ,Distrito Comedia
 http://tvnox.sytes.net:7781/udp://@239.0.4.185:5501
 
-#EXTINF:86,Eurochanne
+#EXTINF:86 tvg-logo="" ,Eurochanne
 http://tvnox.sytes.net:7781/udp://@239.0.4.48:5501
 
-#EXTINF:87,Tele VID
+#EXTINF:87 tvg-logo="" ,Tele VID
 http://tvnox.sytes.net:7781/udp://@239.0.4.57:5501
 
-#EXTINF:88,Enlace
+#EXTINF:88 tvg-logo="" ,Enlace
 http://tvnox.sytes.net:7781/udp://@239.0.4.142:5501
 
-#EXTINF:89,EWTN
+#EXTINF:89 tvg-logo="" ,EWTN
 http://tvnox.sytes.net:7781/udp://@239.0.4.58:5501
 
-#EXTINF:90,Teleamiga
+#EXTINF:90 tvg-logo="" ,Teleamiga
 http://tvnox.sytes.net:7781/udp://@239.0.4.139:5501
 
-#EXTINF:91,Cristovision
+#EXTINF:91, tvg-logo="" Cristovision
 http://tvnox.sytes.net:7781/udp://@239.0.4.106:5501
 
-#EXTINF:92,LifeDesign
+#EXTINF:92, tvg-logo="" LifeDesign
 http://tvnox.sytes.net:7781/udp://@239.0.4.59:5501
 
-#EXTINF:93,MasCHIC
+#EXTINF:93, tvg-logo="" MasCHIC
 http://tvnox.sytes.net:7781/udp://@239.0.4.61:5501
 
-#EXTINF:94,Telehit
+#EXTINF:94 tvg-logo="" ,Telehit
 http://tvnox.sytes.net:7781/udp://@239.0.4.189:5501
 
-#EXTINF:95,TelehitUrb
+#EXTINF:95 tvg-logo="" ,TelehitUrb
 http://tvnox.sytes.net:7781/udp://@239.0.4.188:5501
 
-#EXTINF:96,MTV Hits
+#EXTINF:96 tvg-logo="" ,MTV Hits
 http://tvnox.sytes.net:7781/udp://@239.0.4.63:5501
 
-#EXTINF:97,MTV 80s
+#EXTINF:97 tvg-logo="" ,MTV 80s
 http://tvnox.sytes.net:7781/udp://@239.0.4.65:5501
 
-#EXTINF:98,MTV
+#EXTINF:98 tvg-logo="" ,MTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.77:5501
 
-#EXTINF:99,HTV
+#EXTINF:99 tvg-logo="" ,HTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.79:5501
 
-#EXTINF:100,Las Estrellas
+#EXTINF:100 tvg-logo="" ,Las Estrellas
 http://tvnox.sytes.net:7781/udp://@239.0.4.62:5501
 
-#EXTINF:101,RCN Novelas
+#EXTINF:101 tvg-logo="" ,RCN Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.70:5501
 
-#EXTINF:102,Caracol Novelas
+#EXTINF:102 tvg-logo="" ,Caracol Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.71:5501
 
-#EXTINF:103,TL Novelas
+#EXTINF:103 tvg-logo="" ,TL Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.181:5501
 
-#EXTINF:104,TNT Novelas
+#EXTINF:104 tvg-logo="" ,TNT Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.80:5501
 
-#EXTINF:105,Kanal D Drama
+#EXTINF:105 tvg-logo="" ,Kanal D Drama
 http://tvnox.sytes.net:7781/udp://@239.0.4.152:5501
 
-#EXTINF:106,Telemundo
+#EXTINF:106 tvg-logo="" ,Telemundo
 http://tvnox.sytes.net:7781/udp://@239.0.4.186:5501
 
-#EXTINF:107,Show Busines
+#EXTINF:107 tvg-logo="" ,Show Busines
 http://tvnox.sytes.net:7781/udp://@239.0.4.73:5501
 
-#EXTINF:108,Gourmet
+#EXTINF:108 tvg-logo="" ,Gourmet
 http://tvnox.sytes.net:7781/udp://@239.0.4.75:5501
 
-#EXTINF:109,FoodNet
+#EXTINF:109 tvg-logo="" ,FoodNet
 http://tvnox.sytes.net:7781/udp://@239.0.4.81:5501
 
-#EXTINF:110,Alacocina
+#EXTINF:110 tvg-logo="" ,Alacocina
 http://tvnox.sytes.net:7781/udp://@239.0.4.171:5501
 
-#EXTINF:111,Zoom
+#EXTINF:111 tvg-logo="" ,Zoom
 http://tvnox.sytes.net:7781/udp://@239.0.4.110:5501
 
-#EXTINF:112,TVE
+#EXTINF:112 tvg-logo="" ,TVE
 http://tvnox.sytes.net:7781/udp://@239.0.4.113:5501
 
-#EXTINF:113,Antena 3
+#EXTINF:113 tvg-logo="" ,Antena 3
 http://tvnox.sytes.net:7781/udp://@239.0.4.114:5501
 
-#EXTINF:114,TV 5
+#EXTINF:114 tvg-logo="" ,TV 5
 http://tvnox.sytes.net:7781/udp://@239.0.4.115:5501
 
-#EXTINF:115,DW Latin
+#EXTINF:115 tvg-logo="" ,DW Latin
 http://tvnox.sytes.net:7781/udp://@239.0.4.116:5501
 
-#EXTINF:116,WOBI
+#EXTINF:116 tvg-logo="" ,WOBI
 http://tvnox.sytes.net:7781/udp://@239.0.4.119:5501
 
-#EXTINF:117,Mi gente
+#EXTINF:117 tvg-logo="" ,Mi gente
 http://tvnox.sytes.net:7781/udp://@239.0.4.120:5501
 
-#EXTINF:118,Eltrece
+#EXTINF:118 tvg-logo="" ,Eltrece
 http://tvnox.sytes.net:7781/udp://@239.0.4.121:5501
 
-#EXTINF:119,CanalTR3CE
+#EXTINF:119 tvg-logo="" ,CanalTR3CE
 http://tvnox.sytes.net:7781/udp://@239.0.4.140:5501
 
-#EXTINF:120,VePlusTV
+#EXTINF:120 tvg-logo="" ,VePlusTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.144:5501
 
-#EXTINF:121,Univision
+#EXTINF:121 tvg-logo="" ,Univision
 http://tvnox.sytes.net:7781/udp://@239.0.4.190:5501
 
-#EXTINF:122,France24
+#EXTINF:122 tvg-logo="" ,France24
 http://tvnox.sytes.net:7781/udp://@239.0.4.147:5501
 
 
 
-#EXTINF:245,Playboy HD
+#EXTINF:245 tvg-logo="" ,Playboy HD
 http://tvnox.sytes.net:7781/udp://@239.0.40.248:5501
 
 
 
-#EXTINF:247,ClasicTodo
+#EXTINF:247 tvg-logo="" ,ClasicTodo
 http://tvnox.sytes.net:7781/udp://@239.0.42.90:5501
 
 #EXTINF:248,Opera Plus
