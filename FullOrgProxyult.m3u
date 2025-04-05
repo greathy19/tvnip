@@ -11,7 +11,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.4:5501
 #EXTINF:5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cuz19gFZJMf0mbjzCQ8gjhBltd-ufDn9Cu7sp9gTqto4t9Mckj_u7K28iFo2MLN2T2w&usqp=CAU" ,Teleantioquia
 http://tvnox.sytes.net:7781/udp://@239.0.4.5:5501
 
-#EXTINF:6 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/logo_parque_2020.png" ,TeleMedellin
+#EXTINF:6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/1200px-Logotipo_de_Telemedell%C3%ADn.png" ,TeleMedellin
 http://tvnox.sytes.net:7781/udp://@239.0.4.6:5501
 
 #EXTINF:7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Logo_Citytv_2023.jpg" ,City TV
@@ -47,7 +47,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.137:5501
 #EXTINF:17 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwNSHyfjlmBc9c1LOHxAZpyeTcfZxamh2ow&s" ,Senal Colombia
 http://tvnox.sytes.net:7781/udp://@239.0.4.24:5501
 
-#EXTINF:18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/RCN_NUESTRA_TELE.png" ,Nuestra Tele
+#EXTINF:18 tvg-logo="https://www.entretengo.com/wp-content/uploads/2014/01/RCN.jpg" ,Nuestra Tele
 http://tvnox.sytes.net:7781/udp://@239.0.4.108:5501
 
 #EXTINF:19 tvg-logo="https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/503-941_import.png" ,El Tiempo
