@@ -281,25 +281,25 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.189:5501
 #EXTINF:95 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" ,Telehit 
 http://tvnox.sytes.net:7781/udp://@239.0.4.188:5501
 
-#EXTINF:96 tvg-logo="" ,MTV Hits
+#EXTINF:96 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" ,MTV Hits
 http://tvnox.sytes.net:7781/udp://@239.0.4.63:5501
 
-#EXTINF:97 tvg-logo="" ,MTV 80s
+#EXTINF:97 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwiWgYOXi-NqVQCj5ZWJaFdbsRd_skLE4bKQ&s" ,MTV 80s
 http://tvnox.sytes.net:7781/udp://@239.0.4.65:5501
 
-#EXTINF:98 tvg-logo="" ,MTV
+#EXTINF:98 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_U22tLtuKo2OMgWzC8hpNMUNfWM19GGifA&s" ,MTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.77:5501
 
-#EXTINF:99 tvg-logo="" ,HTV
+#EXTINF:99 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFhdmTR08CcQhbkr2CktjEdr7vxYY8VUyGrg&s" ,HTV
 http://tvnox.sytes.net:7781/udp://@239.0.4.79:5501
 
-#EXTINF:100 tvg-logo="" ,Las Estrellas
+#EXTINF:100 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_1uiV6S5ffF-4UqqYg29YzjrU7X8ATWd9w&s" ,Las Estrellas
 http://tvnox.sytes.net:7781/udp://@239.0.4.62:5501
 
-#EXTINF:101 tvg-logo="" ,RCN Novelas
+#EXTINF:101 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQce8l9UoZkcE77O5uf5ss9z-oxqPJPJ0sg&s" ,RCN Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.70:5501
 
-#EXTINF:102 tvg-logo="" ,Caracol Novelas
+#EXTINF:102 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZC3izLLmR7VCZ77tfLNGAHjml1Qywnf9YA&s" ,Caracol Novelas
 http://tvnox.sytes.net:7781/udp://@239.0.4.71:5501
 
 #EXTINF:103 tvg-logo="" ,TL Novelas
