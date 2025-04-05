@@ -206,7 +206,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.50:5501
 #EXTINF:70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_nH0UexEIjf7nUuiu2AIIHbaS5d8kSuxZA&s" ,FX
 http://tvnox.sytes.net:7781/udp://@239.0.4.51:5501
 
-#EXTINF:71 tvg-logo="https://images.seeklogo.com/logo-png/17/2/axn-logo-png_seeklogo-178354.png" ,AXN
+#EXTINF:71 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" ,AXN
 http://tvnox.sytes.net:7781/udp://@239.0.4.53:5501
 
 #EXTINF:72 tvg-logo="" ,Sony
@@ -257,7 +257,7 @@ http://tvnox.sytes.net:7781/udp://@239.0.4.48:5501
 #EXTINF:87 tvg-logo="" ,Tele VID
 http://tvnox.sytes.net:7781/udp://@239.0.4.57:5501
 
-#EXTINF:88 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" ,Enlace
+#EXTINF:88 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8S8G5qLY50y9_PLnoK60Y7HPipYqjOgWhJTgUFdsyfna-sMF3lpAkpDMkIceUKf7_ZY&usqp=CAU" ,Enlace
 http://tvnox.sytes.net:7781/udp://@239.0.4.142:5501
 
 #EXTINF:89 tvg-logo="" ,EWTN
