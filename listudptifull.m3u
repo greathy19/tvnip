@@ -245,25 +245,25 @@ udp://@239.0.4.175:5501
 #EXTINF:83 tvg-logo="https://logowik.com/content/uploads/images/cinema4354.logowik.com.webp" ,Cinema +
 udp://@239.0.4.145:5501
 
-#EXTINF:213,HBO 
+#EXTINF:213 tvg-logo="" ,HBO 
 udp://@239.0.40.216:5501
 
-#EXTINF:214,HBO 2 
+#EXTINF:214 tvg-logo="" ,HBO 2 
 udp://@239.0.40.215:5501
 
-#EXTINF:215,HBO+ 
+#EXTINF:215 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" ,HBO+ 
 udp://@239.0.40.218:5501
 
-#EXTINF:216,HBO Xtreme 
+#EXTINF:216 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHn7osjaQxc0OjhwLrboIZXBa0yRzxM3j0EceX7Czo2kehZcwkbuC3C3_dPINm-UJS5cI&usqp=CAU" ,HBO Xtreme 
 udp://@239.0.40.222:5501
 
-#EXTINF:217,HBO Family 
+#EXTINF:217 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,HBO Family 
 udp://@239.0.40.220:5501
 
-#EXTINF:218,HBO Signature 
+#EXTINF:218 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHS7-UU6Ny1aS8uHREB-LTNaPgrLp4rs-VQGIo1iBk94DP-lswV8DOPctxfQhpw5p7LvU&usqp=CAU" ,HBO Signature 
 udp://@239.0.40.219:5501
 
-#EXTINF:219,HBO Pop 
+#EXTINF:219 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE85Nf5O6MW32QmlAefcNf6VXKx06JApnoSaMAFlO0EYjr2DK09BuaZmWCczvGuK5BUDg&usqp=CAU" ,HBO Pop 
 udp://@239.0.40.224:5501
 
 
