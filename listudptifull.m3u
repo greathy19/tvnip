@@ -245,6 +245,28 @@ udp://@239.0.4.175:5501
 #EXTINF:83 tvg-logo="https://logowik.com/content/uploads/images/cinema4354.logowik.com.webp" ,Cinema +
 udp://@239.0.4.145:5501
 
+#EXTINF:213,HBO 
+udp://@239.0.40.216:5501
+
+#EXTINF:214,HBO 2 
+udp://@239.0.40.215:5501
+
+#EXTINF:215,HBO+ 
+udp://@239.0.40.218:5501
+
+#EXTINF:216,HBO Xtreme 
+udp://@239.0.40.222:5501
+
+#EXTINF:217,HBO Family 
+udp://@239.0.40.220:5501
+
+#EXTINF:218,HBO Signature 
+udp://@239.0.40.219:5501
+
+#EXTINF:219,HBO Pop 
+udp://@239.0.40.224:5501
+
+
 #EXTINF:84  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiwRJu00rXxfakwNlou6JbH9BBbRTNnOZVw&s" ,Comedy Central
 udp://@239.0.4.78:5501
 
@@ -698,12 +720,14 @@ udp://@239.0.42.251:5501
 
 #EXTINF:245 tvg-logo="" ,Playboy 
 udp://@239.0.40.245:5501
-#EXTINF:245 tvg-logo="" ,Venus
-udp://@239.0.40.246:5501
 #EXTINF:245 tvg-logo="" ,Penthouse
+udp://@239.0.40.246:5501
+#EXTINF:245 tvg-logo="" ,Venus
 udp://@239.0.40.247:5501
 #EXTINF:245 tvg-logo="" ,Playboy HD
 udp://@239.0.40.248:5501
+#EXTINF:245 tvg-logo="" ,SexyHot HD
+udp://@239.0.42.150:5501
 
 
 
