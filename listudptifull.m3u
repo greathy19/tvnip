@@ -266,6 +266,9 @@ udp://@239.0.40.219:5501
 #EXTINF:219 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE85Nf5O6MW32QmlAefcNf6VXKx06JApnoSaMAFlO0EYjr2DK09BuaZmWCczvGuK5BUDg&usqp=CAU" ,HBO Pop 
 udp://@239.0.40.224:5501
 
+#EXTINF:213 tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Mundi-.png" ,HBO Mundi
+udp://@239.0.40.223:5501
+
 
 #EXTINF:84  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiwRJu00rXxfakwNlou6JbH9BBbRTNnOZVw&s" ,Comedy Central
 udp://@239.0.4.78:5501
