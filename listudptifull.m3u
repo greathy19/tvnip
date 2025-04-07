@@ -548,7 +548,7 @@ udp://@239.0.4.223:5501
 #EXTINF:193,FX HD
 udp://@239.0.4.224:5501
 
-#EXTINF:194,SonyMovHD
+#EXTINF:194,Sony Movies HD
 udp://@239.0.4.225:5501
 
 #EXTINF:195,StudioUniversal HD
@@ -557,7 +557,7 @@ udp://@239.0.42.32:5501
 #EXTINF:196,Comedy Central HD
 udp://@239.0.4.226:5501
 
-#EXTINF:197,USANETHD
+#EXTINF:197,USANET HD
 udp://@239.0.42.23:5501
 
 #EXTINF:201,SUN HD
@@ -583,6 +583,9 @@ udp://@239.0.42.4:5501
 
 #EXTINF:208,Film&ArtsHD
 udp://@239.0.42.11:5501
+
+#EXTINF:209,Universal Crime HD
+udp://@239.0.40.193:5501
 
 #EXTINF:209,Universal Comedy HD
 udp://@239.0.40.194:5501
