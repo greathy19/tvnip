@@ -245,6 +245,30 @@ http://192.168.5.239:7781/udp://@239.0.4.175:5501
 #EXTINF:83 tvg-logo="https://logowik.com/content/uploads/images/cinema4354.logowik.com.webp" ,Cinema +
 http://192.168.5.239:7781/udp://@239.0.4.145:5501
 
+#EXTINF:213 tvg-logo="" ,HBO 
+http://192.168.5.239:7781/udp://@239.0.40.216:5501
+
+#EXTINF:214 tvg-logo="" ,HBO 2 
+http://192.168.5.239:7781/udp://@239.0.40.215:5501
+
+#EXTINF:215 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" ,HBO+ 
+http://192.168.5.239:7781/udp://@239.0.40.218:5501
+
+#EXTINF:216 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHn7osjaQxc0OjhwLrboIZXBa0yRzxM3j0EceX7Czo2kehZcwkbuC3C3_dPINm-UJS5cI&usqp=CAU" ,HBO Xtreme 
+http://192.168.5.239:7781/udp://@239.0.40.222:5501
+
+#EXTINF:217 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,HBO Family 
+http://192.168.5.239:7781/udp://@239.0.40.220:5501
+
+#EXTINF:218 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHS7-UU6Ny1aS8uHREB-LTNaPgrLp4rs-VQGIo1iBk94DP-lswV8DOPctxfQhpw5p7LvU&usqp=CAU" ,HBO Signature 
+http://192.168.5.239:7781/udp://@239.0.40.219:5501
+
+#EXTINF:219 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE85Nf5O6MW32QmlAefcNf6VXKx06JApnoSaMAFlO0EYjr2DK09BuaZmWCczvGuK5BUDg&usqp=CAU" ,HBO Pop 
+http://192.168.5.239:7781/udp://@239.0.40.224:5501
+
+#EXTINF:213 tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Mundi-.png" ,HBO Mundi
+http://192.168.5.239:7781/udp://@239.0.40.223:5501
+
 #EXTINF:84  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiwRJu00rXxfakwNlou6JbH9BBbRTNnOZVw&s" ,Comedy Central
 http://192.168.5.239:7781/udp://@239.0.4.78:5501
 
