@@ -696,6 +696,12 @@ udp://@239.0.42.37:5501
 udp://@239.0.42.251:5501
 
 
+#EXTINF:245 tvg-logo="" ,Playboy 
+udp://@239.0.40.245:5501
+#EXTINF:245 tvg-logo="" ,Venus
+udp://@239.0.40.246:5501
+#EXTINF:245 tvg-logo="" ,Penthouse
+udp://@239.0.40.247:5501
 #EXTINF:245 tvg-logo="" ,Playboy HD
 udp://@239.0.40.248:5501
 
