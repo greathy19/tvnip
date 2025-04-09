@@ -393,10 +393,10 @@ udp://@239.0.4.212:5501
 #EXTINF:124 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" ,RCN HD
 udp://@239.0.4.211:5501
 
-#EXTINF:125 tvg-logo="" ,Canal1 HD
+#EXTINF:125 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_05/large.364-3646927_canal-uno-colombia-hd-2017-channel-1.png.0d9bb389c37109d2fb366ec07468f6d3.png" ,Canal1 HD
 udp://@239.0.4.249:5501
 
-#EXTINF:126 tvg-logo="" ,Teleantioquia  HD
+#EXTINF:126 tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQFhqWbSBWM0Vw/company-logo_200_200/company-logo_200_200/0/1713275213474/teleantioquia_ta_logo?e=2147483647&v=beta&t=nwFfKvcX7rpES5B3w9k_A_B07nwa04e48hEUKRoBgJI" ,Teleantioquia HD
 udp://@239.0.4.242:5501
 
 #EXTINF:127 tvg-logo="" ,TeleMedellin HD
