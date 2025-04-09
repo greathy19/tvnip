@@ -387,184 +387,184 @@ udp://@239.0.4.190:5501
 #EXTINF:122 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" ,France24
 udp://@239.0.4.147:5501
 #EXTM3U
-#EXTINF:123,Caracol HD
+#EXTINF:123 tvg-logo="" ,Caracol HD
 udp://@239.0.4.212:5501
 
-#EXTINF:124,RCN HD
+#EXTINF:124 tvg-logo="" ,RCN HD
 udp://@239.0.4.211:5501
 
-#EXTINF:125,Canal1 HD
+#EXTINF:125 tvg-logo="" ,Canal1 HD
 udp://@239.0.4.249:5501
 
-#EXTINF:126,Teleantioquia  HD
+#EXTINF:126 tvg-logo="" ,Teleantioquia  HD
 udp://@239.0.4.242:5501
 
-#EXTINF:127,TeleMedellin HD
+#EXTINF:127 tvg-logo="" ,TeleMedellin HD
 udp://@239.0.40.144:5501
 
-#EXTINF:128,Senal Colombia HD
+#EXTINF:128 tvg-logo="" ,Senal Colombia HD
 udp://@239.0.4.250:5501
 
-#EXTINF:129,Canal Institucional HD
+#EXTINF:129 tvg-logo="" ,Canal Institucional HD
 udp://@239.0.4.251:5501
 
-#EXTINF:130,Cosmovision HD
+#EXTINF:130 tvg-logo="" ,Cosmovision HD
 udp://@239.0.4.94:5501
 
-#EXTINF:131,UC Colombia (UC12)
+#EXTINF:131 tvg-logo="" ,UC Colombia (UC12)
 udp://@239.0.4.207:5501
 
-#EXTINF:132,Theater HD
+#EXTINF:132 tvg-logo="" ,Theater HD
 udp://@239.0.4.201:5501
 
-#EXTINF:133,World HD
+#EXTINF:133 tvg-logo="" ,World HD
 udp://@239.0.4.231:5501
 
-#EXTINF:134,DiscoveryHD
+#EXTINF:134 tvg-logo="" ,DiscoveryHD
 udp://@239.0.42.12:5501
 
-#EXTINF:135,Science HD
+#EXTINF:135 tvg-logo="" ,Science HD
 udp://@239.0.42.24:5501
 
-#EXTINF:136,Turbo HD
+#EXTINF:136 tvg-logo="" ,Turbo HD
 udp://@239.0.42.7:5501
 
-#EXTINF:137,H&H HD
+#EXTINF:137 tvg-logo="" ,H&H HD
 udp://@239.0.4.240:5501
 
-#EXTINF:138,ID HD
+#EXTINF:138 tvg-logo="" ,ID HD
 udp://@239.0.4.241:5501
 
-#EXTINF:139,TLC HD
+#EXTINF:139 tvg-logo="" ,TLC HD
 udp://@239.0.42.34:5501
 
-#EXTINF:140,Hola TV HD
+#EXTINF:140 tvg-logo="" ,Hola TV HD
 udp://@239.0.4.93:5501
 
-#EXTINF:141,NatGeo HD
+#EXTINF:141 tvg-logo="" ,NatGeo HD
 udp://@239.0.42.255:5501
 
-#EXTINF:142,CuriosityHD
+#EXTINF:142 tvg-logo="" ,CuriosityHD
 udp://@239.0.42.27:5501
 
-#EXTINF:143,History HD
+#EXTINF:143 tvg-logo="" ,History HD
 udp://@239.0.4.208:5501
 
-#EXTINF:144,H2 HD
+#EXTINF:144 tvg-logo="" ,H2 HD
 udp://@239.0.42.26:5501
 
-#EXTINF:145,Love Nature HD
+#EXTINF:145 tvg-logo="" ,Love Nature HD
 udp://@239.0.4.179:5501
 
-#EXTINF:146,Animal Planet HD
+#EXTINF:146 tvg-logo="" ,Animal Planet HD
 udp://@239.0.42.29:5501
 
-#EXTINF:147,LifeTime HD
+#EXTINF:147 tvg-logo="" ,LifeTime HD
 udp://@239.0.42.18:5501
 
-#EXTINF:148,E! Entertainment HD
+#EXTINF:148 tvg-logo="" ,E! Entertainment HD
 udp://@239.0.42.21:5501
 
-#EXTINF:149,HGTV HD
+#EXTINF:149 tvg-logo="" ,HGTV HD
 udp://@239.0.42.6:5501
 
-#EXTINF:150,MasCHIC HD
+#EXTINF:150 tvg-logo="" ,MasCHIC HD
 udp://@239.0.42.20:5501
 
-#EXTINF:151,Win Sports HD
+#EXTINF:151 tvg-logo="" ,Win Sports HD
 udp://@239.0.40.198:5501
 
-#EXTINF:152,Win Sports + HD
+#EXTINF:152 tvg-logo="" ,Win Sports + HD
 udp://@239.0.42.9:5501
 
-#EXTINF:153,ESPN HD
+#EXTINF:153 tvg-logo="" ,ESPN HD
 udp://@239.0.42.245:5501
 
-#EXTINF:154,ESPN 2 HD
+#EXTINF:154 tvg-logo="" ,ESPN 2 HD
 udp://@239.0.42.244:5501
 
-#EXTINF:155,ESPN 3 HD
+#EXTINF:155 tvg-logo="" ,ESPN 3 HD
 udp://@239.0.4.229:5501
 
-#EXTINF:156,ESPN 4 HD
+#EXTINF:156 tvg-logo="" ,ESPN 4 HD
 udp://@239.0.4.203:5501
 
-#EXTINF:157,ESPN 5 HD
+#EXTINF:157 tvg-logo="" ,ESPN 5 HD
 udp://@239.0.4.204:5501
 
-#EXTINF:158,ESPN 6 HD
+#EXTINF:158 tvg-logo="" ,ESPN 6 HD
 udp://@239.0.4.244:5501
 
-#EXTINF:159,ESPN 7 HD
+#EXTINF:159 tvg-logo="" ,ESPN 7 HD
 udp://@239.0.4.247:5501
 
-#EXTINF:160,PXSportsHD
+#EXTINF:160 tvg-logo="" ,PXSportsHD
 udp://@239.0.42.252:5501
 
-#EXTINF:161,Golf Latin
+#EXTINF:161 tvg-logo="" ,Golf Latin
 udp://@239.0.4.245:5501
 
-#EXTINF:162,TeleVid HD
+#EXTINF:162 tvg-logo="" ,TeleVid HD
 udp://@239.0.4.180:5501
 
-#EXTINF:163,TVFamilia HD
+#EXTINF:163 tvg-logo="" ,TVFamilia HD
 udp://@239.0.4.218:5501
 
-#EXTINF:164,Cartoon Network HD
+#EXTINF:164 tvg-logo="" ,Cartoon Network HD
 udp://@239.0.42.5:5501
 
-#EXTINF:165,Disney HD
+#EXTINF:165 tvg-logo="" ,Disney HD
 udp://@239.0.42.247:5501
 
-#EXTINF:166,DisneyJr HD
+#EXTINF:166 tvg-logo="" ,DisneyJr HD
 udp://@239.0.42.13:5501
 
-#EXTINF:167,Discovery Kids HD
+#EXTINF:167 tvg-logo="" ,Discovery Kids HD
 udp://@239.0.4.127:5501
 
-#EXTINF:168,DreamWorks HD
+#EXTINF:168 tvg-logo="" ,DreamWorks HD
 udp://@239.0.42.30:5501
 
-#EXTINF:169,Nick Jr HD
+#EXTINF:169 tvg-logo="" ,Nick Jr HD
 udp://@239.0.42.28:5501
 
-#EXTINF:170,Nickelodeon HD
+#EXTINF:170 tvg-logo="" ,Nickelodeon HD
 udp://@239.0.4.236:5501
 
-#EXTINF:171,Cartoonito HD
+#EXTINF:171 tvg-logo="" ,Cartoonito HD
 udp://@239.0.42.15:5501
 
-#EXTINF:172,ZooMoo HD
+#EXTINF:172 tvg-logo="" ,ZooMoo HD
 udp://@239.0.4.177:5501
 
-#EXTINF:173,Sony HD
+#EXTINF:173 tvg-logo="" ,Sony HD
 udp://@239.0.4.213:5501
 
-#EXTINF:174,Cinecanal HD
+#EXTINF:174 tvg-logo="" ,Cinecanal HD
 udp://@239.0.4.206:5501
 
-#EXTINF:175,Star Channel HD
+#EXTINF:175 tvg-logo="" ,Star Channel HD
 udp://@239.0.4.200:5501
 
-#EXTINF:176,A&E HD
+#EXTINF:176 tvg-logo="" ,A&E HD
 udp://@239.0.4.214:5501
 
-#EXTINF:177,Warner HD
+#EXTINF:177 tvg-logo="" ,Warner HD
 udp://@239.0.4.215:5501
 
-#EXTINF:179,AXN HD
+#EXTINF:179 tvg-logo="" ,AXN HD
 udp://@239.0.4.216:5501
 
-#EXTINF:180,TNT HD
+#EXTINF:180 tvg-logo="" ,TNT HD
 udp://@239.0.4.220:5501
 
-#EXTINF:181,Space HD
+#EXTINF:181 tvg-logo="" ,Space HD
 udp://@239.0.4.221:5501
 
-#EXTINF:182,AMC HD
+#EXTINF:182 tvg-logo="" ,AMC HD
 udp://@239.0.4.222:5501
 
-#EXTINF:191,DHE HD
+#EXTINF:191 tvg-logo="" ,DHE HD
 udp://@239.0.4.243:5501
 
 #EXTINF:192,Golden HD
