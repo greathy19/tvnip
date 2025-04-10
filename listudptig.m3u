@@ -386,9 +386,9 @@ udp://@239.0.4.147:5501
 
 #EXTINF:245 tvg-logo="" ,Playboy 
 udp://@239.0.40.245:5501
-#EXTINF:245 tvg-logo="" ,Penthouse
+#EXTINF:245 tvg-logo="https://cdn.mitvstatic.com/channels/ar_penthouse_m.png" ,Penthouse
 udp://@239.0.40.246:5501
-#EXTINF:245 tvg-logo="" ,Venus
+#EXTINF:245 tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" ,Venus
 udp://@239.0.40.247:5501
 
 
