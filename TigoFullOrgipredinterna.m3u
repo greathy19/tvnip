@@ -545,3 +545,6 @@ http://192.168.5.239:7781/udp://@239.0.42.138:5501
 
 #EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspa
 http://192.168.5.239:7781/udp://@239.0.42.137:5501
+
+#EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspañol
+http://192.168.5.239:22514/udp://@239.0.42.137:5501
