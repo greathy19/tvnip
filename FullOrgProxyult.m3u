@@ -342,4 +342,202 @@ http://tvnox1.sytes.net:7781/udp://@239.0.4.73:5501
 http://tvnox1.sytes.net:7781/udp://@239.0.4.75:5501
 
 #EXTINF:109 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" ,FoodNet
-http://tvno
+http://tvnox1.sytes.net:7781/udp://@239.0.4.81:5501
+
+#EXTINF:110 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRrs907o4EhxxdXwPcAxsChsJi1K27rC5crw&s" ,Alacocina
+http://tvnox1.sytes.net:7781/udp://@239.0.4.171:5501
+
+#EXTINF:111 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KCE_cxh-scoj7yJDyJuJEi8Fr8AufxPUuwWZ_8dMYrtmb-M8S10W-a-YKQp_SEYVbR8&usqp=CAU" ,Zoom
+http://tvnox1.sytes.net:7781/udp://@239.0.4.110:5501
+
+#EXTINF:112 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1280px-TVE.svg.png" ,TVE
+http://tvnox1.sytes.net:7781/udp://@239.0.4.113:5501
+
+#EXTINF:113 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Antena_3_2017.svg/revision/latest/scale-to-width-down/200?cb=20200307025520&path-prefix=es" ,Antena 3
+http://tvnox1.sytes.net:7781/udp://@239.0.4.114:5501
+
+#EXTINF:114 tvg-logo="" ,TV 5
+http://tvnox1.sytes.net:7781/udp://@239.0.4.115:5501
+
+#EXTINF:115 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" ,DW Latin
+http://tvnox1.sytes.net:7781/udp://@239.0.4.116:5501
+
+#EXTINF:116 tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" ,DBike Channel
+http://tvnox1.sytes.net:7781/udp://@239.0.4.132:5501
+
+#EXTINF:117 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwb96LeXVo5GaryM8oSKSnctnucxsFpbSCSnJ9yS9OEsjSpx1Yg7cYEAlwX94C2VktuiI&usqp=CAU" ,Mi gente
+http://tvnox1.sytes.net:7781/udp://@239.0.4.120:5501
+
+#EXTINF:118 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XboHUZXh9vHSKdoMMqkTc_4im8aC-CzUrQ&s" ,Eltrece
+http://tvnox1.sytes.net:7781/udp://@239.0.4.121:5501
+
+#EXTINF:119 tvg-logo="https://pbs.twimg.com/profile_images/1608719200914219009/Mc9UPcjD_400x400.jpg" ,TRECE
+http://tvnox1.sytes.net:7781/udp://@239.0.4.140:5501
+
+#EXTINF:120 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png" ,VePlusTV
+http://tvnox1.sytes.net:7781/udp://@239.0.4.144:5501
+
+#EXTINF:121 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Univision_logo.png/640px-Univision_logo.png" ,Univision
+http://tvnox1.sytes.net:7781/udp://@239.0.4.190:5501
+
+#EXTINF:122 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" ,France24
+http://tvnox1.sytes.net:7781/udp://@239.0.4.147:5501
+
+
+#EXTINF:245 tvg-logo="" ,Playboy 
+http://tvnox1.sytes.net:7781/udp://@239.0.40.245:5501
+#EXTINF:245 tvg-logo="https://cdn.mitvstatic.com/channels/ar_penthouse_m.png" ,Penthouse
+http://tvnox1.sytes.net:7781/udp://@239.0.40.246:5501
+#EXTINF:245 tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" ,Venus
+http://tvnox1.sytes.net:7781/udp://@239.0.40.247:5501
+
+
+#EXTINF:247 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg" ,ClasicTodo
+http://tvnox1.sytes.net:7781/udp://@239.0.42.90:5501
+
+#EXTINF:248 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Opera Plus
+http://tvnox1.sytes.net:7781/udp://@239.0.42.91:5501
+
+#EXTINF:249 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",MaestClasi
+http://tvnox1.sytes.net:7781/udp://@239.0.42.92:5501
+
+#EXTINF:250 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",SoloPeques
+http://tvnox1.sytes.net:7781/udp://@239.0.42.93:5501
+
+#EXTINF:251 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",New Age
+http://tvnox1.sytes.net:7781/udp://@239.0.42.94:5501
+
+#EXTINF:252 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",SalonChill
+http://tvnox1.sytes.net:7781/udp://@239.0.42.95:5501
+
+#EXTINF:253 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Cocktail
+http://tvnox1.sytes.net:7781/udp://@239.0.42.96:5501
+
+#EXTINF:254 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",MaestJazz
+http://tvnox1.sytes.net:7781/udp://@239.0.42.97:5501
+
+#EXTINF:255 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",JazzLatino
+http://tvnox1.sytes.net:7781/udp://@239.0.42.98:5501
+
+#EXTINF:256 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Blues
+http://tvnox1.sytes.net:7781/udp://@239.0.42.99:5501
+
+#EXTINF:257 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Big Band
+http://tvnox1.sytes.net:7781/udp://@239.0.42.100:5501
+
+#EXTINF:258 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",PopuBrasil
+http://tvnox1.sytes.net:7781/udp://@239.0.42.101:5501
+
+#EXTINF:259 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",ExitoBrasil
+http://tvnox1.sytes.net:7781/udp://@239.0.42.102:5501
+
+#EXTINF:260 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockBrasil
+http://tvnox1.sytes.net:7781/udp://@239.0.42.103:5501
+
+#EXTINF:261 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Del Mundo
+http://tvnox1.sytes.net:7781/udp://@239.0.42.104:5501
+
+#EXTINF:262 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",LatinLounge
+http://tvnox1.sytes.net:7781/udp://@239.0.42.105:5501
+
+#EXTINF:263 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Euro Hits
+http://tvnox1.sytes.net:7781/udp://@239.0.42.106:5501
+
+#EXTINF:264 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Tropical
+http://tvnox1.sytes.net:7781/udp://@239.0.42.107:5501
+
+#EXTINF:265 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Reggaeton
+http://tvnox1.sytes.net:7781/udp://@239.0.42.108:5501
+
+#EXTINF:266 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Jammin
+http://tvnox1.sytes.net:7781/udp://@239.0.42.109:5501
+
+#EXTINF:267 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Pop Latino
+http://tvnox1.sytes.net:7781/udp://@239.0.42.110:5501
+
+#EXTINF:268 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",SalsaMereng
+http://tvnox1.sytes.net:7781/udp://@239.0.42.111:5501
+
+#EXTINF:269 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Dancehall
+http://tvnox1.sytes.net:7781/udp://@239.0.42.112:5501
+
+#EXTINF:270 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",VivaMexico
+http://tvnox1.sytes.net:7781/udp://@239.0.42.113:5501
+
+#EXTINF:271 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Tango
+http://tvnox1.sytes.net:7781/udp://@239.0.42.114:5501
+
+#EXTINF:272 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Samba
+http://tvnox1.sytes.net:7781/udp://@239.0.42.115:5501
+
+#EXTINF:273 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Mariachi
+http://tvnox1.sytes.net:7781/udp://@239.0.42.116:5501
+
+#EXTINF:274 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",70s
+http://tvnox1.sytes.net:7781/udp://@239.0.42.117:5501
+
+#EXTINF:275 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",80s
+http://tvnox1.sytes.net:7781/udp://@239.0.42.118:5501
+
+#EXTINF:276 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",90s
+http://tvnox1.sytes.net:7781/udp://@239.0.42.119:5501
+
+#EXTINF:277 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Pop Adulto
+http://tvnox1.sytes.net:7781/udp://@239.0.42.120:5501
+
+#EXTINF:278 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",ExitoItalia
+http://tvnox1.sytes.net:7781/udp://@239.0.42.121:5501
+
+#EXTINF:279 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Buenisimas
+http://tvnox1.sytes.net:7781/udp://@239.0.42.122:5501
+
+#EXTINF:280 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",De Amor
+http://tvnox1.sytes.net:7781/udp://@239.0.42.123:5501
+
+#EXTINF:281 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RnB&Soul
+http://tvnox1.sytes.net:7781/udp://@239.0.42.124:5501
+
+#EXTINF:282 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",DeAmericas
+http://tvnox1.sytes.net:7781/udp://@239.0.42.125:5501
+
+#EXTINF:283 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",MusicLigera
+http://tvnox1.sytes.net:7781/udp://@239.0.42.126:5501
+
+#EXTINF:284 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Club Baile
+http://tvnox1.sytes.net:7781/udp://@239.0.42.127:5501
+
+#EXTINF:285 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Dance
+http://tvnox1.sytes.net:7781/udp://@239.0.42.128:5501
+
+#EXTINF:286 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Rompepistas
+http://tvnox1.sytes.net:7781/udp://@239.0.42.129:5501
+
+#EXTINF:287 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RomanceLat
+http://tvnox1.sytes.net:7781/udp://@239.0.42.130:5501
+
+#EXTINF:288 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Popcorn
+http://tvnox1.sytes.net:7781/udp://@239.0.42.131:5501
+
+#EXTINF:289 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Recientes
+http://tvnox1.sytes.net:7781/udp://@239.0.42.132:5501
+
+#EXTINF:290 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",FiestaConti
+http://tvnox1.sytes.net:7781/udp://@239.0.42.133:5501
+
+#EXTINF:291 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Estandares
+http://tvnox1.sytes.net:7781/udp://@239.0.42.134:5501
+
+#EXTINF:292 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockAltern
+http://tvnox1.sytes.net:7781/udp://@239.0.42.135:5501
+
+#EXTINF:293 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Hard Rock
+http://tvnox1.sytes.net:7781/udp://@239.0.42.136:5501
+
+#EXTINF:294 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",ClasicIndie
+http://tvnox1.sytes.net:7781/udp://@239.0.42.139:5501
+
+#EXTINF:295 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",HimnosRock
+http://tvnox1.sytes.net:7781/udp://@239.0.42.138:5501
+
+#EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspañol
+http://tvnox1.sytes.net:7781/udp://@239.0.42.137:5501
