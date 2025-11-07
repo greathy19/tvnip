@@ -6,7 +6,7 @@ http://tvnoxnov.sytes.net:7781/udp://@239.0.4.7:5501
 http://tvnoxnov.sytes.net:7781/udp://@239.0.4.9:5501
 
 #EXTINF:4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Canal_1_colombia.png" ,Canal 1
-http:///udp://@239.0.4.4:5501
+http://tvnoxnov.sytes.net:7781/udp://@239.0.4.4:5501
 
 #EXTINF:5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cuz19gFZJMf0mbjzCQ8gjhBltd-ufDn9Cu7sp9gTqto4t9Mckj_u7K28iFo2MLN2T2w&usqp=CAU" ,Teleantioquia
 http://tvnoxnov.sytes.net:7781/udp://@239.0.4.5:5501
@@ -541,4 +541,5 @@ http://tvnoxnov.sytes.net:7781/udp://@239.0.42.138:5501
 
 #EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspañol
 http://tvnoxnov.sytes.net:7781/udp://@239.0.42.137:5501
+
 
