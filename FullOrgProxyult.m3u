@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:2  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es",Caracol1
+#EXTINF:2  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Caracol_2010.png/revision/latest?cb=20200209130634&path-prefix=es",Caracol
 http://tvnoxnov.sytes.net:7781/udp://@239.0.4.7:5501
 
 #EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_RCN_Televisi%C3%B3n.png/1200px-Logo_RCN_Televisi%C3%B3n.png" ,RCN
@@ -541,5 +541,6 @@ http://tvnoxnov.sytes.net:7781/udp://@239.0.42.138:5501
 
 #EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspañol
 http://tvnoxnov.sytes.net:7781/udp://@239.0.42.137:5501
+
 
 
