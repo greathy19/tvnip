@@ -224,6 +224,9 @@ http://192.168.5.239:7781/udp://@239.0.42.11:5501
 #EXTINF:209,Universal Comedy HD
 http://192.168.5.239:7781/udp://@239.0.40.194:5501
 
+#EXTINF:209,Universal Crime HD
+http://192.168.5.239:7781/udp://@239.0.40.193:5501
+
 #EXTINF:210,Universal Cine HD
 http://192.168.5.239:7781/udp://@239.0.40.195:5501
 
