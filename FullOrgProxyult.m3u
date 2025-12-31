@@ -505,7 +505,7 @@ http://tvnoxene.sytes.net:7781/udp://@239.0.42.124:5501
 #EXTINF:282 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",DeAmericas
 http://tvnoxene.sytes.net:7781/udp://@239.0.42.125:5501
 
-#EXTINF:283 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",MusicLigera
+#EXTINF:283 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Musica Ligera
 http://tvnoxene.sytes.net:7781/udp://@239.0.42.126:5501
 
 #EXTINF:284 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Club Baile
@@ -532,7 +532,7 @@ http://tvnoxene.sytes.net:7781/udp://@239.0.42.133:5501
 #EXTINF:291 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Estandares
 http://tvnoxene.sytes.net:7781/udp://@239.0.42.134:5501
 
-#EXTINF:292 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockAltern
+#EXTINF:292 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockAlternativi
 http://tvnoxene.sytes.net:7781/udp://@239.0.42.135:5501
 
 #EXTINF:293 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",Hard Rock
@@ -544,10 +544,5 @@ http://tvnoxene.sytes.net:7781/udp://@239.0.42.139:5501
 #EXTINF:295 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",HimnosRock
 http://tvnoxene.sytes.net:7781/udp://@239.0.42.138:5501
 
-#EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspa
+#EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockenEspañol
 http://tvnoxene.sytes.net:7781/udp://@239.0.42.137:5501
-
-#EXTINF:296 tvg-logo="https://thumbs.dreamstime.com/b/plantilla-de-dise%C3%B1o-logotipo-canal-m%C3%BAsica-con-fondo-blanco-212262683.jpg",RockEspañol
-http://tvnoxdic.sytes.net:7781/udp://@239.0.42.137:5501
-
-
